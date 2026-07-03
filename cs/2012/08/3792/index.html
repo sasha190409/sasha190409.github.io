@@ -1,0 +1,1330 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<title>
+		Counter-Strike: Global Offensive &raquo; Dnes začínají předobjednávky		</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />  
+		<link rel="stylesheet" href="https://blog.counter-strike.net/wp-content/themes/counterstrike_launch/twentytwenty.css" type="text/css" />  
+		<link rel="shortcut icon" href="https://blog.counter-strike.net/wp-content/themes/counterstrike_launch/favicon.ico" type="image/x-icon" />	
+		<link href="https://fonts.googleapis.com/css?family=Quantico&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Changa&display=swap&subset=arabic,latin-ext" rel="stylesheet">
+		<meta property="og:url" content="http://blog.counter-strike.net" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="Counter-Strike: Global Offensive" />
+		<meta property="og:description" content="Counter-Strike: Global Offensive (CS:GO) expands upon the team-based action gameplay that it pioneered when it launched in 1999." />
+		<meta property="og:image" content="http://media.steampowered.com/apps/csgo/blog/images/fb_image.png?v=6" />
+		<meta property="og:image:type" content="image/png" />
+
+		
+				
+
+						
+				<link rel="stylesheet" href="https://blog.counter-strike.net/wp-content/themes/counterstrike_launch/style.css?v=1051" type="text/css" media="screen,projection" /> 
+		
+		
+		<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>-->
+		<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+		<script src="/wp-content/themes/counterstrike_launch/js/jquery.event.move.js"></script>
+		<script src="/wp-content/themes/counterstrike_launch/js/jquery.twentytwenty.js"></script>
+		<script src="/wp-content/themes/counterstrike_launch/js/jquery.cycle.all.js"></script>
+		<script src="/wp-content/themes/counterstrike_launch/js/jquery.easing.1.3.js"></script>
+		
+		<script type="text/javascript">
+			$j=jQuery.noConflict();
+			$j(document).ready(function () { 
+				$j('#navigation li').hover(
+					function () {
+						$j('.dropdownItems', this).stop().fadeIn(200);
+			 
+					}, 
+					function () {
+						$j('.dropdownItems', this).stop().fadeOut(200);         
+					}
+				);
+			});
+		
+		// fading images on mouseover
+		$j(document).ready(function () {
+			$j('div.fade').hover(function() {
+				var fade = $j('> div', this);
+						
+				if (fade.is(':animated')) {
+					fade.stop().fadeTo(500, 1);
+				} 
+				else {
+			
+				  fade.fadeIn(500);
+				}
+			}, 
+			function () {
+				var fade = $j('> div', this);
+				if (fade.is(':animated')) {
+					fade.stop().fadeTo(500, 0);
+				} 
+				else {
+				  fade.fadeOut(500);
+				}
+			});
+		});
+		
+		var queryArgs = document.location.search.substring(1).split('&');
+		argsParsed = {};
+		for (i=0; i < queryArgs.length; i++)
+		{
+		    arg = unescape(queryArgs[i]);
+		    if (arg.indexOf('=') == -1)
+		    {
+		        argsParsed[arg.trim()] = true;
+		    }
+		    else
+		    {
+		        keyValuePair = arg.split('=');
+		        argsParsed[keyValuePair[0].trim()] = keyValuePair[1].trim();
+		    }
+		}
+		if ( argsParsed['clientview'] )
+		{
+			bForceClientView = true;
+		}
+		else
+		{
+			bForceClientView = false;
+		}
+
+		if ( argsParsed['perfectworld'] )
+		{
+			bForcePWView = true;
+		}
+		else
+		{
+			bForcePWView = false;
+		}
+
+
+
+		</script>
+	
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-33822635-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-33822635-7');
+</script>
+
+
+		<script>
+			// change view for client
+			$j(document).ready(function () { 
+				if ( bForceClientView || navigator.userAgent.toLowerCase().indexOf('csgo client') !== -1 )		
+				{		
+					document.getElementById('container').style.paddingTop = '0px';
+
+					var viewportWidth = $j(window).width();
+					var viewportHeight = $j(window).height();
+					var strSize = viewportWidth+"px "+viewportHeight+"px";
+					$j('body').css( { backgroundColor:"#1e1f23", backgroundSize: "100% 100%",  backgroundRepeat:"no-repeat", backgroundAttachment:"fixed", } );
+					$j('.sharelinks').css( { display:"none", } );
+					$j('.fullscreen-bg').css( { display:"none", } );
+					$j('.logo').css( { display:"none", } );
+					$j('.inner_post').css( { padding:"10px 20px 0px 20px", } );
+					$j('.inner_post h2 a').css( { display:"none", } );
+					$j('.post_date').css( { display:"none", } );
+					$j('.bottom_cap').css( { display:"none", } );
+					
+					document.getElementById('container').style.width = '100%';
+					document.getElementById('container').style.height = '100%';
+					document.getElementById('container').style.top = '0px';
+					document.getElementById('container').style.position = 'absolute';
+					
+					document.getElementById('content_container').style.width = '100%';
+					document.getElementById('content_container').style.width = '100%';
+					document.getElementById('content_container').style.padding = '0';
+					document.getElementById('content_container').style.backgroundColor = 'transparent';
+					document.getElementById('content_container').style.borderBottom = '0px';
+					
+					document.getElementById('main_blog').style.width = '100%';
+					document.getElementById('main_blog').style.margin = 'auto';
+					document.getElementById('main_blog').style.height = '100%';
+					document.getElementById('main_blog').style.minHeight = '0';
+					
+					document.getElementById('sidebar').style.display = 'none';
+					document.getElementById('navigation_container').style.display = 'none';
+					document.getElementById('searchform').style.display = 'none';
+					document.getElementById('external_links').style.display = 'none';
+					document.getElementById('footer').style.display = 'none'
+					$j('a').attr('target', '_blank');					
+				}
+
+			});	
+
+
+		</script>
+	
+		
+		<script>
+	// Add Streams to Sidebar
+//			var streamcount = 3;
+//			$j.ajax({
+//				type: 'GET',
+//				url: 'https://api.twitch.tv/kraken/search/streams?limit=4&q=Counter-Strike%3A%20Global%20Offensive',
+//				headers: 
+//				{
+//                              'Client-ID': 'a4kidpa8n9ztasq711d6dandy3ufibl'
+//				},
+				//dataType: 'jsonp',
+				//data:
+				//{
+				//	'game': 'Counter-Strike: Global Offensive',
+				//	'limit': streamcount
+				//},
+//			    success: function(data) 
+//			    {
+//					var html = '';
+//					streamData = data.streams;
+//					for(c=0; c<streamcount; c++)
+//					{
+//						html += '<div class="preview_container">';	
+//						url = streamData[c].channel.url;
+//						img = streamData[c].preview.small;
+//						title = streamData[c].channel.status;
+//						name = streamData[c].channel.display_name;
+//						viewers = streamData[c].viewers;
+//						html += '<a style="display:block;float:left;width:80px;height:50px;margin-right:10px;" href="' + url + '" target ="_blank"><img src="' + img + '"/></a>';
+//						html += '<div class="channel_name"><a href="' + url + '" target ="_blank">' + title + '</a><br />';
+//						html += '<span class="stream_viewers">' + viewers + ' viewers on ' + name + "</span></div>";
+//						html += "<div style='clear:both'></div>";
+//						html += '</div><!-- close preview_container -->';		
+//					}
+//					$j('#sidebar_streams #streams').html(html);
+//			    }
+//			});
+			
+			// add matches to sidebar
+			var matchcount = 4;
+			$j.ajax({
+				type: 'GET',
+				url: 'https://counter-strike.net/jsfeed/gosumatches',
+				dataType: 'json',
+				cache: true,
+				data:
+				{
+					'count': matchcount
+				},
+			    success: function(data) 
+			    {
+					var html = '';
+					for ( c = 0; c < data.length; c++ )
+					{
+						m = data[c];
+						html += '<div class="upcomingmatch">';	
+						html += '<a href="'+m.url+'" class="um_name" target="_blank">'+m.name+'</a>';
+						html += '<div class="um_time">'+m.time+'</div>';
+						for ( i = 0; i <= 1; i++ )
+						{
+							t = m.teams[i];
+							html += '<img class="um_flag'+i+'" src="http://cdn.steamcommunity.com/public/images/countryflags/'+t.country+'.gif">';
+							html += '<a href="'+m.matchUrl+'" class="um_name'+i+'" target="_blank">'+t.name+'</a>';
+						}
+						html += '<div class="um_vs">vs</div>';
+						html += '</div>';		
+					}
+					$j('#sidebar_upcoming #upcomingmatches').html(html);
+			    }
+			});
+			
+		</script>
+		<style>
+.channel_image{
+	margin: 0px 10px 15px 0;
+	float: left;
+}
+
+.channel_name{
+	padding-top:7px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	line-height:17px;
+}
+
+.stream_viewers{
+	font-size: 12px;
+}
+.upcomingmatch {
+	position:relative;
+	width:312px;
+	height:38px;
+	line-height:16px;
+	padding-bottom:4px;
+	margin-bottom:6px;
+	border-bottom:solid rgba(151,183,209,0.1) 1px;
+	z-index:10;
+}
+.upcomingmatch a {
+	display:block;
+	position:absolute;
+	text-decoration:none;
+	z-index:20;
+}
+a.um_name {
+	font-weight:normal;
+	top:0px;
+	left:0px;
+	font-size:12px;
+	width:290px;
+	white-space: nowrap;
+  	overflow: hidden;
+  	text-overflow: ellipsis;
+}
+a.um_name0,a.um_name1 {
+	color:#bdbdbd;
+	left:24px;
+	top:19px;
+	font-size:16px;
+	height:16px;
+	width:122px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+a.um_name0:hover, a.um_name1:hover {
+	color:#fdfdfd;
+}
+a.um_name1 {
+	left:192px;
+}
+.um_time {
+	position:absolute;
+	text-align:right;
+	top:0px;
+	right:0px;
+	color:#909090;
+	font-size:11px;
+}
+.um_flag0,.um_flag1 {
+	position:absolute;
+	width:16px;
+	height:11px;
+	left:0px;
+	top:20px;
+	border:solid #000000 1px;
+	-webkit-box-shadow: 1px 1px 2px 1px rgba(0,0,0,0.6);
+	-moz-box-shadow: 1px 1px 2px 1px rgba(0,0,0,0.6);
+	box-shadow: 1px 1px 2px 1px rgba(0,0,0,0.6);
+}
+.um_vs {
+	position:absolute;
+	top:20px;
+	text-align:center;
+	width:312px;
+	left:0px;
+	font-size:12px;
+	color:#606060;
+	z-index:11;
+}
+.um_flag1 {
+	left:168px;
+}
+.title_sidebar img {
+	margin-top:-1px;
+}
+.sidebar_container h5 {
+	color:#fdfdfd;
+}
+.sidebar_sub_content{
+	margin: 0 0 10px 0;
+	height: 45px;
+}
+
+#streams a {
+	font-weight: bold;
+}
+
+.preview_container{
+	position: relative;
+	padding-bottom:5px;
+}
+
+.flag{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 10;
+}
+#katowiceBanner {
+	width:312px;
+	height:138px;
+	margin:0px 0px 12px 8px;
+	position:relative;
+	background-image:url('http://media.steampowered.com/apps/csgo/images/katowicebanner/katowice_base.png');
+}
+#kb_Live,#kb_Start,#kb_Resume {
+	width:312px;
+	height:74px;
+	top:64px;
+	left:0px;
+	position:absolute;
+}
+#kb_Start {
+	background-image:url('http://media.steampowered.com/apps/csgo/images/katowicebanner/katowice_start.png');
+}
+#kb_Resume {
+	background-image:url('http://media.steampowered.com/apps/csgo/images/katowicebanner/katowice_resume.png');
+}
+#kb_Start_timer,#kb_Resume_timer {
+	position:absolute;
+	top:24px;
+}
+#kbs_days {
+	position:absolute;
+	left:25px;
+	width:30px;
+}
+#kbs_hours {
+	position:absolute;
+	left:72px;
+	width:30px;
+}
+#kbs_minutes {
+	position:absolute;
+	left:128px;
+	width:30px;
+}
+#kbs_seconds {
+	position:absolute;
+	left:192px;
+	width:30px;
+}
+#kbr_hours {
+	position:absolute;
+	left:72px;
+	width:30px;
+}
+#kbr_minutes {
+	position:absolute;
+	left:128px;
+	width:30px;
+}
+#kbr_seconds {
+	position:absolute;
+	left:192px;
+	width:30px;
+}
+</style>
+
+		
+<!-- swiper head elements -->
+		<link href="https://swiperjs.com/package/swiper-bundle.min.css" rel="stylesheet" type="text/css">
+		<script type="text/javascript" src="https://counter-strike.net/public/javascript/swiper.js"></script>
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+		<style>
+			.swiper-container {
+      width: 100%;
+      height: 100%;
+    }
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #33333300;
+
+      /* Center slide text vertically */
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+    }
+			.swiper-button-prev, .swiper-button-next {
+				width:20px;
+				height:40px;
+				color:#ffffff;
+				transform: scale(0.5, 0.5);
+				opacity:0.5;
+				top:40%;
+			}
+			.swiper-button-prev:hover, .swiper-button-next:hover {
+				opacity:1;
+			}
+			.swiper-pagination-bullet {
+				background:#fff;
+				opacity:0.2;
+			}
+			.swiper-pagination-bullet-active {
+				background:#fff;
+				opacity:0.8;
+			}
+			.swiper-pagination-bullets {
+				margin-bottom:20px;
+			}
+			.magnify {
+				width:16px;
+				height:16px;
+				opacity:0.8;
+				vertical-align:middle;
+				align:right;
+				margin-left:12px;
+				margin-top:6px;
+			}
+			.magnify:hover {
+				opacity:1;
+			}
+			.item_desc {
+				font-family:Quantico;
+				font-size:16px;
+				font-weight:light;
+				line-height:8px;
+			}
+			.r_purple {
+				color:#8847ff;
+			}
+		</style>
+		<!-- end swiper head elements -->
+		
+	<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--albert-sans: 'Albert Sans', sans-serif;--wp--preset--font-family--alegreya: Alegreya, serif;--wp--preset--font-family--arvo: Arvo, serif;--wp--preset--font-family--bodoni-moda: 'Bodoni Moda', serif;--wp--preset--font-family--bricolage-grotesque: 'Bricolage Grotesque', sans-serif;--wp--preset--font-family--cabin: Cabin, sans-serif;--wp--preset--font-family--chivo: Chivo, sans-serif;--wp--preset--font-family--commissioner: Commissioner, sans-serif;--wp--preset--font-family--cormorant: Cormorant, serif;--wp--preset--font-family--courier-prime: 'Courier Prime', monospace;--wp--preset--font-family--crimson-pro: 'Crimson Pro', serif;--wp--preset--font-family--dm-mono: 'DM Mono', monospace;--wp--preset--font-family--dm-sans: 'DM Sans', sans-serif;--wp--preset--font-family--dm-serif-display: 'DM Serif Display', serif;--wp--preset--font-family--domine: Domine, serif;--wp--preset--font-family--eb-garamond: 'EB Garamond', serif;--wp--preset--font-family--epilogue: Epilogue, sans-serif;--wp--preset--font-family--fahkwang: Fahkwang, sans-serif;--wp--preset--font-family--figtree: Figtree, sans-serif;--wp--preset--font-family--fira-sans: 'Fira Sans', sans-serif;--wp--preset--font-family--fjalla-one: 'Fjalla One', sans-serif;--wp--preset--font-family--fraunces: Fraunces, serif;--wp--preset--font-family--gabarito: Gabarito, system-ui;--wp--preset--font-family--ibm-plex-mono: 'IBM Plex Mono', monospace;--wp--preset--font-family--ibm-plex-sans: 'IBM Plex Sans', sans-serif;--wp--preset--font-family--ibarra-real-nova: 'Ibarra Real Nova', serif;--wp--preset--font-family--instrument-serif: 'Instrument Serif', serif;--wp--preset--font-family--inter: Inter, sans-serif;--wp--preset--font-family--josefin-sans: 'Josefin Sans', sans-serif;--wp--preset--font-family--jost: Jost, sans-serif;--wp--preset--font-family--libre-baskerville: 'Libre Baskerville', serif;--wp--preset--font-family--libre-franklin: 'Libre Franklin', sans-serif;--wp--preset--font-family--literata: Literata, serif;--wp--preset--font-family--lora: Lora, serif;--wp--preset--font-family--merriweather: Merriweather, serif;--wp--preset--font-family--montserrat: Montserrat, sans-serif;--wp--preset--font-family--newsreader: Newsreader, serif;--wp--preset--font-family--noto-sans-mono: 'Noto Sans Mono', sans-serif;--wp--preset--font-family--nunito: Nunito, sans-serif;--wp--preset--font-family--open-sans: 'Open Sans', sans-serif;--wp--preset--font-family--overpass: Overpass, sans-serif;--wp--preset--font-family--pt-serif: 'PT Serif', serif;--wp--preset--font-family--petrona: Petrona, serif;--wp--preset--font-family--piazzolla: Piazzolla, serif;--wp--preset--font-family--playfair-display: 'Playfair Display', serif;--wp--preset--font-family--plus-jakarta-sans: 'Plus Jakarta Sans', sans-serif;--wp--preset--font-family--poppins: Poppins, sans-serif;--wp--preset--font-family--raleway: Raleway, sans-serif;--wp--preset--font-family--roboto: Roboto, sans-serif;--wp--preset--font-family--roboto-slab: 'Roboto Slab', serif;--wp--preset--font-family--rubik: Rubik, sans-serif;--wp--preset--font-family--rufina: Rufina, serif;--wp--preset--font-family--sora: Sora, sans-serif;--wp--preset--font-family--source-sans-3: 'Source Sans 3', sans-serif;--wp--preset--font-family--source-serif-4: 'Source Serif 4', serif;--wp--preset--font-family--space-mono: 'Space Mono', monospace;--wp--preset--font-family--syne: Syne, sans-serif;--wp--preset--font-family--texturina: Texturina, serif;--wp--preset--font-family--urbanist: Urbanist, sans-serif;--wp--preset--font-family--work-sans: 'Work Sans', sans-serif;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-albert-sans-font-family{font-family: var(--wp--preset--font-family--albert-sans) !important;}.has-alegreya-font-family{font-family: var(--wp--preset--font-family--alegreya) !important;}.has-arvo-font-family{font-family: var(--wp--preset--font-family--arvo) !important;}.has-bodoni-moda-font-family{font-family: var(--wp--preset--font-family--bodoni-moda) !important;}.has-bricolage-grotesque-font-family{font-family: var(--wp--preset--font-family--bricolage-grotesque) !important;}.has-cabin-font-family{font-family: var(--wp--preset--font-family--cabin) !important;}.has-chivo-font-family{font-family: var(--wp--preset--font-family--chivo) !important;}.has-commissioner-font-family{font-family: var(--wp--preset--font-family--commissioner) !important;}.has-cormorant-font-family{font-family: var(--wp--preset--font-family--cormorant) !important;}.has-courier-prime-font-family{font-family: var(--wp--preset--font-family--courier-prime) !important;}.has-crimson-pro-font-family{font-family: var(--wp--preset--font-family--crimson-pro) !important;}.has-dm-mono-font-family{font-family: var(--wp--preset--font-family--dm-mono) !important;}.has-dm-sans-font-family{font-family: var(--wp--preset--font-family--dm-sans) !important;}.has-dm-serif-display-font-family{font-family: var(--wp--preset--font-family--dm-serif-display) !important;}.has-domine-font-family{font-family: var(--wp--preset--font-family--domine) !important;}.has-eb-garamond-font-family{font-family: var(--wp--preset--font-family--eb-garamond) !important;}.has-epilogue-font-family{font-family: var(--wp--preset--font-family--epilogue) !important;}.has-fahkwang-font-family{font-family: var(--wp--preset--font-family--fahkwang) !important;}.has-figtree-font-family{font-family: var(--wp--preset--font-family--figtree) !important;}.has-fira-sans-font-family{font-family: var(--wp--preset--font-family--fira-sans) !important;}.has-fjalla-one-font-family{font-family: var(--wp--preset--font-family--fjalla-one) !important;}.has-fraunces-font-family{font-family: var(--wp--preset--font-family--fraunces) !important;}.has-gabarito-font-family{font-family: var(--wp--preset--font-family--gabarito) !important;}.has-ibm-plex-mono-font-family{font-family: var(--wp--preset--font-family--ibm-plex-mono) !important;}.has-ibm-plex-sans-font-family{font-family: var(--wp--preset--font-family--ibm-plex-sans) !important;}.has-ibarra-real-nova-font-family{font-family: var(--wp--preset--font-family--ibarra-real-nova) !important;}.has-instrument-serif-font-family{font-family: var(--wp--preset--font-family--instrument-serif) !important;}.has-inter-font-family{font-family: var(--wp--preset--font-family--inter) !important;}.has-josefin-sans-font-family{font-family: var(--wp--preset--font-family--josefin-sans) !important;}.has-jost-font-family{font-family: var(--wp--preset--font-family--jost) !important;}.has-libre-baskerville-font-family{font-family: var(--wp--preset--font-family--libre-baskerville) !important;}.has-libre-franklin-font-family{font-family: var(--wp--preset--font-family--libre-franklin) !important;}.has-literata-font-family{font-family: var(--wp--preset--font-family--literata) !important;}.has-lora-font-family{font-family: var(--wp--preset--font-family--lora) !important;}.has-merriweather-font-family{font-family: var(--wp--preset--font-family--merriweather) !important;}.has-montserrat-font-family{font-family: var(--wp--preset--font-family--montserrat) !important;}.has-newsreader-font-family{font-family: var(--wp--preset--font-family--newsreader) !important;}.has-noto-sans-mono-font-family{font-family: var(--wp--preset--font-family--noto-sans-mono) !important;}.has-nunito-font-family{font-family: var(--wp--preset--font-family--nunito) !important;}.has-open-sans-font-family{font-family: var(--wp--preset--font-family--open-sans) !important;}.has-overpass-font-family{font-family: var(--wp--preset--font-family--overpass) !important;}.has-pt-serif-font-family{font-family: var(--wp--preset--font-family--pt-serif) !important;}.has-petrona-font-family{font-family: var(--wp--preset--font-family--petrona) !important;}.has-piazzolla-font-family{font-family: var(--wp--preset--font-family--piazzolla) !important;}.has-playfair-display-font-family{font-family: var(--wp--preset--font-family--playfair-display) !important;}.has-plus-jakarta-sans-font-family{font-family: var(--wp--preset--font-family--plus-jakarta-sans) !important;}.has-poppins-font-family{font-family: var(--wp--preset--font-family--poppins) !important;}.has-raleway-font-family{font-family: var(--wp--preset--font-family--raleway) !important;}.has-roboto-font-family{font-family: var(--wp--preset--font-family--roboto) !important;}.has-roboto-slab-font-family{font-family: var(--wp--preset--font-family--roboto-slab) !important;}.has-rubik-font-family{font-family: var(--wp--preset--font-family--rubik) !important;}.has-rufina-font-family{font-family: var(--wp--preset--font-family--rufina) !important;}.has-sora-font-family{font-family: var(--wp--preset--font-family--sora) !important;}.has-source-sans-3-font-family{font-family: var(--wp--preset--font-family--source-sans-3) !important;}.has-source-serif-4-font-family{font-family: var(--wp--preset--font-family--source-serif-4) !important;}.has-space-mono-font-family{font-family: var(--wp--preset--font-family--space-mono) !important;}.has-syne-font-family{font-family: var(--wp--preset--font-family--syne) !important;}.has-texturina-font-family{font-family: var(--wp--preset--font-family--texturina) !important;}.has-urbanist-font-family{font-family: var(--wp--preset--font-family--urbanist) !important;}.has-work-sans-font-family{font-family: var(--wp--preset--font-family--work-sans) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+</head>
+	
+	
+<body>
+<div class="fullscreen-bg">
+	<!--div><img src="http://media.steampowered.com/apps/csgo/blog/images/blur_transition.png" class="blur"/></div-->
+	<div><img src="https://steamcdn-a.akamaihd.net/apps/csgo/blog/images/wallpaper_nologo.jpg" class="poster"/></div>
+	<!--video loop muted autoplay class="fullscreen-bg__video">
+		<source src="http://media.steampowered.com/apps/csgo/images/dangerzone/dangerzone_web.webm" type="video/webm">
+		<!--source src="http://media.steampowered.com/apps/csgo/blog/images/nuke.mp4" type="video/mp4"-->
+		<!--source src="http://media.steampowered.com/apps/csgo/blog/images/nuke.ogv" type="video/ogg"-->
+	</video-->
+</div>
+	
+<a id="btt" name="btt"></a>
+	<div>
+		<a href="https://www.counter-strike.net" class="logo"><img src="https://steamcdn-a.akamaihd.net/apps/tf2/toughbreak/images/trans.gif" width="424" height="160" style="z-index:10;"></a>
+			
+		<!--a href="http://counter-strike.net" class="logo"></a-->
+	</div>
+	<!--div id="dangerzonelink">
+		<a href="http://www.counter-strike.net/dangerzone"><img src="http://media.steampowered.com/apps/tf2/toughbreak/images/trans.gif" width="300" height="200" style="z-index:10;"></a>
+	</div-->
+	<!--div id="freetoplaylink">
+		<a href="https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/"><img src="http://media.steampowered.com/apps/tf2/toughbreak/images/trans.gif" width="160" height="160" style="z-index:10;"></a>
+	</div-->
+	<div id="container">
+		<!--<div id="cs_logo"><a href="https://blog.counter-strike.net/cs/"><img src="https://blog.counter-strike.net/wp-content/themes/counterstrike_launch/images/cs_logo.png"/></a></div>-->
+		
+		
+<div id="navigation_container">
+
+	<ul id="navigation">
+		<li><a id="nav_home"  style="margin-right: 28px;" href="https://blog.counter-strike.net/cs/"><span>Blog</span></a></li>
+		<li><a id="nav_updates"  href=
+
+	"https://blog.counter-strike.net/cs/?cat=266"><span>Updates</span></a>
+
+		</li>
+		<!-- resources drop down -->	
+		<li>
+			<a id="nav_resources"  href="#"><span>Resources</span></a>
+			<div class="dropdownItems" id="resources_sub_nav">
+			  <a id="sub_nav_resources_about"  href="https://blog.counter-strike.net/cs//index.php/about/"><span>About</span></a><hr />
+			  <a id="sub_nav_resources_faq"  href="https://blog.counter-strike.net/cs//index.php/facts/"><span>FAQ</span></a><hr />
+			  <a id="sub_nav_resources_learn"  href="https://blog.counter-strike.net/cs//index.php/resources/"><span>Learn CS:GO</span></a>
+			</div>
+		</li>
+		<!--<li><a id="nav_history"  href="https://blog.counter-strike.net/?page_id=5420"><span>History</span></a></li>
+		<li><a id="nav_events"  href="https://blog.counter-strike.net/?page_id=953"><span>Events</span></a></li>-->
+					<li>
+				<a id="nav_community" href="#"><span>Community</span></a>
+				<div class="dropdownItems" id="community_sub_nav">
+				  <a id="sub_nav_community_hub" href="http://steamcommunity.com/app/730"><span>CS:GO Hub</span></a><hr />
+				  <a id="sub_nav_community_discussions" href="http://steamcommunity.com/app/730/discussions/"><span>Discussions</span></a><hr />
+				  <a id="sub_nav_community_screenshots" href="http://steamcommunity.com/app/730/screenshots/"><span>Screenshots</span></a><hr />
+				  <a id="sub_nav_community_artwork" href="http://steamcommunity.com/app/730/images/"><span>Artwork</span></a><hr />
+				  <a id="sub_nav_community_videos" href="http://steamcommunity.com/app/730/videos"><span>Videos</span></a><hr />
+				  <a id="sub_nav_community_workshop" href="http://steamcommunity.com/workshop/browse?appid=730&browsesort=trend"><span>Workshop</span></a><hr />
+				  <a id="sub_nav_community_news" href="http://steamcommunity.com/app/730/news"><span>News</span></a><hr />
+				  <a id="sub_nav_community_guides" href="http://steamcommunity.com/app/730/guides/"><span>Guides</span></a>
+				</div>
+			</li>
+				<!-- forums drop down 	
+		<li>
+			<a id="nav_forums" href="#"><span>Forums</span></a>
+			<div class="dropdownItems" id="forum_sub_nav">
+			  <a id="sub_nav_csgo_forums" href="http://forums.steampowered.com/forums/forumdisplay.php?f=1188"><span>CS:GO Forums</span></a><hr />
+			  <a id="sub_nav_css_forums" href="http://forums.steampowered.com/forums/forumdisplay.php?f=37"><span>CSS Forums</span></a><hr />
+			  <a id="sub_nav_cs16_forums" href="http://forums.steampowered.com/forums/forumdisplay.php?f=7"><span>CS 1.6 Forums</span></a>
+			</div>
+		</li>-->
+		
+	</ul> <!-- close navigation div -->
+
+			<div id="external_links" class="">
+			<a id="icon_twitch" href="https://www.twitch.tv/directory/game/Counter-Strike%3A%20Global%20Offensive"><img src="https://blog.counter-strike.net/wp-content/themes/counterstrike_launch/images/icon_twitch.png"></a>
+			
+			<a id="icon_twitter" href="http://twitter.com/csgo"><img src="https://blog.counter-strike.net/wp-content/themes/counterstrike_launch/images/icon_twitter.png"></a>
+			
+			<a id="icon_instagram" href="https://www.instagram.com/csgo_dev/"><img src="https://blog.counter-strike.net/wp-content/themes/counterstrike_launch/images/icon_instagram.png"></a>
+			
+			<a id="icon_fb" href="http://www.facebook.com/CounterStrike"><img src="https://blog.counter-strike.net/wp-content/themes/counterstrike_launch/images/icon_fb.png"></a>
+			
+			<a id="icon_rss" href="https://blog.counter-strike.net/cs//?feed=rss"><img src="https://blog.counter-strike.net/wp-content/themes/counterstrike_launch/images/icon_rss.png"></a>
+		</div> 
+
+		
+<form role="search" method="get" id="searchform" action="https://blog.counter-strike.net/cs/" >
+	<div>
+		<input type="text" value="" name="s" id="s" class="search_textbox" />
+		<input type="submit" id="searchsubmit" value="" class="search_button" />
+	</div>
+</form> 
+	
+
+</div>
+
+
+		<div id="content_container">
+			<div id="blog_shadow"></div>
+			<div id="main_blog">
+				
+				<div id="post_container">
+				  
+				
+				
+					<div class="inner_post">
+						<h2><a href="https://blog.counter-strike.net/cs/2012/08/3792/">Dnes začínají předobjednávky</a></h2>  
+							<p class="post_date">2012.08.07  - <img style='margin-bottom: -1px;' src='https://steamcdn-a.akamaihd.net/apps/csgo/blog/images/tags/csgo_blog_tag.png'></p>  
+						<p>Ode dneška má každý šanci <a title="Předobjednat CS:GO" href="http://store.steampowered.com/app/1800/">předobjednat si CS:GO</a>. Zde je pár detailů:</p>
+<p style="padding-left: 30px;">&#8211; Hráči, kteří si hru <a title="Předobjednat CS:GO" href="http://store.steampowered.com/app/1800/">předobjednají</a>, obdrží 10% slevu</p>
+<p style="padding-left: 30px;">&#8211; Všichni hráči získají k <a title="Předobjednat CS:GO" href="http://store.steampowered.com/app/1800/">předobjednávce</a> přístup k betě 14. srpna<sup></sup></p>
+<p style="padding-left: 30px;">&#8211; Beta bude pokračovat pro všechny současné testery a hráče s předobjednávkami až do vydání hry 21. srpna<sup></sup></p>
+<p>Od vydání bety v prosinci urazil Counter-Strike: Global Offensive velkou cestu, a to především díky skvělé odezvě od účastníků bety. Příklad této odezvy (a změn, které vyvolala v CS:GO) si můžete přečíst níže. Díky betě jsme se naučili několik nových věcí, a jak se postupně dostáváme dále a dále, nejlepším způsobem, jak aktualizovat Counter-Strike, je zkoušet nové věci na fungujícím produktu, ke kterému má přístup velké množství hráčů. </p>
+<p>CS:GO beta se dočká ještě před 14. srpnem<sup></sup> aktualizace, která přinese změny uvedené níže. Děkujeme všem hráčům, kteří nám pomohli s přípravou této aktualizace skrze zpětnou vazbu na fórech!</p>
+<p>Change Notes for the next update (before August 14th):</p>
+<p>Weapons:</p>
+<address>    &#8211; Increased recoil of the AK-47.</address>
+<address>    &#8211; Slightly lowered recoil and increased accuracy of the Famas.</address>
+<address>    &#8211; Increased armor penetration and increased damage of the MP7.</address>
+<address>    &#8211; Increased damage and increased movement speed of the SSG08.</address>
+<address>    &#8211; Decreased accuracy of the Tec-9.</address>
+<address>    &#8211; Increased damage of the UMP45.</address>
+<address>    &#8211; Fixed the “quick switch exploit” that allowed players to bypass slow weapon cycle times by switching weapons.</address>
+<address>    &#8211; Increased the duration of the AWP deploy animation to 1.25 seconds.</address>
+<address>    &#8211; Reduced the strength of the flashbang.</address>
+<address>    &#8211; Berettas no longer shift horizontally when their accuracy changes.</address>
+<address>    &#8211; The SSG08 texture has been updated.</address>
+<address>    &#8211; Added rumble effect to knife.</address>
+<address>    &#8211; Fixed grenades becoming stuck on players or inside them when thrown from within a player volume.</address>
+<address>    &#8211; Changed grenades to bounce more realistically off of players.</address>
+<address>    &#8211; Players should no longer be able to boost off of grenades.</address>
+<address>    &#8211; Reduced the opacity core radius for player standing inside a smoke grenade.</address>
+<address>  </address>
+<p>Gameplay:</p>
+<address>    &#8211; Adding Mac support </address>
+<address>    &#8211; Update to bot aiming system. Players should see a substantial decrease in the ability of bots to get perfect shots on moving targets, especially at lower difficulty levels. Bots now can react poorly (or well) to enemies that are dodging/strafing, and also must now account for their own movement while shooting.</address>
+<address>    &#8211; Moved the setting of maxplayer from maps to modes in gamemodes.txt.</address>
+<address>    &#8211; Increased Casual money rewards, per Beta feedback.</address>
+<address>    &#8211; The difficulty of the upper tier bots has been increased.</address>
+<address>    &#8211; Updating movement values to community vetted numbers.  Thanks Wombo!</address>
+<address> </address>
+<p>Animations and Models:</p>
+<address>    &#8211; Updated the AWP viewmodel firing animation.  This was inspired by community feedback that suggested more towards-the-viewer recoil and less vertical recoil.</address>
+<address>    &#8211; Added some recoil to the SSG08 rifle viewmodel firing animation.</address>
+<address>    &#8211; Updated the 3rd person CT firing pose for SSG08. This fixes major shoulder and elbow popping, minor forearm popping on transition between firing and idle while crouched.</address>
+<address>    &#8211; Updated the following viewmodel firing animations.</address>
+<address style="padding-left: 60px;">o Berettas</address>
+<address style="padding-left: 60px;">o AK-47</address>
+<address style="padding-left: 60px;">o M4A4</address>
+<address style="padding-left: 60px;">o Desert Eagle</address>
+<address style="padding-left: 60px;">o Galil AR</address>
+<address>    &#8211; Added 8 new player models to the game:</address>
+<address style="padding-left: 60px;">o Separatist</address>
+<address style="padding-left: 60px;">o Anarchist</address>
+<address style="padding-left: 60px;">o Pirate</address>
+<address style="padding-left: 60px;">o Professional</address>
+<address style="padding-left: 60px;">o FBI</address>
+<address style="padding-left: 60px;">o IDF</address>
+<address style="padding-left: 60px;">o SAS</address>
+<address style="padding-left: 60px;">o SWAT</address>
+<p>UI:</p>
+<address>    &#8211; Added full screen windowed mode to video options.</address>
+<address>    &#8211; Removed Quick Match from the Play Menu.</address>
+<address>    &#8211; Updates have been made to the Vote UI:                 </address>
+<address style="padding-left: 60px;">o The vote thumbs and counts now also display on the vote result, so you get a summary of why it passed or failed.</address>
+<address style="padding-left: 60px;">o Now when a vote fails because it was cast recently, we show that warning message before we would show the failure for an individual voter recently casting a failed vote.</address>
+<address style="padding-left: 60px;">o Fixed the result numbers sometimes not showing the very last vote that caused it to succeed or fail.</address>
+<address style="padding-left: 60px;">o The player list is now scrollable when there are more than 10 selectable players.</address>
+<address style="padding-left: 60px;">o Added a new convar &#8211; &#8222;sv_arms_race_vote_to_restart_disallowed_after&#8220; that should be set to the weapon level after which no restart match vote will be accepted.  This convar is currently set in GameModes.txt for each of the modes of play, and is set so that a vote to restart will work until someone reaches the knife level.</address>
+<address style="padding-left: 30px;"> </address>
+<address>     &#8211; Updated the text for the Loading screen hints.</address>
+<address>    &#8211; Updated weapon grind achievement descriptions to match their new values.</address>
+<address>    &#8211; Now when you drop a weapon voluntarily, a message pops up letting you know it was dropped.</address>
+<address>    &#8211; A message stating you cannot drop an item will now display when you try to drop non-droppable items.</address>
+<address>    &#8211; Armor and helmet icons have been updated.</address>
+<address>    &#8211; Updated the hit area for menu buttons that prevents the buttons from flickering between up and over states when cursor is near the left edge of the button.</address>
+<address>    &#8211; Updates have been made to the Warmup panel:</address>
+<address style="padding-left: 60px;">o The Warmup panel never comes up if it doesn&#8217;t have a value to fill out the number.</address>
+<address style="padding-left: 60px;">o The Warmup panel now properly clears when the UI clears it, so it knows to come back up again when necessary.</address>
+<address>    &#8211; Offline with Bots match set up screen now uses different icons for &#8222;Random&#8220; map groups based on the chosen game mode (Arms Race, Demolition or Classic). </address>
+<address>    &#8211; Updated the Options menu to use wider text fields.</address>
+<address>    &#8211; Updated the T icon.</address>
+<address>    &#8211; Update to the options screen slider control:</address>
+<address style="padding-left: 60px;">o You can now double click the box to select the whole number string.</address>
+<address style="padding-left: 60px;">o You can now put your cursor in the middle of a block of numbers to start editing it in the middle.</address>
+<address style="padding-left: 60px;">o When you are sliding the bar, the number will update as expected.</address>
+<address style="padding-left: 60px;">o Improved the highlight in the Achievements screen.</address>
+<address style="padding-left: 60px;">o Added ability to page through the categories in the Achievements screen using Page Up and Page Down keys.</address>
+<address>    &#8211; Scoreboard improvements:</address>
+<address style="padding-left: 60px;">o Updated the Win Banner to be more in line with rest of UI.</address>
+<address style="padding-left: 60px;">o Added highlight for player selecting.</address>
+<address style="padding-left: 60px;">o Added mute icon.</address>
+<address style="padding-left: 60px;">o Added a Team Switch icon.</address>
+<address style="padding-left: 60px;">o Generalized the &#8222;dead&#8220; visual state in the scoreboard so the row is dimmed regardless of whatever other states that player is in (previously it wouldn&#8217;t dim if for example, you were also dominating that player and they were dead)</address>
+<address style="padding-left: 60px;">o Updated the Vote panel UI to use checkbox/x iconography instead of the thumbs up/down.</address>
+<address style="padding-left: 60px;">o The radar maps were updated for the SE versions of Aztec, Dust 2 and Nuke.</address>
+<address style="padding-left: 60px;">o The Terrorist Buy Zone indicator on the radar image for Dust2 and Dust2 SE has been updated.</address>
+<address style="padding-left: 60px;">o The opening upfront movie art has been updated.</address>
+<address style="padding-left: 60px;">o Added a Join Game Button to the Play With Friends Lobby.</address>
+<address style="padding-left: 60px;">o Increased the font size on Vote result panel.</address>
+<address style="padding-left: 60px;">o Brightened the player outline in the Mini-Scoreboard.</address>
+<address style="padding-left: 60px;">o The Match Set Up screen now hides the arrows in the map navigation panel when the current game mode includes maps or map groups with only one map.</address>
+<address style="padding-left: 60px;">o Fixed issues with the Recently Unlocked Awards.</address>
+<address style="padding-left: 60px;">o The Recently Unlocked Awards panel now uses a time window (currently 5 days) to determine which Achievements to display.</address>
+<address style="padding-left: 60px;">o “Screen Resize” is now labeled as “HUD Resize” in the Advanced Video Settings screen.</address>
+<address style="padding-left: 60px;">o Fullscreen menu screens now have animating background and foreground elements.</address>
+<address style="padding-left: 60px;">o The ‘Team Full’ messages on the Choose Team screen now display longer.</address>
+<address style="padding-left: 60px;">o Spectators will no longer see “Your Team Lost” in the Scoreboard.</address>
+<address style="padding-left: 60px;">o Radio commands are now updated for the new audio commands.</address>
+<address style="padding-left: 60px;">o Overhead alert icon is brighter, a bit more saturated and easier to see.</address>
+<address style="padding-left: 60px;">o Removed &#8222;Play Distance&#8220; option from the menu and replaced it with HUD scaling bar and viewmodel display position default.</address>
+<address style="padding-left: 60px;">o Added a key bind to ‘Start a Vote’.</address>
+<address style="padding-left: 60px;">o Moved Viewmodel settings to the Game Settings menu.</address>
+<address style="padding-left: 60px;">o Removed delay on death notices.</address>
+<address style="padding-left: 60px;">o Updated colors and bg for readability.</address>
+<address style="padding-left: 60px;">o Increased number of death notices to seven total and made them stick around a tad longer.</address>
+<address style="padding-left: 60px;">o Increased the number of characters before truncating in the death message.</address>
+<address style="padding-left: 60px;">o Player clan name is now shown in the death message and id&#8217;s panels.</address>
+<address style="padding-left: 60px;">o Updated Achievement chat colors to current scheme.</address>
+<address style="padding-left: 60px;">o Tweaked death message colors again to bring them closer in line with others. </address>
+<p>Maps:</p>
+<address>    &#8211; A collision model update has been made to props on all maps.</address>
+<address> </address>
+<address>    &#8211; Aztec</address>
+<address style="padding-left: 60px;">o Reduced foliage prop popping.</address>
+<address style="padding-left: 60px;">o Refined area for the bomb zone area graphic indicators on the radar map.</address>
+<address style="padding-left: 60px;">o Added collision at the bombsite to prevent bomb falling into a crack in the geometry.</address>
+<address style="padding-left: 60px;">o Fixed some terrain seams near bomb site B.</address>
+<address style="padding-left: 60px;">o The planking on scaffolding has been moved so it is no longer a navigation hazard. A physics clip has been added to the upper planks to prevent bomb from being trapped there.</address>
+<address style="padding-left: 60px;">o The Nav mesh has been updated.</address>
+<address style="padding-left: 60px;">o Clipped off microledge on T side of double doors.</address>
+<address style="padding-left: 60px;"> </address>
+<address>    &#8211; Shoots</address>
+<address style="padding-left: 60px;">o Adjusted collision to allow players to jump cleanly thru windows.</address>
+<address style="padding-left: 60px;">o Clipped the space behind sandbags on center platform.</address>
+<address style="padding-left: 60px;"> </address>
+<address>    &#8211; Baggage</address>
+<address style="padding-left: 60px;">o Moved spawn points back against wall to help prevent spawn camping.</address>
+<address style="padding-left: 60px;">o Allowed for random spawning between all 20 possible spawn locations.</address>
+<address style="padding-left: 60px;">o Removed a floating bottle prop.</address>
+<address style="padding-left: 60px;"> </address>
+<address>    &#8211; Dust</address>
+<address style="padding-left: 60px;">o Fixed a tight collision spot above the van in the tunnel.</address>
+<address style="padding-left: 60px;">o Updated the pillar model.</address>
+<address style="padding-left: 60px;"> </address>
+<address>    &#8211; Dust 2</address>
+<address style="padding-left: 60px;">o &#8222;Tunnel Stairs&#8220; is now “Long Doors”</address>
+<address style="padding-left: 60px;">o Refined Radar Map Bomb sites A and B image locators.</address>
+<address style="padding-left: 60px;">o Fixed a collision problem at the scaffolding by bombsite A.</address>
+<address style="padding-left: 60px;">o Updated the pillar model.</address>
+<address style="padding-left: 60px;"> </address>
+<address>    &#8211; Bank</address>
+<address style="padding-left: 60px;">o Players can now crouch jump through the drive thru window of the bank building.</address>
+<address style="padding-left: 60px;">o Bullet decals now work on the interior surfaces of the safe.</address>
+<address style="padding-left: 60px;"> </address>
+<address>    &#8211; Inferno</address>
+<address style="padding-left: 60px;">o Fixed a bug where a tree was growing out of a trash pile texture near Logs.</address>
+<address style="padding-left: 60px;">o Fixed a bug where a Bot with the bomb is unable to get out of the fountain at bombsite B.</address>
+<address style="padding-left: 60px;"> </address>
+<address>    &#8211; Italy</address>
+<address style="padding-left: 60px;">o Tuned the Nav mesh. Fixed several jump-over-fence issues and the big issue with bots not navigating down from the hostage balcony.</address>
+<address style="padding-left: 60px;">o Changed Italy wine pallet collision type to cardboard.</address>
+<address style="padding-left: 60px;"> </address>
+<address>    &#8211; Office</address>
+<address style="padding-left: 60px;">o Fixed the harsh lighting glitch in Garage near Back Way.</address>
+<address style="padding-left: 60px;">o Fixed the Bots getting stuck when traveling over counter tops.</address>
+<address style="padding-left: 60px;">o Moved the ashtray back into a corner which should fix an issue with the hostages getting stuck when exiting the building.</address>
+<address style="padding-left: 60px;"> </address>
+<address>    &#8211; Nuke</address>
+<address style="padding-left: 60px;">o Updated the language on the radiation warning signs. Changed &#8218;radioactiv&#8216; to &#8218;radioaktiv!&#8216; and &#8218;Kein Zutritt&#8216; to &#8218;Kein Zutritt!&#8216;</address>
+<address style="padding-left: 60px;">o Updated the Forklift prop.</address>
+<address style="padding-left: 60px;"> </address>
+<address>    &#8211; Train</address>
+<address style="padding-left: 60px;">o Fixed some missing ladder Nav areas to help bots climb up on ends of flatcars.</address>
+<address style="padding-left: 60px;">o Added new ladders to sides of bombsite train cars, adjusted biohazard straps to not be in the way of the middle of the cars. The bomb should now be plantable and defusable in the middle of each car.</address>
+<address style="padding-left: 60px;"> </address>
+<address>    &#8211; Shorttrain</address>
+<address style="padding-left: 60px;">o Cleaned up Nav mesh. Deleted orphan areas, fixed bad jumps, fixed stale Nav mesh over missing geometry, and made tops of trains &#8222;avoid&#8220; areas.</address>
+<address style="padding-left: 60px;">o Fixed a bomb placement bug on shorttrain.</address>
+<address style="padding-left: 60px;">o Added ladders to the middle of each side of the flatcars, added ladder markup, and moved struts out of the way.</address>
+<address style="padding-left: 60px;">o Fixed weird geometry that was floating in mid-air on the flatcar model.</address>
+<address> </address>
+<p>Audio:</p>
+<address>    &#8211; New Voice Overs added for Terrorist and Counter-Terrorist units.</address>
+<address>    &#8211; Fixed the looping ambience for Lake.</address>
+<address>    &#8211; Players grabbing a hostage, planting a bomb, defusing a bomb, and players close to a bomb that is about to explode now all say something over the radio informing their team of what&#8217;s happening.</address>
+<address>    &#8211; Player now brags over the radio when he&#8217;s dominating someone.</address>
+<address>    &#8211; Players now cheers over the radio when the win scoreboard is up when the match is won by his team.</address>
+<address>    &#8211; Fixed a bug in the exponential panning mode.</address>
+<address>    &#8211; Added snd_headphone_pan_mode and snd_speaker_pan_mode convars that specify using 0 = exponential, 1 = equal power, 2 = GoldSrc (trigonometric) for both headphone and speaker monitoring situations. This differentiation is important for setting system defaults and we may even consider differentiating surround circumstances as the speaker positioning does.</address>
+<address>    &#8211; Split front/rear speaker position options for stereo versus surround. In CS:GO, stereo speaker configurations are going to want the broadest range of positional data, whereas surround systems should default to 45 degree corners, which gives both resolution and sensitivity. Adding these was largely so we can supply the best default settings possible.</address>
+<address>    &#8211; Default panning method is now based (again) on an exponential curve but with an adjusted 1.22 exponent. This not only makes for less inter-speaker blurring but was determined to be the flattest xfade response in decibel level testing. Equal power remains as an option.</address>
+<address>    &#8211; New convar options have reasonable doc strings.</address>
+<address>    &#8211; Added snd_speaker/headphone_pan_radial_weight, which applies the &#8222;GldSrc&#8220; stil cosine weighting but weighted by this float convar. this allows for 1.6 style side weighting but with the exponential center weight allowed by exponential mode.</address>
+<address>    &#8211; Removed all dsp from first person weapon sounds.</address>
+<address>    &#8211; Added burn damage sound entry start operator to block subsequent damage sound for 1.0 seconds.</address>
+<address>    &#8211; Re-authored the footsteps, they are overall louder, both first person and third person, third person being louder than first. More distinct heel impacts with a raise in the high and mid frequencies (less mush), equipment part of the mix is a little lower than previous so as to let the ear concentrate on the footfall, but can still be heard.</address>
+<address>Effects</address>
+<address>    &#8211; Fixed a bug with the weapon shell eject effect. The highest-quality level of the effect (which usually accounted for the first three shots fired in a sequence) was using some complicated stuff for the shell bounce that was inadvertently sending the shell flying off in wrong directions at high velocities. The bug was observed on the AUG (rifle shell), but was also present on several other types of shell ejects.</address>
+<address>    &#8211; A bunch of hit impact effects have had some of their previous POW restored.</address>
+<address>    &#8211; Blood impacts are less randomly angled and more obvious overall now.</address>
+<address>    &#8211; Updated tracers speeds.</address>
+<address>    &#8211; r_drawtracers_firstperson is now visible and archived and fixed.</address>
+<address>    &#8211; Smoke grenade effect now has reduced draw order issues.</address>
+<address>    &#8211; Smoke grenade effect no longer has a great disparity between the screen fog effect and the world fog sprites.</address>
+<address>    &#8211; Reduced the length of time the particle smoke/dust lasts after an HE grenade explodes.</address>
+<address>    &#8211; C4 explosions now have a core explosion that happens right at the bomb itself (so it doesn&#8217;t look odd when you are spectating or defusing it when it goes off)</address>
+<address>    &#8211; Spectators and observers now have a significant reduction in flashbang effect done to them.</address>
+<address> </address>
+<p>General Bug Fixes:</p>
+<address>    &#8211; Fixed player interrupting another player defusing the bomb by walking in front of them.</address>
+<address>    &#8211; Fixed player names running too long in the call vote kick player panel.</address>
+<address>    &#8211; Fixed a bug in Arms Race where switching teams put a bot in the Spectator team.</address>
+<address>    &#8211; The G3SG1 model now has the safety switch set to &#8218;F&#8216;.</address>
+<address>    &#8211; The Galil AR model no longer has the light burn on the side plate.</address>
+<address>    &#8211; Fixed issue that let the player crouch and slide around with C4.</address>
+<address>    &#8211; Fixed the penetration code checking a minimum distance of 2 feet after the first impact for the next impact to happen (this fixes surfaces getting ignored if the first wall penetrated was less than 2 feet think &#8211; which is pretty common)</address>
+<address style="padding-left: 60px;">o The material blockbullets_cs now completely blocks bullets regardless of penetration.</address>
+<address style="padding-left: 60px;">o Maximum penetration distance has been reduced from 10.6 feet to 4 feet.</address>
+<address>    &#8211; Fixed a bug in Demolition mode where bonus grenade rewards were being called out as achieved but not always given.</address>
+<address>    &#8211; Fix for bug where a spectated player with the AUG/SSG zooms in, the spectator sees the muzzle of the weapon.</address>
+<address>    &#8211; Fix for z-fighting on Phoenix arms at the wrist on the left side that occurs when carrying the knife and looking directly upwards.</address>
+<address>    &#8211; Fixed the radio &#8222;!&#8220; showing up above your own head when you issued a radio command &#8211; still shows over other players/bots heads.</address>
+<address style="padding-left: 60px;">o Adjusted color of the overhead &#8222;!&#8220; radio icon to match the HUD scheme.</address>
+<address>    &#8211; Restricting &#8218;The Cleaner&#8216; and &#8218;Ballistic&#8216; achievements to classic mode. Updated description strings to reflect that.</address>
+<address>    &#8211; Restricting &#8218;Friendly Firearms&#8216; achievement to classic modes.</address>
+<address>    &#8211; Restricting &#8218;Base Scamper&#8216; to Arms Race mode.</address>
+<address>    &#8211; Fixed incorrect Arms Race achievement descriptions.</address>
+<address>    &#8211; Fixed a message displaying that you can&#8217;t plant bomb if you had the C4 selected and used anything (door, etc).</address>
+<address>    &#8211; Fixed the C4 button press beeps continuing to play if you started arming the bomb and got killed.</address>
+<address>    &#8211; Fixed the bad max value for zoom sensitivity in the options screen.</address>
+<address>    &#8211; Removed the custom bind for the Zeus in the options screen.  Moved knife/Zeus bind down with the rest of the specific item binds.</address>
+<address>    &#8211; Warmup mode will no longer happen in an offline match now.</address>
+<address>    &#8211; The game won’t ignore spectators when deciding to end the Warmup round.</address>
+<address>    &#8211; Fixed the Demolition gun progression panel not showing up if you were controlling a bot at the end of the round.  Also fixed the progress displaying incorrectly.</address>
+<address>    &#8211; Clicking on the slider bars in the options screens will now change the slider value as expected.</address>
+<address>    &#8211; Fixed a button/popup conflict occurring upon selecting &#8222;Restore Defaults&#8220; option.</address>
+<address>    &#8211; Fixed the audio reset option not persisting.</address>
+<address>    &#8211; Fixed a bug where exiting the video settings screen applies your changes even if you click &#8222;no&#8220;.</address>
+<address>    &#8211; Fixed a bug where mouse dragging on an option menu slide control resulted in the control being highlighted but not responding to left and right keyboard commands.</address>
+<address>    &#8211; Fixed a bug where it was impossible to apply settings changes in options menus using controller.</address>
+<address>    &#8211; Fix for first person view weapon not showing up when spectating in Arms Race.</address>
+<address>    &#8211; Fix for Safehouse and Shorttrain Map Veteran Medals not working.</address>
+<address>    &#8211; Fixed revenge count achievement not progressing in Demolition mode.</address>
+<address>    &#8211; Fixed a case where the Arms Race message, &#8222;Alert &#8211; You are the new leader&#8220; was displaying in Demolition mode. </address>
+<address>    &#8211; Fix for the Friendly Firearms Achievement being unattainable.  It could not be unlocked if the weapon was not purchased that round.  Now the game tracks the prior team ownership when a weapon is dropped. This enables the game to know if a weapon was ever owned by a given team. This value is now used to determine if and when a kill is made with a weapon that once belonged to the killed player&#8217;s team.</address>
+<address>    &#8211; Fix for friendly fire messages not including the (BOT) prefix.</address>
+<address>    &#8211; Arms Race now shows the correct next weapon when you start a new game.</address>
+<address>    &#8211; Fixed case where if your vote failed previously, you wouldn’t get the vote button strings on the next vote cast by another player.</address>
+<address>    &#8211; Fixed potential bug where some players wouldn&#8217;t get a voting dialog panel when others cast a vote.</address>
+<address>    &#8211; Fixed the Taser range to target indicator where the reticule changing from Green to Red didn’t match the actual range of the Taser.</address>
+<address>    &#8211; Fixed losing mouse focus when in the Achievements menu while a map change occurs.</address>
+<address>    &#8211; Fixed the Radar line of sight being unaffected by doors.</address>
+<address>    &#8211; Fixed the player being unable to see the radar icon for the bomb they dropped if they took over a bot.</address>
+<address>    &#8211; When scrambling teams during Demolition Mode gameplay, we now reset the game data when the round restarts.</address>
+<address>    &#8211; Fixed third person weapons not animating.</address>
+<address>    &#8211; A fix was made to ensure the [E] Takeover Bot navigation hint is not displayed on the spectator menu inappropriately.  It was shown when you changed teams mid round, even though you couldn&#8217;t actually take over the bot.</address>
+<address>    &#8211; Fixed a performance issue caused by changelevel being invoked twice after a change level vote.</address>
+<address>    &#8211; Fixed a crash that would allow a server operator to crash clients with bad vote commands.</address>
+<address>    &#8211; Fix for the vote UI not sorting to the background when the user opens the buy menu.</address>
+<address>    &#8211; Fix for the Call Vote popup disabling the Left and Right arrow keys.</address>
+<address>    &#8211; Fix for the Voting UI putting mouse focus back to the game while team select screen is open.</address>
+<address>    &#8211; Fix for not being able to vote while the achievements screen is up.</address>
+<address>    &#8211; Fix for a scenario where stepping into molotov fire sometimes turns the screen black. Reduced opacity of screen-space smoke effect at the molotov&#8217;s core from 1.0 to 0.75.</address>
+<address style="padding-left: 60px;">o Also removed some extraneous tings from the molotov explosion and reduced the lifetime on the molotov inferno&#8217;s embers, which were artificially enlarging the effect&#8217;s bounding box.</address>
+<address>    &#8211; Fix for bound key picking the wrong grenade.</address>
+<address>    &#8211; Dropped weapons fly slightly more upwards when thrown from a dead player</address>
+<address>    &#8211; Fix for some MVP issues.  The game still disallows controlled bots being the MVP, but players are allowed to be chosen MVP.  This fix displays the player name correctly as well as allowing players to be selected even if they&#8217;ve taken over a bot.</address>
+<address style="padding-left: 60px;">o This also fixes Top Kills being broken when you take over a bot.</address>
+<address>    &#8211; Hostages break glass that they touch now. This fixes hostages in cs_office getting stuck trying to run through the big panes of glass sometimes.</address>
+<address>    &#8211; Tightened tolerance for CSBots to defuse the bomb. Fixes edge cases where bots think they are close enough to defuse, but are not so they stand there like zombies.</address>
+<address>    &#8211; Fixed the ragdoll force being too high.</address>
+<address>    &#8211; Fixed the Buy Menu inventory not being populated or correct when you first open the buy menu.</address>
+<address>    &#8211; Fixed the preview panel in the Buy Menu not showing preview data (can buy, owned, etc)</address>
+<address>    &#8211; Disallowing five achievements in Arms Race because they did not make sense or were too easy to unlock for that game mode.</address>
+<address>    &#8211; Fixed a bug where your inventory display wouldn&#8217;t get updated properly in some cases when you took over a bot.</address>
+<address>    &#8211; Fixed a bug where a bot was issuing the wrong radio commands after the new radio code implementation.</address>
+<address>    &#8211; The game will no longer show a &#8222;Game Commencing&#8220; message when the game starts.</address>
+<address>    &#8211; Fixed a bug where last known nav area could stay permanently NULL due to a bad traceline on displacement terrain. We now trace from the player&#8217;s WorldSpaceCenter() downwards instead of their GetAbsOrigin() (their feet).</address>
+<address>    &#8211; Fixed bug with CNavMesh::GetNavArea() that would return NULL if a nav area was below the ground at all. It now allows for StepHeight (18 unit) tolerance below ground. This was causing CSBots to sometimes go &#8222;zombie&#8220; and stop moving, particularly at spawn at round restart.</address>
+<address>    &#8211; The game no longer shows &#8222;Rounds Left&#8220; in the scoreboard when playing Arms Race.</address>
+<address>    &#8211; Fixed the game mode label having a &#8220; &#8211; &#8220; in the Scoreboard.</address>
+<address>    &#8211; Fix for bug in de_train where shooting while strafing + crouching on the green dumpster prop causes unintended behavior.</address>
+<address>    &#8211; Fix for errors and warnings console spew in de_inferno.</address>
+<address>    &#8211; Fix a race condition in the main menu animation if you enter a submenu and immediately cancel out of it while the main menu is still closing</address>
+<address>    &#8211; Fixed case where the earned Achievements in the Win Panel wouldn’t clear their images so if you earned multiple Achievements in one round and only one in the next, the ones you earned in the last round would still show on the panel.</address>
+<address>    &#8211; Fixed a memory overrun when a second controller was connected.</address>
+<address>    &#8211; Fixed &#8218;One Shot One Kill&#8216; awarding based on second bullet kills.</address>
+<address>    &#8211; Changed &#8218;Medalist&#8216; to award after 100 medals instead of requiring 100% completion.</address>
+<address>    &#8211; Fix for a bug where pulling the network cable on your PC while ingame eventually triggers Steam signout, taking you back to the main menu.</address>
+<address>    &#8211; Fixed issue where we were displaying the raw map name before transitioning to it when the match ended.  This was also fixed in the vote panel.</address>
+<address>    &#8211; Fixed HE Grenade/ molotov not recording kill stats.</address>
+<address>    &#8211; Fixed linux DS crash &#8211; for pc, we show the raw map name in the chat when we announce the next map just like we used to because we can&#8217;t assume we know that map name has a localized token.</address>
+<address>    &#8211; Fixed logic bug that would not correctly cancel-out splashes when the player was running.</address>
+<address>    &#8211; Fix for duplicate game instructor messages displaying when rescuing the hostages.</address>
+<address>    &#8211; Fix for target ID over a player displaying default &#8222;target area&#8220; text.</address>
+<address>    &#8211; Fixed the thin lines showing on the target IDs before the first time they were filled in.</address>
+<address>    &#8211; Changed “War Bonds” Achievement to $50,000 earned.</address>
+<address>    &#8211; Fix for bug where user is spectating through the POV of a recently disconnected/quit player, they will be able to see out of world once their character despawns.</address>
+<address>    &#8211; Fix for a bug where opening the Scoreboard while in the Choose Team screen shows a camera view of the map floor.</address>
+<address>    &#8211; Update to Awards screen to fix confusing flashing awards.</address>
+<address>    &#8211; Fixed vote success panels showing bad result data if a vote was cast for the other team only.</address>
+<address>    &#8211; Fixed slow orbiting camera movement when using a controller in 3rd person spectator camera view.</address>
+<address>    &#8211; Fixed a performance taxing bug where some icons were getting destroyed and recreated each frame if you were a terrorist on a hostage map.</address>
+<address>    &#8211; Fix for auto-disconnect message in the HUD going away permanently when the game is paused.</address>
+<address>    &#8211; Fix for player being unable to hear knife deployment sounds when deploying the knife while standing on certain properties.</address>
+<address>    &#8211; Fix for deploy sound for knife not playing when secondary weapon is dropped.</address>
+<address>    &#8211; Fixed a bug where a player would connect late to a dedicated server when the warmup period was already in progress but wouldn&#8217;t see the warmup panel at the top of the screen.</address>
+<address>    &#8211; Fix for voting failing with 6/10 simple majority.</address>
+<address>    &#8211; Fix for the Current World Ranking leaderboard mouse over region for individual rows being too large. This caused the incorrect row to be selected while clicking or moving the mouse around the screen.</address>
+<address>    &#8211; Fixed bots exclaiming at the start of a round whatever state they were last experiencing when they died or at the end of the previous round.</address>
+<address>    &#8211; Fixed a bug where the player was able to switch teams over and over and take control of bots in a game session on a dedicated server.</address>
+<address>    &#8211; Fix for a bug where a hostage appeared illuminated on the radar after it was killed.</address>
+<address>    &#8211; Fix for incorrect game settings description displayed in loading screen when connecting to a map.</address>
+<address>    &#8211; Fix for bug where bot takeover in the middle of a grenade throw results in an extra grenade.</address>
+<address>    &#8211; Fixed two edge-case crashes for bot takeover when the bot has no weapons.</address>
+<address>    &#8211; Fix for bug where throwing grenades on certain slopes will result in them slowly skittering down the slope rather than coming to rest and exploding.</address>
+<address>    &#8211; Fix for a bug that made it possible to throw smoke grenades in such a way that teammates can enter the smoke radius without seeing or hearing the smoke, completely immune to its effect.</address>
+<address>    &#8211; Fixed the brightness value slider showing values from highest to lowest.</address>
+<address>    &#8211; Fixed SECOND and SECONDS in the &#8222;match is restarting&#8220; alert being hard-coded and not localized.</address>
+<address>    &#8211; Reworded the description of &#8222;First Things First&#8220; and &#8222;Target Secured&#8220; Achievements to match what the code expects you to do to achieve it as they were perceived as unawardable.</address>
+<address>    &#8211; Fix for scenario in Demolition mode where after killing an opponent the bonus grenade pop up or next gun pop up will block the user&#8217;s reticle hindering aiming.</address>
+<address>    &#8211; Fixed bomb planted instructor hints showing up for a frame and then going away most of the time.</address>
+<address>    &#8211; Removed account balance requirement from the “Killanthropist” Achievement criteria.</address>
+<address>    &#8211; Fixed new modulated decal art not having enough contrast to make it work with the modulation shader and made a bunch of decals really hard to see.</address>
+<address>    &#8211; Fixed cl_spec_mode not saving the player preference so it always reset you to the default spec option.</address>
+<address>    &#8211; First person spectator is now the default for all modes.</address>
+<address>    &#8211; Fixed throwing weapons landing too short or too high.</address>
+<address>    &#8211; Fixed case where if the viewmodel gun barrel traced through a solid object on its way to the impact point, the tracer would interpenetrate that object and make shooting feel off or fake.</address>
+<address>    &#8211; Fixed dlight muzzle flash being in the wrong spot (the attachment points on viewmodel never return the proper world position).</address>
+<address>    &#8211; Fixed the Scoreboard delay that prevented fast toggling.</address>
+<address>    &#8211; Fixed the Scoreboard getting stuck in a toggle state if you weren’t alive.</address>
+<address>    &#8211; Fixed the whole screen going blurry when the bomb exploded if you were not killed by that bomb.</address>
+<address>    &#8211; Fixed HUD scaling getting stomped by the play distance convars (which aren&#8217;t used anymore).</address>
+<address>    &#8211; Fixed the cl_showloadout convar not getting respected if it wasn&#8217;t actually toggled in that session.</address>
+<address>    &#8211; Flashbangs now make a scorch on the ground to show where it went off.</address>
+<address>    &#8211; Dropping the connection to Steam shouldn&#8217;t drop you to front end on PC/Mac, whether you&#8217;re in an offline or online game now.</address>
+<address>    &#8211; Dedicated server now sends mapgroupname so the client has the proper mapgroupname to send back to DS.</address>
+<address>    &#8211; Setting your sound configs to default now sets your speaker option to the optimal setting based on what windows is set to.</address>
+<address>    &#8211; Fix for when a player is locked into a controller on pc not being able to use the chat.</address>
+<address>    &#8211; Fixed right edge of death message sticking off end of the safe area.</address>
+<address>    &#8211; Fixed regression that was preventing Achievements from being announced in the chat channel.</address>
+<address>    &#8211; Fix for the background around chat not accommodating very long lines of text.</address>
+<address>    &#8211; Fix for CT bots in Lake standing on the kitchen counter, attempting and failing to go through a window.</address>
+<address>    &#8211; Fix for bots in Train getting stuck on a ladder.</address>
+<address>    &#8211; Fix for bots in Nuke jumping on crates for many seconds.</address>
+<address>    &#8211; Fix for the game instructor &#8222;plant bomb&#8220; hint being displayed twice in bombsite B of Train.</address>
+<address>    &#8211; Fix for a bug in the Buy Menu where the first time the buy menu is opened, all categories are grey (indicating available) when some items should be red to indicate that they are not affordable at that time.</address>
+  
+												<div class="sharelinks">
+							<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+							<a class="sharelink" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fblog.counter-strike.net%2Fcs%2F2012%2F08%2F3792%2F&t=Dnes+za%C4%8D%C3%ADnaj%C3%AD+p%C5%99edobjedn%C3%A1vky"><img src="https://blog.counter-strike.net/wp-content/themes/counterstrike_launch/images/fb_like.png?v=2" alt="share on facebook"></a> &nbsp; 
+							<a class="sharelink" href="http://reddit.com/r/globaloffensive/submit?url=https%3A%2F%2Fblog.counter-strike.net%2Fcs%2F2012%2F08%2F3792%2F&title=Dnes+za%C4%8D%C3%ADnaj%C3%AD+p%C5%99edobjedn%C3%A1vky"><img src="https://blog.counter-strike.net/wp-content/themes/counterstrike_launch/images/reddit.png?v=2" alt="submit to reddit" border="0" /></a>
+						</div>
+												
+					</div>	<!-- close inner_post div -->
+								
+				
+						  
+				  
+
+				</div>	<!-- close post_container div -->
+				<div class="bottom_cap">
+					<span id="older_posts"></span>
+				</div>
+			</div> <!-- close main_blog div -->
+			
+						
+			<div id="sidebar">
+	
+	
+
+	
+
+	<!-- language -->
+	<div style="position: absolute; top:-24px; right: 0px; z-index: 10; align: right; z-index: 15;">
+	<li id="icl_lang_sel_widget-1" class="widget widget_icl_lang_sel_widget">
+<div
+	 role="navigation" aria-label="Language Switcher" class="wpml-ls-sidebars-sidebar-1 wpml-ls wpml-ls-legacy-dropdown js-wpml-ls-legacy-dropdown" id="lang_sel">
+	<ul>
+		<li class="wpml-ls-slot-sidebar-1 wpml-ls-item wpml-ls-item-cs wpml-ls-current-language wpml-ls-item-legacy-dropdown">
+									<a href="#" hreflang="cs" lang="cs" class="js-wpml-ls-item-toggle wpml-ls-item-toggle lang_sel_sel icl-cs" aria-current="page" aria-expanded="false" aria-controls="wpml-ls-submenu-lang_sel" aria-label="Čeština – Language switcher, press tab to navigate to other languages" title="Switch to Čeština">
+				<span class="wpml-ls-native icl_lang_sel_native">Čeština</span></a>
+
+			<ul id="wpml-ls-submenu-lang_sel" class="wpml-ls-sub-menu">
+				
+					<li class="icl-en wpml-ls-slot-sidebar-1 wpml-ls-item wpml-ls-item-en wpml-ls-first-item">
+						<a href="https://blog.counter-strike.net/2012/08/3746/" hreflang="en" lang="en" class="wpml-ls-link" aria-label="Switch to English" title="Switch to English">
+							<span class="wpml-ls-native icl_lang_sel_native">English</span></a>
+					</li>
+
+				
+					<li class="icl-zh-hans wpml-ls-slot-sidebar-1 wpml-ls-item wpml-ls-item-zh-hans">
+						<a href="https://blog.counter-strike.net/zh-hans/2012/08/3823/" hreflang="zh-hans" lang="zh-hans" class="wpml-ls-link" aria-label="Switch to 简体中文" title="Switch to 简体中文">
+							<span class="wpml-ls-native icl_lang_sel_native">简体中文</span></a>
+					</li>
+
+				
+					<li class="icl-fi wpml-ls-slot-sidebar-1 wpml-ls-item wpml-ls-item-fi">
+						<a href="https://blog.counter-strike.net/fi/2012/08/3784/" hreflang="fi" lang="fi" class="wpml-ls-link" aria-label="Switch to Suomi" title="Switch to Suomi">
+							<span class="wpml-ls-native icl_lang_sel_native">Suomi</span></a>
+					</li>
+
+				
+					<li class="icl-fr wpml-ls-slot-sidebar-1 wpml-ls-item wpml-ls-item-fr">
+						<a href="https://blog.counter-strike.net/fr/2012/08/4296/" hreflang="fr" lang="fr" class="wpml-ls-link" aria-label="Switch to Français" title="Switch to Français">
+							<span class="wpml-ls-native icl_lang_sel_native">Français</span></a>
+					</li>
+
+				
+					<li class="icl-de wpml-ls-slot-sidebar-1 wpml-ls-item wpml-ls-item-de">
+						<a href="https://blog.counter-strike.net/de/2012/08/4130/" hreflang="de" lang="de" class="wpml-ls-link" aria-label="Switch to Deutsch" title="Switch to Deutsch">
+							<span class="wpml-ls-native icl_lang_sel_native">Deutsch</span></a>
+					</li>
+
+				
+					<li class="icl-hu wpml-ls-slot-sidebar-1 wpml-ls-item wpml-ls-item-hu">
+						<a href="https://blog.counter-strike.net/hu/2012/08/3958/" hreflang="hu" lang="hu" class="wpml-ls-link" aria-label="Switch to Magyar" title="Switch to Magyar">
+							<span class="wpml-ls-native icl_lang_sel_native">Magyar</span></a>
+					</li>
+
+				
+					<li class="icl-pl wpml-ls-slot-sidebar-1 wpml-ls-item wpml-ls-item-pl">
+						<a href="https://blog.counter-strike.net/pl/2012/08/3844/" hreflang="pl" lang="pl" class="wpml-ls-link" aria-label="Switch to Polski" title="Switch to Polski">
+							<span class="wpml-ls-native icl_lang_sel_native">Polski</span></a>
+					</li>
+
+				
+					<li class="icl-pt-br wpml-ls-slot-sidebar-1 wpml-ls-item wpml-ls-item-pt-br">
+						<a href="https://blog.counter-strike.net/pt-br/2012/08/4363/" hreflang="pt-br" lang="pt-br" class="wpml-ls-link" aria-label="Switch to Português-Brasil" title="Switch to Português-Brasil">
+							<span class="wpml-ls-native icl_lang_sel_native">Português-Brasil</span></a>
+					</li>
+
+				
+					<li class="icl-pt-pt wpml-ls-slot-sidebar-1 wpml-ls-item wpml-ls-item-pt-pt">
+						<a href="https://blog.counter-strike.net/pt-pt/2012/08/4144/" hreflang="pt-pt" lang="pt-pt" class="wpml-ls-link" aria-label="Switch to Português" title="Switch to Português">
+							<span class="wpml-ls-native icl_lang_sel_native">Português</span></a>
+					</li>
+
+				
+					<li class="icl-es wpml-ls-slot-sidebar-1 wpml-ls-item wpml-ls-item-es">
+						<a href="https://blog.counter-strike.net/es/2012/08/3862/" hreflang="es" lang="es" class="wpml-ls-link" aria-label="Switch to Español" title="Switch to Español">
+							<span class="wpml-ls-native icl_lang_sel_native">Español</span></a>
+					</li>
+
+				
+					<li class="icl-ru wpml-ls-slot-sidebar-1 wpml-ls-item wpml-ls-item-ru">
+						<a href="https://blog.counter-strike.net/ru/2012/08/3796/" hreflang="ru" lang="ru" class="wpml-ls-link" aria-label="Switch to Русский" title="Switch to Русский">
+							<span class="wpml-ls-native icl_lang_sel_native">Русский</span></a>
+					</li>
+
+				
+					<li class="icl-tr wpml-ls-slot-sidebar-1 wpml-ls-item wpml-ls-item-tr">
+						<a href="https://blog.counter-strike.net/tr/2012/08/4220/" hreflang="tr" lang="tr" class="wpml-ls-link" aria-label="Switch to Türkçe" title="Switch to Türkçe">
+							<span class="wpml-ls-native icl_lang_sel_native">Türkçe</span></a>
+					</li>
+
+				
+					<li class="icl-uk wpml-ls-slot-sidebar-1 wpml-ls-item wpml-ls-item-uk">
+						<a href="https://blog.counter-strike.net/uk/2012/08/16016/" hreflang="uk" lang="uk" class="wpml-ls-link" aria-label="Switch to Ukrainian" title="Switch to Ukrainian">
+							<span class="wpml-ls-native icl_lang_sel_native">Ukrainian</span></a>
+					</li>
+
+				
+					<li class="icl-bg wpml-ls-slot-sidebar-1 wpml-ls-item wpml-ls-item-bg">
+						<a href="https://blog.counter-strike.net/bg/2012/08/16858/" hreflang="bg" lang="bg" class="wpml-ls-link" aria-label="Switch to български" title="Switch to български">
+							<span class="wpml-ls-native icl_lang_sel_native">български</span></a>
+					</li>
+
+				
+					<li class="icl-it wpml-ls-slot-sidebar-1 wpml-ls-item wpml-ls-item-it">
+						<a href="https://blog.counter-strike.net/it/2012/08/5054/" hreflang="it" lang="it" class="wpml-ls-link" aria-label="Switch to Italiano" title="Switch to Italiano">
+							<span class="wpml-ls-native icl_lang_sel_native">Italiano</span></a>
+					</li>
+
+				
+					<li class="icl-ro wpml-ls-slot-sidebar-1 wpml-ls-item wpml-ls-item-ro">
+						<a href="https://blog.counter-strike.net/ro/2012/08/3786/" hreflang="ro" lang="ro" class="wpml-ls-link" aria-label="Switch to Română" title="Switch to Română">
+							<span class="wpml-ls-native icl_lang_sel_native">Română</span></a>
+					</li>
+
+				
+					<li class="icl-sv wpml-ls-slot-sidebar-1 wpml-ls-item wpml-ls-item-sv wpml-ls-last-item">
+						<a href="https://blog.counter-strike.net/sv/2012/08/3878/" hreflang="sv" lang="sv" class="wpml-ls-link" aria-label="Switch to Svenska" title="Switch to Svenska">
+							<span class="wpml-ls-native icl_lang_sel_native">Svenska</span></a>
+					</li>
+
+							</ul>
+
+		</li>
+
+	</ul>
+</div>
+</li>
+	</div>
+
+	<!-- monthly uniques -->
+	<div class="sidebar_item sidebar_container">
+        <div class="title_sidebar_monthly" style="display:none" id="monthlyplayersdiv">
+			<div class="monthly" id="monthlyplayercounter">
+			</div> 
+			                <div class="uniques">Unique players last month</div>
+					    </div>
+			<script language="javascript">
+			$j.ajax({
+				type: 'GET',
+				url: 'https://api.steampowered.com/ICSGOServers_730/GetMonthlyPlayerCount/v1?format=json&origin=https:%2F%2Fblog.counter-strike.net',
+				dataType: 'json',
+				cache: true,
+			    success: function(data) 
+			    {
+					if ( data && data.result && data.result.players )
+					{
+						$j('#monthlyplayercounter').html( data.result.players.toLocaleString("en-US") );
+						$j('#monthlyplayersdiv').show();
+					}
+			    }
+			});
+			</script>
+        <div style='clear:both'></div>
+	</div> 
+	<!-- close monthly uniques div -->
+
+	<!-- buy -->
+			<div id="buy">	
+			<a href="http://store.steampowered.com/app/730/" id="getcsgo"><span class="playlabel">Play CS:GO on Steam</span></a>
+		</div>
+		<div id="merch">	
+			<a href="https://valvestore.welovefine.com/title/detailView/cs-go.html" id="getmerch"><span class="merchlabel">Get CS:GO Merchandise</span></a>
+		</div>
+		<!-- close buy -->
+	
+
+<!-- workshop queue -->
+<!--
+<div class="sidebar_item sidebar_container">	
+	<div id="sidebar_workshop_queue">
+			<h5>YOUR WORKSHOP QUEUE</h5>
+			<a href="http://steamcommunity.com/app/730/workshop/" target="_blank">VOTE</a> for your favorite community-made items.
+			<div>
+				<a href="http://steamcommunity.com/app/730/workshop/" target="_blank"><img src="http://media.steampowered.com/apps/csgo/blog/images/workshop/queue/queue.png"></a>
+			</div>	
+        	<div style='clear:both'></div>
+	</div>
+</div>
+-->
+
+<!-- live streams and upcoming matches --
+	<div id="sidebar_streams" class="sidebar_item sidebar_container">
+		<div id="title_streams" class="title_sidebar">
+			<img src="http://media.steampowered.com/apps/csgo/blog/images/stream.png" />
+			<h5>LIVE STREAMS</h5>
+		</div>
+		<div id="streams" class="sidebar_content">
+			<div style='clear:both'></div>
+		</div>	
+	</div> 
+ 
+
+	<div id="sidebar_upcoming" class="sidebar_item sidebar_container">
+		<div id="title_upcoming" class="title_sidebar">
+			<img src="http://media.steampowered.com/apps/csgo/blog/images/upcomingmatch.png" />
+			<h5>UPCOMING MATCHES</h5>
+		</div>
+		<div id="upcomingmatches" class="sidebar_content">
+		</div>
+	</div>
+ -->
+
+	<!-- update history -->
+	<div id="update_history" class="sidebar_item sidebar_container">	
+		<hr style="width: 80%; background-color: #506686; border: none; height: 1px; margin-right: 32px; margin-bottom: 15px;" />
+		<p class="uniques">Major Updates</p><br />
+		<a href="https://counter-strike.net/riptide" id="update_riptide" title="Operation Riptide"></a>
+		<a href="https://counter-strike.net/brokenfang" id="update_brokenfang" title="Operation Broken Fang"></a>
+		<a href="https://counter-strike.net/shatteredweb" id="update_shatteredweb" title="Operation Shattered Web"></a>
+		<a href="https://counter-strike.net/dangerzone" id="update_dangerzone" title="Introducing Danger Zone — a fast-paced battle royale game mode built on CS:GO's tactical gameplay."></a>
+		<a href="https://counter-strike.net/dust2" id="update_dust2" title="Update to the classic competitive mainstay."></a>
+		<a href="https://counter-strike.net/operationhydra" id="update_hydra" title="Operation Hydra"></a>
+		<a href="https://www.counter-strike.net/inferno/" id="update_inferno" title="Re-visiting the classic Inferno, we focused on quality-of-life upgrades and gameplay-tweaks."></a>
+		<a href="https://www.counter-strike.net/operationwildfire/" id="update_wildfire" title="Operation Wildfire"></a>
+		<a href="https://www.counter-strike.net/reintroducing_nuke/" id="update_nuke" title="Introducing the latest evolution of this 1999 classic map."></a>
+		<a href="https://www.counter-strike.net/operationbloodhound/" id="update_bloodhound" title="Operation Bloodhound"></a>
+		<a href="https://www.counter-strike.net/operationvanguard/" id="update_vanguard" title="Operation Vanguard"></a>
+		<a href="https://www.counter-strike.net/reintroducing_train" id="update_train" title="We've rebuilt the map from the ground up in order to improve both the visual appearance and competitive gameplay balance."></a>
+		<a href="https://www.counter-strike.net/operationbreakout/" id="update_breakout" title="Operation Breakout"></a>
+		<a href="https://blog.counter-strike.net/index.php/2014/02/8768/" id="update_phoenix" title="Operation Phoenix"></a>
+		<!--a href="http://blog.counter-strike.net/index.php/2014/05/9466/" id="update_huntsman"><span>The Huntsman Update</span></a-->
+		<!--a href="http://blog.counter-strike.net/index.php/2014/02/8644/" id="update_cz"><span>Introducing the cz75-auto</span></a-->
+		<!--a href="http://blog.counter-strike.net/index.php/2013/12/8348/" id="update_winter_offensive"><span>The winter offensive holiday update</span></a-->
+		<a href="https://blog.counter-strike.net/index.php/2013/12/8306/" id="update_2maps" title="Update to the classic Cbble and a brand new map, Overpass"></a>
+		<a href="https://counter-strike.net/operationbravo" id="update_bravo" title=
+"Operation Bravo, CS:GO's second operation"></a>
+		<a href="https://counter-strike.net/armsdeal" id="update_arms_deal" title="The introduction of unique weapon finish collections and cases to CS:GO."></a>
+		<a href="https://counter-strike.net/operationpayback" id="update_payback" title="Operation Payback, CS:GO's first operation"></a>
+		
+		<br /><br /><p class="uniques">Major Tournaments and Champions</p><br />
+		<a href="https://blog.counter-strike.net/index.php/2021/11/36175/" id="update_stockholm2021" title="NAVI - Major Champions! PGL Stockholm 2021"></a>
+		<a href="https://blog.counter-strike.net/index.php/2019/09/25446/" id="update_berlin2019" title="Astralis - Major Champions! Starladder Berlin 2019"></a>
+		<a href="https://blog.counter-strike.net/index.php/2019/03/23296/" id="update_katowice2019" title="Astralis - Major Champions! IEM/ESL Katowice 2019"></a>
+		<a href="https://blog.counter-strike.net/index.php/2018/09/21154/" id="update_london2018" title="Astralis - Major Champions! Faceit London 2018"></a>
+		<a href="https://blog.counter-strike.net/index.php/2018/01/19972/" id="update_boston2018" title="Cloud9 - Major Champions! ELEAGUE Boston 2018"></a>
+		<a href="https://blog.counter-strike.net/index.php/2017/07/19137/" id="update_krakow2017" title="Gambit - Major Champions! PGL Krakow 2017"></a>
+		<a href="https://blog.counter-strike.net/index.php/2017/01/17770/" id="update_atlanta2017" title="Astralis - Major Champions! ELEAGUE Atlanta 2017"></a>
+		<a href="https://blog.counter-strike.net/index.php/2016/07/15152/" id="update_cologne2016" title="SK Gaming - Major Champions! ESL One Cologne 2016"></a>
+		<a href="https://blog.counter-strike.net/index.php/2015/11/12978/" id="update_cluj-napoca2015" title="Team EnVyUs - Major Champions! DreamHack Cluj-Napoca 2015"></a>
+		<a href="https://blog.counter-strike.net/index.php/2015/08/12312/" id="update_cologne2015" title="Fnatic - Major Champions! ESL One Cologne 2015"></a>
+		<a href="https://blog.counter-strike.net/index.php/2015/03/11579/" id="update_katowice2015" title="Fnatic - Major Champions! ESL One Katowice 2015"></a>
+		<a href="http://blog.counter-strike.net/index.php/2014/11/10986/" id="update_jonkoping2014" title="Team LDLC - Major Champions! - Dreamhack Winter Jönköping 2014"></a>
+		<a href="http://blog.counter-strike.net/index.php/2014/08/10177/" id="update_cologne2014" title="Ninjas in Pyjamas - Major Champions! ESL One Cologne 2014"></a>
+		<a href="http://blog.counter-strike.net/index.php/2014/03/9105/" id="update_katowice2014" title="Virtus.Pro - Major Champions! EMS One Katowice 2014"></a>
+		<a href="http://blog.counter-strike.net/index.php/2013/12/8278/" id="update_jonkoping2013" title="Fnatic - Major Champions! Dreamhack Jönköping 2013"></a>
+		
+		<!--a href="http://blog.counter-strike.net/index.php/2013/11/8199/" id="update_90new_weapons"><span>Introducing 90 New Weapons</span></a-->
+		
+		<br /><br /><p class="uniques">CS:GO Community Workshops</p><br />
+		<a href="http://counter-strike.net/workshop/workshopfinishes" id="update_weapon_workshop" title="Create weapon finishes and submit your original work to the community workshop."></a>
+				<a href="https://blog.counter-strike.net/index.php/2014/02/8805/" id="update_stickers" title="Explore our sticker creation guide and browse the community workshop."></a>		<a href="http://counter-strike.net/workshop/workshopmaps" id="update_maps_workshop" title="The CS:GO Maps Workshop makes it easy to find, download, and play CS:GO maps created by the community."></a>
+		
+		
+		
+		<!--a href="http://blog.counter-strike.net/index.php/resources/" id="update_protips"><span>Pro Tip Series</span></a-->
+		<!--a href="http://blog.counter-strike.net/index.php/2012/10/5565/" id="update_skillgroups"><span>Competitive Skill Groups faq</span></a-->
+		<!--a href="http://blog.counter-strike.net/index.php/2012/08/4690/" id="update_trailer"><span>The CS:GO Trailer</span></a-->
+	</div><!-- update history -->
+
+	<!-- resources -->
+	<!-- <div id="sidebar_resources" class="sidebar_item sidebar_container">
+		<div id="title_resources" class="title_sidebar">
+			<img src="http://media.steampowered.com/apps/csgo/blog/images/crosshair.png" />
+			<a href="https://blog.counter-strike.net/?page_id=15119"><h5>RESOURCES</h5></a>
+		</div>
+		<div id="resources" class="sidebar_content">
+			<div class="sidebar_sub_content">
+				<img src="http://media.steampowered.com/apps/csgo/blog/images/thumbnail_csgo_competitive.png" class="sidebar_thumbnail left"/>
+				<div class="left">	
+					<span class="blue bold"><a href="http://www.steampowered.com/v/?area=tourney_limited_signup">TOURNAMENT SIGNUP</a></span>
+					<div class="description_text">Click the link to get started</div>
+				</div>	
+			</div>
+			<div style='clear:both'></div>
+			<div class="sidebar_sub_content">
+				<img src="http://media.steampowered.com/apps/csgo/blog/images/thumbnail_getRight.png" class="sidebar_thumbnail left"/>
+				<div class="left">	
+					<span class="blue bold"><a href="https://blog.counter-strike.net/?page_id=15119#protips">PRO TIP: </a></span><span class="orange bold">GeT_RiGhT</span>
+					<div class="description_text">Backup role on de_inferno</div>
+				</div>	
+			</div>
+			<div style='clear:both'></div>
+			<div class="sidebar_sub_content">
+				<img src="http://media.steampowered.com/apps/csgo/blog/images/thumbnail_de_fuser.png" class="sidebar_thumbnail left"/>
+				<div class="left">	
+					<span class="blue bold"><a href="http://issuu.com/de_fuser/docs/de_fuser_issue_seven?mode=window&backgroundColor=%23222222" target="_blank">COMMUNITY: </a></span><span class="orange bold">de_fuser</span>
+					<div class="description_text">CS:GO Magazine</div>
+				</div>	
+			</div>
+		</div>
+		<div style='clear:both'></div>
+	</div> --> <!-- close resources div -->
+	
+
+	<!-- trailer -->
+	<!-- <div id="sidebar_competitions" class="sidebar_item sidebar_container">
+		<div id="trailer" class="sidebar_content">
+			<a href="http://blog.counter-strike.net/index.php/2012/08/4472/">
+				<img src="http://media.steampowered.com/apps/csgo/blog/images/thumbnail_trailer.png" class="left"/>
+			</a>	
+				<div class="blue bold left trailer_link"><a href="http://blog.counter-strike.net/index.php/2012/08/4472/">CS:GO Trailer</a></div>
+			
+		</div>
+		<div style='clear:both'></div>
+	</div> --> <!-- close trailer div -->
+
+	<!-- valvestore -->
+	<!-- <div id="sidebar_competitions" class="sidebar_item sidebar_container">
+		<div id="valvestore" class="sidebar_content">
+			<a href="http://store.valvesoftware.com/index.php?g=1">
+				<img src="http://media.steampowered.com/apps/csgo/blog/images/csgo_merch_patches.png" class="left"/>
+			</a>	
+				<div class="blue bold left trailer_link"><a href="http://store.valvesoftware.com/index.php?g=1">MERCHANDISE</a></div>
+			
+		</div>
+		<div style='clear:both'></div>
+	</div> --> <!-- close valvestore div -->
+
+			
+		<div id="sidebar_facts_nav" class="sidebar_container">
+			<div id="title_resources" class="title_sidebar">
+				<img src="https://steamcdn-a.akamaihd.net/apps/csgo/blog/images/icon_shooter.png" />
+				<a class="title" href="https://blog.counter-strike.net"><h5>RECENT POSTS ON THE BLOG</h5></a>
+			</div>
+			<div class="sidebar_item sidebar_padding10 sidebar_content">
+							
+			<div class="inner_sidebar_item"><div class='blue'><a href='https://blog.counter-strike.net/?p=41085'>Bedna, kapsle, hudba aneb vyvážená aktualizace</a></div><div style='clear:both;'></div></div>	<!-- close sidebar_item div --><div class="inner_sidebar_item"><div class='blue'><a href='https://blog.counter-strike.net/?p=40629'>Záslužná aktualizace</a></div><div style='clear:both;'></div></div>	<!-- close sidebar_item div --><div class="inner_sidebar_item"><div class='blue'><a href='https://blog.counter-strike.net/?p=40487'>Na Annu si došlápla BIS</a></div><div style='clear:both;'></div></div>	<!-- close sidebar_item div --><div class="inner_sidebar_item"><div class='blue'><a href='https://blog.counter-strike.net/?p=40377'>IEM Rio 2022: vítězové</a></div><div style='clear:both;'></div></div>	<!-- close sidebar_item div --><div class="inner_sidebar_item"><div class='blue'><a href='https://blog.counter-strike.net/?p=40270'>IEM Rio 2022: playoff</a></div><div style='clear:both;'></div></div>	<!-- close sidebar_item div -->			</div>	<!-- close inner_sidebar_item div -->
+				
+			
+			<div style='clear:both'></div>
+		</div> <!-- close sidebar_container community div -->
+		
+	
+		
+
+	<!--?php
+		if(function_exists('dynamic_sidebar') && !isset( $_GET['perfectworld'] ) )
+		{
+			dynamic_sidebar();
+		}
+	? -->
+</div> <!-- close sidebar2 div -->			
+			<div style="clear:both"></div>
+		</div> <!-- close content_container div -->	
+		<div id="footer" style="width: 615px;">
+	<a href="http://www.esrb.org/ratings/" class="esrb"><img src="https://blog.counter-strike.net/wp-content/themes/counterstrike_launch/images/footer_esrb.jpg"/></a>	<div id="footer_content">
+		<a href="http://www.valvesoftware.com"><img src="https://blog.counter-strike.net/wp-content/themes/counterstrike_launch/images/footer_valve.png"/></a>
+		<a href="http://source.valvesoftware.com/"><img src="https://blog.counter-strike.net/wp-content/themes/counterstrike_launch/images/footer_source.png"/></a>		<a href="http://www.steampowered.com"><img src="https://blog.counter-strike.net/wp-content/themes/counterstrike_launch/images/footer_steam.png"/></a>		<br/>
+		<p>&copy 2026 Valve Corporation, all rights reserved.  Valve, the Valve logo, Source, the Source logo, Steam, the Steam logo, Counter-Strike, and the Counter-Strike logo are trademarks and/or registered trademarks of the Valve Corporation.</p>
+		<script src="/wp-content/themes/counterstrike_launch/js/agever.js"></script>
+	</div>
+	<!-- wpcom_wp_footer -->
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/cs/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/counterstrike_launch/*","/cs/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<meta id="bilmur" property="bilmur:data" content="" data-customproperties="{&quot;woo_active&quot;:&quot;0&quot;,&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;counterstrike_launch&quot;,&quot;wptheme_is_block&quot;:&quot;0&quot;}" data-provider="wordpress.com" data-service="atomic"  data-site-tz="America/Los_Angeles" >
+<script defer src="https://s0.wp.com/wp-content/js/bilmur.min.js?m=202626"></script>
+</div> <!-- close footer div -->	</div> <!-- close container div -->
+</body>
+
+</html>

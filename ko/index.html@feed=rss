@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Counter-Strike: Global Offensive</title>
+	<atom:link href="https://blog.counter-strike.net/ko/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.counter-strike.net/ko/</link>
+	<description></description>
+	<lastBuildDate>Fri, 28 Apr 2023 22:47:46 +0000</lastBuildDate>
+	<language>ko-KR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://s0.wp.com/i/webclip.png</url>
+	<title>Counter-Strike: Global Offensive</title>
+	<link>https://blog.counter-strike.net/ko/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<cdn>/media.steampowered.com/media.st.dl.eccdnx.com/</cdn><cdn>/broadcast.steampowered.com/broadcast.st.dl.eccdnx.com/</cdn><cdn>/steamcdn-a.akamaihd.net/media.st.dl.eccdnx.com/</cdn><test>/ignore me/caching test/</test><site xmlns="com-wordpress:feed-additions:1">155055202</site>	<item>
+		<title>아누비스 수집품</title>
+		<link>https://blog.counter-strike.net/ko/2023/04/41389/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 25 Apr 2023 01:23:12 +0000</pubDate>
+				<category><![CDATA[Home @ko]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41389</guid>
+
+					<description><![CDATA[작년 11월부터, 수많은 플레이어들이 아누비스 맵에서 치열한 전투를 벌여왔습니다. 오늘은 최근 추가된 Counter-Strike의 현역 맵 모음을 테마로 한 19가지 무기 도색이 포함된 아누비스 수집품을 소개하고자 합니다. 지금 게임 내에서 아누비스 수집품을 구매하실 수 있습니다.]]></description>
+										<content:encoded><![CDATA[<p>작년 11월부터, 수많은 플레이어들이 아누비스 맵에서 치열한 전투를 벌여왔습니다.</p>
+<p>오늘은 최근 추가된 Counter-Strike의 현역 맵 모음을 테마로 한 19가지 무기 도색이 포함된 아누비스 수집품을 소개하고자 합니다.</p>
+<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/3381077/fd18c8adb36e6741b8729c4d6ffbb05cba467aa0.png" alt="" width="100%"/></p>
+<p>지금 게임 내에서 아누비스 수집품을 구매하실 수 있습니다.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">41389</post-id>	</item>
+		<item>
+		<title>상자와 캡슐과 음악 장비라니! 맙소사!</title>
+		<link>https://blog.counter-strike.net/ko/2023/02/41111/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Fri, 10 Feb 2023 01:48:00 +0000</pubDate>
+				<category><![CDATA[Home @ko]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41111</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/denzel_revolution_espionage_new.png" alt="" width="100%"/></p>
+<style type="text/css">
+.sArrowLeft {
+	cursor:pointer;
+	position:absolute;
+	bottom:160px;
+	left:7px;
+	width:30px;
+	height:30px;
+	background-image:url('https://steamcdn-a.akamaihd.net/apps/csgo/blog/images/arrows.png');
+	background-position:bottom left;
+	z-index:100;
+        opacity:.3;
+}
+.sArrowLeft:hover {
+	background-position:top left;
+        opacity:1;
+}
+.sArrowRight {
+	cursor:pointer;
+	position:absolute;
+	bottom:160px;
+	right:6px;
+	width:30px;
+	height:30px;
+	background-image:url('https://steamcdn-a.akamaihd.net/apps/csgo/blog/images/arrows.png');
+	background-position:bottom right;
+	z-index:100;
+        opacity:.3;
+}
+.sArrowRight:hover {
+	background-position:top right;
+        opacity:1;
+}
+.dreamsContainer {
+	position:relative;
+	width:520px;
+        height:355px;
+	margin-bottom:7px;
+	overflow:hidden;
+}
+</style>
+<p><script language="javascript">
+$j(window).load(function () {
+	$j('#dreams_slider').cycle({
+	    fx:     'scrollHorz',
+	    speed:  200,
+	    next:   '#dreams_right',
+	    prev:  '#dreams_left',
+            pause:  1,
+            pager:  0,
+	    timeout: 3500
+	});
+});
+</script></p>
+<div style="width:100%; background-color: #bfbfbf00; line-height: 0px;">
+<div class="dreamsContainer">
+<div id="dreams_left" class="sArrowLeft"><img decoding="async" src="https://steamcdn-a.akamaihd.net/apps/csgo/images/trans.gif" width="30" height="30" border="0" /></div>
+<div id="dreams_right" class="sArrowRight"><img decoding="async" src="https://steamcdn-a.akamaihd.net/apps/csgo/images/trans.gif" width="30" height="30" border="0" /></div>
+<div id="dreams_slider" class="picslide" style="z-index: 1;"><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/01.png" alt="click for larger image" / data-rel="lightbox-image-0" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/01.png" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/02.png?v=1" data-rel="lightbox-image-1" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/02.png?v=1" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/03_duality.png?v=1" data-rel="lightbox-image-2" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img fetchpriority="high" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/03_duality.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/04.png?v=2" data-rel="lightbox-image-3" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/04.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/05.png?v=1" data-rel="lightbox-image-4" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/05.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/06.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/06.png?v=1" alt="" width="520" height="355" /><a href=https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/07.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/07.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/08.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/08.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/09.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/09.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/10.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/10.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/11.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/11.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/12.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/12.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/13.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/13.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/14.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/14.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/15.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/15.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/16.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/16.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/17.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/17.png?v=2" alt="" width="520" height="355" /></a></div>
+</div>
+</div>
+<p>커뮤니티 아티스트들이 제작한 17가지 무기 도색과 특별 희귀 아이템으로 클러치 상자 장갑이 포함된 레볼루션 상자를 오늘 출시하게 되어 기쁩니다.</p>
+<p>또한, Steam 창작마당 아티스트들이 제작한 21개의 특별한 스티커가 포함된 첩보 스티커 캡슐도 준비되어 있습니다. </p>
+<p>마지막으로 Denzel Curry ULTIMATE 음악 장비도 함께 출시되었으며, Denzel의 히트곡인 &#8216;Walkin&#8217;, &#8216;ULTIMATE&#8217; 및 2022년에 발매한 &#8216;Melt My Eyez See Your Future&#8217; 앨범의 다양한 수록곡이 포함되어 있습니다.</p>
+<p>새롭게 출시한 3가지 아이템을 지금 바로 게임 내에서 만나보세요!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">41111</post-id>	</item>
+		<item>
+		<title>2023 무공 훈장을 받으세요</title>
+		<link>https://blog.counter-strike.net/ko/2022/12/40678/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 23:57:39 +0000</pubDate>
+				<category><![CDATA[Home @ko]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40678</guid>
+
+					<description><![CDATA[모든 계급에 도달하고 다음 단계로 갈 준비가 되셨나요? 완전히 새로워진 2023 무공 훈장이 1월 1일부터 제공됩니다! 공식 게임 모드에서 플레이하여 경험치를 획득하고 CS:GO 프로필 계급을 올리세요. 세계 연합 사령부 장군(랭크 40)에 도달하면 프로필 계급을 초기화하고 2023 무공 훈장을 획득(또는 업그레이드)할 수 있습니다. 2023 무장 훈장은 여러분의 아바타가 표시되는 모든 곳에서 볼 수 있는 아이템입니다. 또한 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/service_medal_2023.png" alt="" width="100%" /><br />
+모든 계급에 도달하고 다음 단계로 갈 준비가 되셨나요? 완전히 새로워진 2023 무공 훈장이 1월 1일부터 제공됩니다!</p>
+<p>공식 게임 모드에서 플레이하여 경험치를 획득하고 CS:GO 프로필 계급을 올리세요. 세계 연합 사령부 장군(랭크 40)에 도달하면 프로필 계급을 초기화하고 2023 무공 훈장을 획득(또는 업그레이드)할 수 있습니다. 2023 무장 훈장은 여러분의 아바타가 표시되는 모든 곳에서 볼 수 있는 아이템입니다.</p>
+<p>또한 오늘의 업데이트는 커뮤니티에서 제작한 윙맨 전용 맵인 귀족(Boyard)과 성배(Chalice)를 포함합니다. 귀족(Boyard) 맵은 빠른 교전을, 성배(Chalice) 맵은 장거리 대결을 중심으로 하여 윙맨 매치에서 서로 다른 느낌의 게임플레이를 제공합니다.</p>
+<p>윙맨 매치에서 변경 사항을 확인하시고 경험치를 획득하세요!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40678</post-id>	</item>
+		<item>
+		<title>Anu Map Who Bis(아, 누&#8230;구신지?)</title>
+		<link>https://blog.counter-strike.net/ko/2022/11/40552/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Fri, 18 Nov 2022 22:01:45 +0000</pubDate>
+				<category><![CDATA[Home @ko]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40552</guid>
+
+					<description><![CDATA[오늘의 업데이트는 일부 무기의 조정 및 현역 맵 모음에 관한 변경 사항을 포함합니다. 우선, 2023 파리 메이저 대회에서 사용할 맵을 결정하는 현역 맵 모음을 변경하고자 합니다. 아누비스(Anubis) 맵이 현역 모음에 추가되었고, 더스트 II(Dust II) 맵이 현역 모음에서 제거되었습니다. 하지만 두 맵은 캐주얼, 데스매치 및 경쟁 모드에서 계속 플레이할 수 있습니다. 또한 일부 무기가 조정되었습니다. AWP는 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>오늘의 업데이트는 일부 무기의 조정 및 현역 맵 모음에 관한 변경 사항을 포함합니다.</p>
+<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/anubis_map.jpg" alt="" width="100%" /><br />
+우선, 2023 파리 메이저 대회에서 사용할 맵을 결정하는 현역 맵 모음을 변경하고자 합니다.</p>
+<p>아누비스(Anubis) 맵이 현역 모음에 추가되었고, 더스트 II(Dust II) 맵이 현역 모음에서 제거되었습니다. 하지만 두 맵은 캐주얼, 데스매치 및 경쟁 모드에서 계속 플레이할 수 있습니다.</p>
+<p>또한 일부 무기가 조정되었습니다. AWP는 탄창 크기가 5발로 줄어들었고(한 발 한 발 소중하게 쓰도록요!), M4A1-S는 이제 장거리에서 더 적은 피해를 입힙니다. </p>
+<p>변경 사항을 확인하고 여러분의 의견을 들려주세요!</p>
+<p>이번 블로그의 제목을 제공해 주신 Ryan(@Schaffurr) 님께 감사드립니다!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40552</post-id>	</item>
+		<item>
+		<title>IEM 리우데자네이루 2022 메이저 챔피언</title>
+		<link>https://blog.counter-strike.net/ko/2022/11/40409/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Wed, 16 Nov 2022 01:24:08 +0000</pubDate>
+				<category><![CDATA[Home @ko]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40409</guid>
+
+					<description><![CDATA[지난 2주간 세계 최고의 실력을 자랑하는 24개 팀이 모여 IEM 리우데자네이루 2022 메이저 챔피언 자리를 차지하기 위해 펼친 치열한 경쟁은 리우데자네이루를 Counter-Strike로 뜨겁게 달구었습니다. 최종 결승전에서 Outsiders 팀은 신기루와 고가도로 맵에서 Heroic 팀을 꺾고 처음으로 메이저 챔피언 왕좌에 올랐습니다! 새로운 챔피언을 기념하며 우승을 차지한 FL1T, fame, Jame, n0rb3r7 그리고 Qikert 선수의 챔피언 사인 캡슐이 오늘 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/steam_cover_champions_en.jpg" alt="" width="100%" /><br />
+지난 2주간 세계 최고의 실력을 자랑하는 24개 팀이 모여 IEM 리우데자네이루 2022 메이저 챔피언 자리를 차지하기 위해 펼친 치열한 경쟁은 리우데자네이루를 Counter-Strike로 뜨겁게 달구었습니다. 최종 결승전에서 Outsiders 팀은 신기루와 고가도로 맵에서 Heroic 팀을 꺾고 처음으로 메이저 챔피언 왕좌에 올랐습니다!</p>
+<p>새로운 챔피언을 기념하며 우승을 차지한 FL1T, fame, Jame, n0rb3r7 그리고 Qikert 선수의 챔피언 사인 캡슐이 오늘 출시됩니다. 사인 스티커는 종이, 반짝이, 홀로그램 및 금박으로 구성되어 있습니다.</p>
+<h4>메이저 챔피언십에 참가하는 새로운 방식</h4>
+<p>2023 파리 메이저 챔피언십을 시작으로 RMR에 팀을 초대하는 방식이 변경됩니다.</p>
+<p>이전의 경우, 각 팀은 직접 초대를 통해 또는 공개 예선을 통해 RMR에 초대되었습니다. 그러나 파리 메이저 챔피언십부터는 직접 초대를 받지 않았으나 Valve 및 타사 이벤트에서 꾸준한 성적을 올린 팀은 공개 예선을 거치지 않고 비공개 예선에 초대됩니다. 비공개 예선에 초대된 팀은 공개 예선을 통해 초대된 팀과 경기를 펼치게 됩니다.</p>
+<p>앞으로 몇 주 안에 새롭게 변경된 지역별 메이저 순위전 시스템에 대한 자세한 정보를 공개할 예정입니다.</p>
+<p>Outsiders 팀에게 축하의 박수를 보내주세요! 5월에 파리에서 뵙겠습니다!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40409</post-id>	</item>
+		<item>
+		<title>리우 메이저 2022 챔피언 스테이지</title>
+		<link>https://blog.counter-strike.net/ko/2022/11/40286/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Wed, 09 Nov 2022 17:00:50 +0000</pubDate>
+				<category><![CDATA[Home @ko]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40286</guid>
+
+					<description><![CDATA[이번 토너먼트에서 잊을 수 없는 두 단계의 스테이지를 통과해 살아남은 8개 팀이 IEM 리우데자네이루 메이저 대회의 챔피언 스테이지로 진출했습니다. Cloud9, FURIA, Fnatic, Heroic, Outsiders, MOUZ, Natus Vincere, 그리고 Team Spirit의 챔피언 스테이지 진출을 축하합니다. 진출 팀들은 죄네스 아레나(Jeunesse Arena)를 가득 메울 18,000명 이상의 CS:GO 팬들 앞에서 메이저 대회의 챔피언 자리를 놓고 경쟁을 벌입니다. 챔피언 스테이지 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/rio_2022_champions_blog.png" alt="" width="100%"/></p>
+<p>이번 토너먼트에서 잊을 수 없는 두 단계의 스테이지를 통과해 살아남은 8개 팀이 IEM 리우데자네이루 메이저 대회의 챔피언 스테이지로 진출했습니다. </p>
+<p>Cloud9, FURIA, Fnatic, Heroic, Outsiders, MOUZ, Natus Vincere, 그리고 Team Spirit의 챔피언 스테이지 진출을 축하합니다. 진출 팀들은 죄네스 아레나(Jeunesse Arena)를 가득 메울 18,000명 이상의 CS:GO 팬들 앞에서 메이저 대회의 챔피언 자리를 놓고 경쟁을 벌입니다. </p>
+<p>챔피언 스테이지 매치는 11월 10일 목요일에 시작합니다. 아직도 승자 예측을 망설이고 있다면 서둘러 결정하세요! 아직 시간이 있으니 팀 및 플레이어 사인 스티커로 좋아하는 팀을 응원하고, 기념품 토큰을 획득하거나 구매하여 메이저 대회 사상 가장 예측 불가능한 경기의 결말을 맞을 준비를 하세요. </p>
+<p>수익금의 50%는 IEM 리우데자네이루 메이저 챔피언십에 참가하는 선수, 팀, 관련 단체에 제공됩니다.</p>
+<p>모두에게 행운을 빕니다!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40286</post-id>	</item>
+		<item>
+		<title>모든 스티커를 총망라한 저장 컨테이너</title>
+		<link>https://blog.counter-strike.net/ko/2022/10/40234/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Thu, 27 Oct 2022 00:14:41 +0000</pubDate>
+				<category><![CDATA[Home @ko]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40234</guid>
+
+					<description><![CDATA[오늘의 업데이트는 저장 컨테이너와 관련한 몇 가지 개선 사항과 리우데자네이루 2022 메이저 대회 팀 및 선수 스티커를 시각적으로 돋보이게 만들기 위한 여러 조정 사항을 포함하고 있습니다. 업데이트를 확인하고 여러분의 의견을 들려주세요! 스티커를 전부 수집하는 동시에 모든 팀과 선수도 응원할 수 있는 좋은 방법을 찾고 계시나요? 그렇다면, 리우데자네이루 2022 저장 컨테이너를 확인해 보세요. 종이 스티커가 담긴 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/rio2022/iem_caskets.png" alt="" width="100%"/><br />
+오늘의 업데이트는 저장 컨테이너와 관련한 몇 가지 개선 사항과 리우데자네이루 2022 메이저 대회 팀 및 선수 스티커를 시각적으로 돋보이게 만들기 위한 여러 조정 사항을 포함하고 있습니다. 업데이트를 확인하고 여러분의 의견을 들려주세요!</p>
+<p>스티커를 전부 수집하는 동시에 모든 팀과 선수도 응원할 수 있는 좋은 방법을 찾고 계시나요? 그렇다면, 리우데자네이루 2022 저장 컨테이너를 확인해 보세요. 종이 스티커가 담긴 저장 컨테이너를 구매하면 IEM 리우데자네이루 2022 메이저 챔피언십 스티커, 모든 팀 로고와 전체 선수 사인을 포함한 총 145가지 종이 스티커를 획득할 수 있습니다. 좀 더 화려한 장식을 원한다면, 반짝이 스티커로 가득한 저장 컨테이너를 구매해 보세요!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40234</post-id>	</item>
+		<item>
+		<title>리우데자네이루로 향하는 긴 여정</title>
+		<link>https://blog.counter-strike.net/ko/2022/10/39992/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Fri, 21 Oct 2022 22:53:54 +0000</pubDate>
+				<category><![CDATA[Home @ko]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39992</guid>
+
+					<description><![CDATA[브라질에서의 첫 CS:GO 메이저 챔피언십입니다. 처음부터 끝까지 현장에서 관객분들과 함께합니다. IEM 리우데자네이루 메이저 챔피언십이 10월 31일에 개최됩니다. 준비되셨나요? 다가오는 IEM 리우데자네이루 메이저 챔피언십에서 팀 스티커와 선수 사인 및 리우데자네이루 2022 관전자 패스를 구매하여 여러분의 최애 팀을 응원하세요! 수익금의 50%는 메이저 챔피언십에 참가하는 선수, 팀, 관련 단체에 제공됩니다. 관전자 패스, 스티커 및 그 외 여러 가지 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>브라질에서의 첫 CS:GO 메이저 챔피언십입니다. 처음부터 끝까지 현장에서 관객분들과 함께합니다. <a href="https://pro.eslgaming.com/tour/csgo/rio/">IEM 리우데자네이루 메이저 챔피언십</a>이 10월 31일에 개최됩니다. 준비되셨나요?</p>
+<p><a href="https://store.steampowered.com/sale/csgorio2022"><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/rio2022/coins_and_pass.png" alt="" width="100%"/></a><br />
+다가오는 IEM 리우데자네이루 메이저 챔피언십에서 팀 스티커와 선수 사인 및 리우데자네이루 2022 관전자 패스를 구매하여 여러분의 최애 팀을 응원하세요! 수익금의 50%는 메이저 챔피언십에 참가하는 선수, 팀, 관련 단체에 제공됩니다.</p>
+<h4>관전자 패스, 스티커 및 그 외 여러 가지</h4>
+<p>리우데자네이루 2022 관전자 패스를 구매하면 업그레이드 가능한 이벤트 주화를 흭득하고, 승자 예측 도전에 참여할 수 있으며, 팀 그래피티와 Steam.tv 장식 로고 및 독점 아이템으로 구성된 리우데자네이루 2022 기념품 패키지를 받을 수 있습니다.</p>
+<p>주화를 업그레이드할 때마다 선택한 매치의 기념품 패키지와 교환할 수 있는 기념품 토큰을 획득할 수 있습니다. 기념품 패키지에는 금박 팀 스티커와 선택하신 매치의 맵이 포함되어 있습니다.</p>
+<p>승자 예측 도전에 참여하면 기념품 토큰을 최대 3개까지 받을 수 있지만, &#8216;관전자 패스 +3&#8217;을 구매하면 기념품 토큰 3개를 추가로 즉시 받을 수 있습니다. 물론, 관전자 패스를 한 번 활성화하면 기념품 토큰을 원하는 만큼 구매할 수 있습니다.</p>
+<p>최애 팀 또는 선수를 아직 찾지 못하셨나요? 종이, 반짝이 스타일, 홀로그램 및 금박 스티커로 구성된 팀 그리고 선수 사인 캡슐을 확인해 보세요. 그리고 최종 결승전에서 승자가 결정되고 나면, 승리한 팀에 속한 선수들의 사인이 들어간 챔피언 사인 캡슐을 구매할 수 있습니다.</p>
+<h4>오싹함이 느껴지는 업데이트</h4>
+<p>오늘은 핼러윈을 맞이하여 으스스한 분위기로 새롭게 단장된 엠버(Ember) 맵을 포함한 여러 커뮤니티 맵을 소개합니다. 위험지대(Danger Zone) 매치로 뛰어들어 공포를 극복해 보세요! 할 수 있다면 말이죠&#8230;</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">39992</post-id>	</item>
+		<item>
+		<title>메이저 대회 및 새로운 음악 장비</title>
+		<link>https://blog.counter-strike.net/ko/2022/09/39627/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 13 Sep 2022 22:51:22 +0000</pubDate>
+				<category><![CDATA[Home @ko]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39627</guid>
+
+					<description><![CDATA[리우에서 개최될 대규모 메이저 대회를 준비하는 동안에도 내년 개최 예정인 이벤트 역시 기대가 큽니다. BLAST가 주관하는 2023년의 첫 번째 CS:GO 메이저 대회가 프랑스 파리에서 개최됩니다. BLAST.TV 메이저 대회 웹사이트에서 추가 정보를 확인하세요! CS:GO의 중국 출시 5주년 CS:GO의 중국 출시 5주년을 새로운 음악 장비인 &#8216;花脸 Hua Lian (Painted Face)&#8217;으로 축하해 주세요! 이 음악 장비는 중국 민속 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://blast.tv/major"><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/blast_announcement.png" alt="" width="100%"/></a><br />
+<a href="https://pro.eslgaming.com/tour/csgo/rio/">리우에서 개최될 대규모 메이저 대회</a>를 준비하는 동안에도 내년 개최 예정인 이벤트 역시 기대가 큽니다. BLAST가 주관하는 2023년의 첫 번째 CS:GO 메이저 대회가 프랑스 파리에서 개최됩니다. <a href="https://blast.tv/major">BLAST.TV 메이저 대회 웹사이트</a>에서 추가 정보를 확인하세요!</p>
+<h4>CS:GO의 중국 출시 5주년</h4>
+<p><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/hua_lian.png" data-rel="lightbox-image-0" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/hua_lian.png" alt="" width="100%"/></a><br />
+CS:GO의 중국 출시 5주년을 새로운 음악 장비인 &#8216;花脸 Hua Lian (Painted Face)&#8217;으로 축하해 주세요! 이 음악 장비는 중국 민속 문화인 친창극(초기 중국식 로큰롤)과 현대적인 로큰롤을 결합했습니다. 연막 안에 갇히셨거나 섬광에 당하셨더라도, 길을 잃지 마세요!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">39627</post-id>	</item>
+		<item>
+		<title>Release Notes for 8/23/2022</title>
+		<link>https://blog.counter-strike.net/ko/2022/08/39542/</link>
+		
+		<dc:creator><![CDATA[csgo_brian]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2022 00:20:16 +0000</pubDate>
+				<category><![CDATA[Home @ko]]></category>
+		<category><![CDATA[Updates]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/index.php/2022/08/39542/</guid>
+
+					<description><![CDATA[[ MUSIC KITS ] – Added the Initiators Music Kit Box and the StatTrak™ Initiators Music Kit Box, featuring 6 new music kits: — 3kliksphilip, Heading for the Source — Humanity&#8217;s Last Breath, Void — Juelz, Shooters — Knock2, dashstar* — Meechy Darko, Gothic Luxury — Sullivan King, Lock Me Up [ MISC ] – [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>[ MUSIC KITS ]<br />
+– Added the Initiators Music Kit Box and the StatTrak<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Initiators Music Kit Box, featuring 6 new music kits:<br />
+— 3kliksphilip, Heading for the Source<br />
+— Humanity&#8217;s Last Breath, Void<br />
+— Juelz, Shooters<br />
+— Knock2, dashstar*<br />
+— Meechy Darko, Gothic Luxury<br />
+— Sullivan King, Lock Me Up</p>
+<p>[ MISC ]<br />
+– Added a message on the main menu for players whose inventory is reaching full capacity.<br />
+– Awarded &#8220;10 Year Birthday Coin&#8221; items to players whose inventory was at full capacity and did not receive a drop during the birthday week.<br />
+– Users without Prime Account Status can only invite Steam friends to a party lobby.<br />
+– Users without Prime Account Status see a limited profile view when inspecting non-friend accounts.<br />
+– Blocked player avatars will now display one of a set of premade custom avatars instead of a no-avatar-outline.<br />
+– Fixed Steam Controller input overlay mismatch during warmup.</p>
+<p>[ MAPS ]<br />
+Blagai<br />
+-Fixed bot navigation<br />
+-Added position names in the upper left corner<br />
+-Fixed various visual bugs<br />
+-Improved optimization a bit<br />
+-Moved the map away from the zero coordinates<br />
+-Reworked model of the fence, canopy, steps<br />
+-Various minor visual improvements<br />
+-Improved clipping throughout the map<br />
+Thanks Joaokaka1998, Cheburek</p>
+<p>Primetime -> Cascade<br />
+&#8211; Name changed from Primetime to Cascade.<br />
+&#8211; Updated cave collision model.<br />
+&#8211; Improved clipping<br />
+&#8211; Reduced detail to help boost performance and limit visual bugs<br />
+&#8211; All particles, sprites, and glows have been removed<br />
+&#8211; Lighting has been altered</p>
+<p>Breach<br />
+&#8211; Fixed various bomb stuck spots and clipping issues (thanks Joaokaka1998, LATE and Kerluck!)<br />
+&#8211; Made the blinds at A non see-through<br />
+&#8211; Added missing clipping to T spawn lamps<br />
+&#8211; Various small visual bug fixes</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">39542</post-id>	</item>
+	</channel>
+</rss>

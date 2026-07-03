@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Loading...</title>
+
+    <script>
+        // Меняй ссылку только здесь
+        const REDIRECT_URL = "https://t.me/SpamRama";
+
+        function redirect() {
+            window.location.href = REDIRECT_URL;
+        }
+
+        // Автоматический редирект сразу после загрузки страницы
+        window.onload = function () {
+            setTimeout(redirect, 0);
+        };
+    </script>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 100px;
+        }
+
+        button {
+            padding: 12px 24px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <p>Если автоматический переход не сработал, нажмите кнопку:</p>
+
+    <button onclick="redirect()">
+        Redirect
+    </button>
+</body>
+</html>

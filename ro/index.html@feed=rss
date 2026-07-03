@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Counter-Strike: Global Offensive</title>
+	<atom:link href="https://blog.counter-strike.net/ro/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.counter-strike.net/ro/</link>
+	<description></description>
+	<lastBuildDate>Thu, 27 Apr 2023 17:55:54 +0000</lastBuildDate>
+	<language>ro-RO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://s0.wp.com/i/webclip.png</url>
+	<title>Counter-Strike: Global Offensive</title>
+	<link>https://blog.counter-strike.net/ro/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<cdn>/media.steampowered.com/media.st.dl.eccdnx.com/</cdn><cdn>/broadcast.steampowered.com/broadcast.st.dl.eccdnx.com/</cdn><cdn>/steamcdn-a.akamaihd.net/media.st.dl.eccdnx.com/</cdn><test>/ignore me/caching test/</test><site xmlns="com-wordpress:feed-additions:1">155055202</site>	<item>
+		<title>Colecția Anubis</title>
+		<link>https://blog.counter-strike.net/ro/2023/04/41398/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 25 Apr 2023 01:23:12 +0000</pubDate>
+				<category><![CDATA[Home @ro]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41398</guid>
+
+					<description><![CDATA[Începând cu luna noiembrie, jucătorii au tot tras cu ochiul pe culoarul din mijloc și au năvălit prin apele hărții Anubis. Astăzi lansăm colecția Anubis, care dispune de 19 finisaje de arme inspirate de cea mai nouă hartă din grupul de hărți Active Duty. Colecția Anubis este disponibilă acum pentru achiziție în joc.]]></description>
+										<content:encoded><![CDATA[<p>Începând cu luna noiembrie, jucătorii au tot tras cu ochiul pe culoarul din mijloc și au năvălit prin apele hărții Anubis.</p>
+<p>Astăzi lansăm colecția Anubis, care dispune de 19 finisaje de arme inspirate de cea mai nouă hartă din grupul de hărți Active Duty.</p>
+<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/3381077/fd18c8adb36e6741b8729c4d6ffbb05cba467aa0.png" alt="" width="100%"/></p>
+<p>Colecția Anubis este disponibilă acum pentru achiziție în joc.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">41398</post-id>	</item>
+		<item>
+		<title>Cutie, capsulă și pachet muzical… ce de lucruri!</title>
+		<link>https://blog.counter-strike.net/ro/2023/02/41103/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Fri, 10 Feb 2023 01:48:00 +0000</pubDate>
+				<category><![CDATA[Home @ro]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41103</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/denzel_revolution_espionage_new.png" alt="" width="100%"/></p>
+<style type="text/css">
+.sArrowLeft {
+	cursor:pointer;
+	position:absolute;
+	bottom:160px;
+	left:7px;
+	width:30px;
+	height:30px;
+	background-image:url('https://steamcdn-a.akamaihd.net/apps/csgo/blog/images/arrows.png');
+	background-position:bottom left;
+	z-index:100;
+        opacity:.3;
+}
+.sArrowLeft:hover {
+	background-position:top left;
+        opacity:1;
+}
+.sArrowRight {
+	cursor:pointer;
+	position:absolute;
+	bottom:160px;
+	right:6px;
+	width:30px;
+	height:30px;
+	background-image:url('https://steamcdn-a.akamaihd.net/apps/csgo/blog/images/arrows.png');
+	background-position:bottom right;
+	z-index:100;
+        opacity:.3;
+}
+.sArrowRight:hover {
+	background-position:top right;
+        opacity:1;
+}
+.dreamsContainer {
+	position:relative;
+	width:520px;
+        height:355px;
+	margin-bottom:7px;
+	overflow:hidden;
+}
+</style>
+<p><script language="javascript">
+$j(window).load(function () {
+	$j('#dreams_slider').cycle({
+	    fx:     'scrollHorz',
+	    speed:  200,
+	    next:   '#dreams_right',
+	    prev:  '#dreams_left',
+            pause:  1,
+            pager:  0,
+	    timeout: 3500
+	});
+});
+</script></p>
+<div style="width:100%; background-color: #bfbfbf00; line-height: 0px;">
+<div class="dreamsContainer">
+<div id="dreams_left" class="sArrowLeft"><img decoding="async" src="https://steamcdn-a.akamaihd.net/apps/csgo/images/trans.gif" width="30" height="30" border="0" /></div>
+<div id="dreams_right" class="sArrowRight"><img decoding="async" src="https://steamcdn-a.akamaihd.net/apps/csgo/images/trans.gif" width="30" height="30" border="0" /></div>
+<div id="dreams_slider" class="picslide" style="z-index: 1;"><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/01.png" alt="click for larger image" / data-rel="lightbox-image-0" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/01.png" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/02.png?v=1" data-rel="lightbox-image-1" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/02.png?v=1" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/03_duality.png?v=1" data-rel="lightbox-image-2" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img fetchpriority="high" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/03_duality.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/04.png?v=2" data-rel="lightbox-image-3" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/04.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/05.png?v=1" data-rel="lightbox-image-4" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/05.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/06.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/06.png?v=1" alt="" width="520" height="355" /><a href=https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/07.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/07.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/08.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/08.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/09.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/09.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/10.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/10.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/11.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/11.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/12.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/12.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/13.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/13.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/14.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/14.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/15.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/15.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/16.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/16.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/17.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/17.png?v=2" alt="" width="520" height="355" /></a></div>
+</div>
+</div>
+<p>Avem plăcerea de a lansa astăzi cutia Revolution. Aceasta dispune de 17 finisaje de arme concepute de artiștii comunității, iar, drept obiecte speciale rare, conține mănușile incluse în cutia Clutch.</p>
+<p>De asemenea, lansăm capsula cu abțibild Espionage, aceasta venind cu unul dintre cele 21 de abțibilduri unice create de artiștii atelierului Steam. </p>
+<p>În cele din urmă, lansăm și pachetul muzical Denzel Curry ULTIMATE, care conține hiturile lui Denzel, precum „Walkin”, „ULTIMATE”, dar și multe altele din albumul său din 2022, „Melt My Eyez See Your Future”.</p>
+<p>Toate cele trei sunt disponibile acum în joc!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">41103</post-id>	</item>
+		<item>
+		<title>La dispoziția dvs.</title>
+		<link>https://blog.counter-strike.net/ro/2022/12/40684/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 23:57:39 +0000</pubDate>
+				<category><![CDATA[Home @ro]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40684</guid>
+
+					<description><![CDATA[Ai ajuns la ultimul rang și îți dorești și mai mult? Noua medalie de merit 2023 va fi disponibilă începând cu 1 ianuarie! Obține puncte de experiență jucând meciuri în modurile oficiale de joc pentru a-ți mări nivelul profilului de CS:GO. Atunci când devii general global (nivelul 40), vei dispune de o opțiune care îți [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/service_medal_2023.png" alt="" width="100%" /><br />
+Ai ajuns la ultimul rang și îți dorești și mai mult? Noua medalie de merit 2023 va fi disponibilă începând cu 1 ianuarie!</p>
+<p>Obține puncte de experiență jucând meciuri în modurile oficiale de joc pentru a-ți mări nivelul profilului de CS:GO. Atunci când devii general global (nivelul 40), vei dispune de o opțiune care îți va permite să resetezi rangul profilului tău și să obții (sau îmbunătățești) o medalie de merit 2023. Medalia este un obiect de colecție care poate fi afișat în dreptul avatarului tău.</p>
+<p>Actualizarea de astăzi vine și cu două hărți comunitare noi pentru modul de joc Wingman: Boyard și Chalice. Fiecare hartă oferă un stil de joc diferit pentru modul Wingman. Boyard este o hartă cu confruntări rapide, în timp ce harta Chalice este una destinată duelurilor la distanță.</p>
+<p>Joacă meciuri Wingman pentru a descoperi noile hărți și a obține câteva puncte de experiență în plus!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40684</post-id>	</item>
+		<item>
+		<title>Anu Map Who Bis</title>
+		<link>https://blog.counter-strike.net/ro/2022/11/40574/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Fri, 18 Nov 2022 22:01:45 +0000</pubDate>
+				<category><![CDATA[Home @ro]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40574</guid>
+
+					<description><![CDATA[Actualizarea de astăzi include o modificare pentru grupul de hărți Active Duty, precum și câteva modificări pentru arme. În primul rând, am realizat câteva modificări pentru grupul de hărți Active Duty. Aceste modificări vor determina hărțile care vor fi jucate în cadrul campionatului major Paris 2023. Anubis a fost adăugată în grupul de hărți Active [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Actualizarea de astăzi include o modificare pentru grupul de hărți Active Duty, precum și câteva modificări pentru arme.</p>
+<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/anubis_map.jpg" alt="" width="100%" /><br />
+În primul rând, am realizat câteva modificări pentru grupul de hărți Active Duty. Aceste modificări vor determina hărțile care vor fi jucate în cadrul campionatului major Paris 2023.</p>
+<p>Anubis a fost adăugată în grupul de hărți Active Duty, iar Dust II a fost eliminată. Ambele hărți rămân însă disponibile pentru următoarele moduri de joc: casual, deathmatch și competitiv.</p>
+<p>De asemenea, am realizat câteva modificări pentru arme. AWP-ul are acum un încărcător cu o capacitate de cinci gloanțe în loc de zece gloanțe, așa că nu le irosi! M4A1-S provoacă acum mai puține răni la distanțe mari. </p>
+<p>Joacă un meci și spune-ne ce părere ai despre aceste modificări!</p>
+<p>Și îi mulțumim lui Ryan (@Schaffurr) pentru titlul postării de pe blog!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40574</post-id>	</item>
+		<item>
+		<title>Câștigătorii campionatului major IEM Rio</title>
+		<link>https://blog.counter-strike.net/ro/2022/11/40401/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Wed, 16 Nov 2022 01:24:08 +0000</pubDate>
+				<category><![CDATA[Home @ro]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40401</guid>
+
+					<description><![CDATA[În ultimele două săptămâni, Rio de Janeiro a devenit centrul atenției pentru Counter-Strike, timp în care cele mai bune 24 de echipe s-au luptat pentru a câștiga campionatul major IEM Rio. În urma acestei lupte pentru titlul de campioni a triumfat echipa Outsiders care a câștigat finala împotriva echipei Heroic pe hărțile Mirage și Overpass, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/steam_cover_champions_en.jpg" alt="" width="100%" /><br />
+În ultimele două săptămâni, Rio de Janeiro a devenit centrul atenției pentru Counter-Strike, timp în care cele mai bune 24 de echipe s-au luptat pentru a câștiga campionatul major IEM Rio. În urma acestei lupte pentru titlul de campioni a triumfat echipa Outsiders care a câștigat finala împotriva echipei Heroic pe hărțile Mirage și Overpass, iar astfel a câștigat primul său campionat major!</p>
+<p>Pentru a sărbători noii noștri campioni, lansăm astăzi capsula cu autografele campionilor, aceasta conținând autografele jucătorilor FL1T, fame, Jame, n0rb3r7 și Qikert sub formă de abțibilduri de hârtie, sclipitoare, holografice și aurii.</p>
+<h4>O nouă cale către campionatele majore</h4>
+<p>Începând cu campionatul major Paris 2023, vom schimba modul în care invităm echipele să participe la competițiile regionale de calificare.</p>
+<p>Înainte, echipele care participau la competițiile regionale de calificare erau fie invitate direct, fie se calificau în urma unui turneu deschis de calificări. Pentru Paris, câteva echipe care nu sunt invitate direct nu vor mai fi nevoite să participe la turneele deschise de calificare, deoarece acestea au avut parte de un parcurs remarcabil în cadrul competițiilor organizate de Valve și de către terți, iar acestea vor fi invitate direct la un turneu închis de calificare. În turneul închis, aceste echipe vor concura împotriva echipelor care avansează din turneul deschis de calificare.</p>
+<p>În săptămânile următoare urmează să dezvăluim mai multe informații despre această procedură nouă.</p>
+<p>Felicitări echipei Outsiders! Ne vedem la Paris!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40401</post-id>	</item>
+		<item>
+		<title>Rio – Faza campionilor</title>
+		<link>https://blog.counter-strike.net/ro/2022/11/40294/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Wed, 09 Nov 2022 17:00:50 +0000</pubDate>
+				<category><![CDATA[Home @ro]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40294</guid>
+
+					<description><![CDATA[După două faze de neuitat, opt echipe au rămas în joc și s-au calificat pentru faza campionilor din cadrul campionatului major IEM Rio. Felicitări echipelor Cloud9, FURIA, Fnatic, Heroic, Outsiders, MOUZ, Natus Vincere și Team Spirit care vor concura în faza campionilor în fața a peste 18.000 de fani CS:GO la Jeunesse Arena pentru titlul [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/rio_2022_champions_blog.png" alt="" width="100%"/></p>
+<p>După două faze de neuitat, opt echipe au rămas în joc și s-au calificat pentru faza campionilor din cadrul campionatului major IEM Rio. </p>
+<p>Felicitări echipelor Cloud9, FURIA, Fnatic, Heroic, Outsiders, MOUZ, Natus Vincere și Team Spirit care vor concura în faza campionilor în fața a peste 18.000 de fani CS:GO la Jeunesse Arena pentru titlul de campioni. </p>
+<p>Faza campionilor va începe joi, 10 noiembrie, așa că nu uita să realizezi ultimele pronosticuri pentru provocarea Pick&#8217;Em! Încă mai ai timp să-ți susții echipele preferate cu ajutorul abțibildurilor echipelor și al celor cu autografele jucătorilor, să obții (sau să achiziționezi) jetoane de suvenir și să te pregătești pentru a afla echipa câștigătoare a celui mai imprevizibil campionat major de până acum. </p>
+<p>50% din venituri vor merge către jucătorii, echipele și organizațiile participante la campionatul major IEM Rio.</p>
+<p>Mult noroc tuturor!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40294</post-id>	</item>
+		<item>
+		<title>Colecția completă</title>
+		<link>https://blog.counter-strike.net/ro/2022/10/40143/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Thu, 27 Oct 2022 00:14:41 +0000</pubDate>
+				<category><![CDATA[Home @ro]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40143</guid>
+
+					<description><![CDATA[Actualizarea de astăzi include mai multe îmbunătățiri generale pentru unitățile de stocare și o serie de modificări grafice pentru abțibildurile echipelor și jucătorilor participanți la Rio 2022. Aruncă o privire asupra acestora și spune-ne ce părere ai! Cauți o modalitate facilă de a-ți completa colecția de abțibilduri și de a susține toate echipele și toți [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/rio2022/iem_caskets.png" alt="" width="100%"/><br />
+Actualizarea de astăzi include mai multe îmbunătățiri generale pentru unitățile de stocare și o serie de modificări grafice pentru abțibildurile echipelor și jucătorilor participanți la Rio 2022. Aruncă o privire asupra acestora și spune-ne ce părere ai!</p>
+<p>Cauți o modalitate facilă de a-ți completa colecția de abțibilduri și de a susține toate echipele și toți jucătorii participanți? Unitățile de stocare Rio 2022 sunt acum disponibile. Achiziționează unitatea de stocare cu abțibilduri de hârtie și vei primi o unitate de stocare comemorativă care va conține toate cele 145 de abțibilduri de hârtie ale turneului: abțibildul IEM Rio 2022, toate logourile echipelor și toate autografele. Dacă dorești ceva puțin mai sclipitor, poți achiziționa unitatea de stocare care conține toate abțibildurile în varianta sclipitoare!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40143</post-id>	</item>
+		<item>
+		<title>Lungul drum spre Rio</title>
+		<link>https://blog.counter-strike.net/ro/2022/10/39996/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Fri, 21 Oct 2022 22:53:54 +0000</pubDate>
+				<category><![CDATA[Home @ro]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39996</guid>
+
+					<description><![CDATA[Primul campionat major de CS:GO din Brazilia. Public prezent pe toată durata campionatului. Campionatul major IEM Rio începe pe 31 octombrie. Ești pregătit? Campionatul major IEM Rio se aproprie cu pași repezi, iar acum ai șansa să-ți exprimi sprijinul. Abțibildurile echipelor, cele cu autografele jucătorilor și biletul de spectator pentru Rio 2022 sunt disponibile acum [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Primul campionat major de CS:GO din Brazilia. Public prezent pe toată durata campionatului. <a href="https://pro.eslgaming.com/tour/csgo/rio/">Campionatul major IEM Rio</a> începe pe 31 octombrie. Ești pregătit?</p>
+<p><a href="https://store.steampowered.com/sale/csgorio2022?l=romanian"><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/rio2022/coins_and_pass.png" alt="" width="100%"/></a><br />
+Campionatul major IEM Rio se aproprie cu pași repezi, iar acum ai șansa să-ți exprimi sprijinul. Abțibildurile echipelor, cele cu autografele jucătorilor și biletul de spectator pentru Rio 2022 sunt disponibile acum pentru achiziție! 50% din venituri vor merge către jucătorii, echipele și organizațiile participante la campionatul major.</p>
+<h4>Bilet de spectator, abțibilduri și multe altele</h4>
+<p>Obține biletul de spectator pentru Rio 2022 pentru a primi o monedă a campionatului Rio 2022, acces la provocarea Pick&#8217;Em, graffitiuri cu echipele participante, emblemele echipelor pentru Steam.tv și acces exclusiv la pachetele cu suvenire Rio 2022.</p>
+<p>De fiecare dată când îți vei îmbunătăți moneda, vei obține un jeton de suvenir pe care-l poți utiliza pentru a obține un pachet cu suvenir pentru orice meci dorești. Suvenirele conțin abțibilduri aurii ale echipelor și hărții aferente meciului pe care-l selectezi.</p>
+<p>Vei putea obține până la trei jetoane de suvenir dacă participi la provocarea Pick&#8217;Em, însă poți începe cu câteva jetoane de la bun început dacă achiziționezi „Biletul de spectator +3”. Și, desigur, ai posibilitatea de a achiziționa câte jetoane de suvenir dorești după ce activezi biletul de spectator.</p>
+<p>Vrei să-ți susții echipa sau jucătorul preferat? Capsulele cu abțibildurile echipelor și cele cu autografele jucătorilor sunt disponibile acum și conțin abțibilduri într-una dintre cele patru variante: hârtie, sclipitor, holografic și auriu. La scurt timp după terminarea marii finale, capsulele cu autografele campionilor (vor conține autografele jucătorilor echipei câștigătoare) vor deveni disponibile pentru achiziție.</p>
+<h4>Ceva înspăimântător sosește cu actualizarea de astăzi</h4>
+<p>Actualizarea de astăzi vine cu modificări pentru mai multe hărți comunitare, inclusiv o versiune specială de Halloween a hărții Ember. Aventurează-te într-un meci Danger Zone pe noua hartă, dacă ai curaj!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">39996</post-id>	</item>
+		<item>
+		<title>Campionate majore și muzică</title>
+		<link>https://blog.counter-strike.net/ro/2022/09/39608/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 13 Sep 2022 22:51:22 +0000</pubDate>
+				<category><![CDATA[Home @ro]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39608</guid>
+
+					<description><![CDATA[În timp ce ne pregătim pentru un campionat major incredibil la Rio, așteptăm cu nerăbdare și evenimentele de anul viitor. Primul campionat major de CS:GO din 2023 va fi găzduit de BLAST în Paris, Franța. Pune-ți centura și accesează pagina campionatului major BLAST.TV! Cinci ani de CS:GO în China Sărbătorește cea de-a 5-a aniversare de [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://blast.tv/major"><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/blast_announcement.png" alt="" width="100%"/></a><br />
+În timp ce ne pregătim pentru un <a href="https://pro.eslgaming.com/tour/csgo/rio/">campionat major incredibil la Rio</a>, așteptăm cu nerăbdare și evenimentele de anul viitor. Primul campionat major de CS:GO din 2023 va fi găzduit de BLAST în Paris, Franța. Pune-ți centura și accesează <a href="https://blast.tv/major">pagina campionatului major BLAST.TV</a>!</p>
+<h4>Cinci ani de CS:GO în China</h4>
+<p><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/hua_lian.png" data-rel="lightbox-image-0" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/hua_lian.png" alt="" width="100%"/></a><br />
+Sărbătorește cea de-a 5-a aniversare de la lansarea jocului CS:GO din China cu un pachet muzical unic, 花脸 Hua Lian (Painted Face). Acest pachet muzical îmbină elementele de operă folk Qinqiang (cel mai timpuriu stil chinezesc de Rock &#8216;n&#8217; Roll) cu elementele moderne de Rock &#8216;n&#8217; Roll. Fie că ești surprins de fumul unei grenade fumigene sau orbit de către o grenadă de șoc, nu-ți pierde simțul orientării!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">39608</post-id>	</item>
+		<item>
+		<title>Sunetul pachetelor muzicale</title>
+		<link>https://blog.counter-strike.net/ro/2022/08/39435/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2022 00:20:13 +0000</pubDate>
+				<category><![CDATA[Home @ro]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39435</guid>
+
+					<description><![CDATA[Azi avem plăcerea de a lansa cutia cu pachete muzicale Initiators, care conține pachete muzicale de la 3kliksphilip, Humanity&#8217;s Last Breath, Juelz, Knock2, Meechy Darko și Sullivan King. Fie că ești un fan al muzicii de dans, hip-hop, rock sau al creatorilor de conținut CS:GO, există pachete muzicale pentru toate gusturile. Cutia cu pachete muzicale [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/initiators_final.png" data-rel="lightbox-image-0" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/initiators_final.png" alt="" width="100%"/></a><br />
+Azi avem plăcerea de a lansa cutia cu pachete muzicale Initiators, care conține pachete muzicale de la 3kliksphilip, Humanity&#8217;s Last Breath, Juelz, Knock2, Meechy Darko și Sullivan King. </p>
+<p>Fie că ești un fan al muzicii de dans, hip-hop, rock sau al creatorilor de conținut CS:GO, există pachete muzicale pentru toate gusturile. Cutia cu pachete muzicale Initiators este disponibilă acum pentru achiziționare în joc!</p>
+<p>După actualizarea de astăzi, jucătorii nu mai pot obține moneda aniversară de 10 ani. Le mulțumim tuutror jucătorilor care au sărbătorit alături de noi cea de-a 10 aniversare a jocului CS:GO și au obținut medalia!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">39435</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Counter-Strike: Global Offensive</title>
+	<atom:link href="https://blog.counter-strike.net/tr/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.counter-strike.net/tr/</link>
+	<description></description>
+	<lastBuildDate>Thu, 27 Apr 2023 17:58:00 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://s0.wp.com/i/webclip.png</url>
+	<title>Counter-Strike: Global Offensive</title>
+	<link>https://blog.counter-strike.net/tr/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<cdn>/media.steampowered.com/media.st.dl.eccdnx.com/</cdn><cdn>/broadcast.steampowered.com/broadcast.st.dl.eccdnx.com/</cdn><cdn>/steamcdn-a.akamaihd.net/media.st.dl.eccdnx.com/</cdn><test>/ignore me/caching test/</test><site xmlns="com-wordpress:feed-additions:1">155055202</site>	<item>
+		<title>Anubis Koleksiyonu</title>
+		<link>https://blog.counter-strike.net/tr/2023/04/41411/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 25 Apr 2023 01:23:12 +0000</pubDate>
+				<category><![CDATA[Home @tr]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41411</guid>
+
+					<description><![CDATA[Kasımdan bu yana oyuncular ortadan bakıp Anubis&#8217;in sularından hızlıca geçiyordu. Bugünkü güncellemeyle birlikte Counter-Strike&#8217;ın &#8220;Aktif Görev&#8221; harita havuzuna eklenen en yeni haritasının şerefine Anubis temalı 19 silah kaplamasının yer aldığı Anubis Koleksiyonu&#8217;nu oyuna ekledik. Anubis Koleksiyonu oyun içinden satın alınabilir.]]></description>
+										<content:encoded><![CDATA[<p>Kasımdan bu yana oyuncular ortadan bakıp Anubis&#8217;in sularından hızlıca geçiyordu.</p>
+<p>Bugünkü güncellemeyle birlikte Counter-Strike&#8217;ın &#8220;Aktif Görev&#8221; harita havuzuna eklenen en yeni haritasının şerefine Anubis temalı 19 silah kaplamasının yer aldığı Anubis Koleksiyonu&#8217;nu oyuna ekledik.</p>
+<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/3381077/fd18c8adb36e6741b8729c4d6ffbb05cba467aa0.png" alt="" width="100%"/></p>
+<p>Anubis Koleksiyonu oyun içinden satın alınabilir.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">41411</post-id>	</item>
+		<item>
+		<title>Kasa, Kapsül, Pense, Amanın!</title>
+		<link>https://blog.counter-strike.net/tr/2023/02/41095/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Fri, 10 Feb 2023 01:48:00 +0000</pubDate>
+				<category><![CDATA[Home @tr]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41095</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/denzel_revolution_espionage_new.png" alt="" width="100%"/></p>
+<style type="text/css">
+.sArrowLeft {
+	cursor:pointer;
+	position:absolute;
+	bottom:160px;
+	left:7px;
+	width:30px;
+	height:30px;
+	background-image:url('https://steamcdn-a.akamaihd.net/apps/csgo/blog/images/arrows.png');
+	background-position:bottom left;
+	z-index:100;
+        opacity:.3;
+}
+.sArrowLeft:hover {
+	background-position:top left;
+        opacity:1;
+}
+.sArrowRight {
+	cursor:pointer;
+	position:absolute;
+	bottom:160px;
+	right:6px;
+	width:30px;
+	height:30px;
+	background-image:url('https://steamcdn-a.akamaihd.net/apps/csgo/blog/images/arrows.png');
+	background-position:bottom right;
+	z-index:100;
+        opacity:.3;
+}
+.sArrowRight:hover {
+	background-position:top right;
+        opacity:1;
+}
+.dreamsContainer {
+	position:relative;
+	width:520px;
+        height:355px;
+	margin-bottom:7px;
+	overflow:hidden;
+}
+</style>
+<p><script language="javascript">
+$j(window).load(function () {
+	$j('#dreams_slider').cycle({
+	    fx:     'scrollHorz',
+	    speed:  200,
+	    next:   '#dreams_right',
+	    prev:  '#dreams_left',
+            pause:  1,
+            pager:  0,
+	    timeout: 3500
+	});
+});
+</script></p>
+<div style="width:100%; background-color: #bfbfbf00; line-height: 0px;">
+<div class="dreamsContainer">
+<div id="dreams_left" class="sArrowLeft"><img decoding="async" src="https://steamcdn-a.akamaihd.net/apps/csgo/images/trans.gif" width="30" height="30" border="0" /></div>
+<div id="dreams_right" class="sArrowRight"><img decoding="async" src="https://steamcdn-a.akamaihd.net/apps/csgo/images/trans.gif" width="30" height="30" border="0" /></div>
+<div id="dreams_slider" class="picslide" style="z-index: 1;"><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/01.png" alt="click for larger image" / data-rel="lightbox-image-0" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/01.png" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/02.png?v=1" data-rel="lightbox-image-1" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/02.png?v=1" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/03_duality.png?v=1" data-rel="lightbox-image-2" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img fetchpriority="high" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/03_duality.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/04.png?v=2" data-rel="lightbox-image-3" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/04.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/05.png?v=1" data-rel="lightbox-image-4" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/05.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/06.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/06.png?v=1" alt="" width="520" height="355" /><a href=https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/07.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/07.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/08.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/08.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/09.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/09.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/10.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/10.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/11.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/11.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/12.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/12.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/13.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/13.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/14.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/14.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/15.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/15.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/16.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/16.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/17.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/17.png?v=2" alt="" width="520" height="355" /></a></div>
+</div>
+</div>
+<p>İçerisinde topluluk sanatçılarının yaptığı 17 adet silah kaplaması ve nadir öğe olarak Clutch Kasası eldivenleri yer alan Devrim Kasası&#8217;nı bugün oyuna ekledik.</p>
+<p>Ayrıca Steam Atölyesi sanatçılarından 21 benzersiz çıkartma içeren Casusluk Çıkartma Kapsülü&#8217;nü de oyuna ekledik. </p>
+<p>Son olarak, Denzel&#8217;in 2022&#8217;de çıkan &#8220;Melt My Eyez See Your Future&#8221; albümünden &#8220;Walking&#8221;, &#8220;ULTİMATE&#8221; gibi popüler şarkıları içeren Denzel Curry ULTIMATE müzik kitini de oyuna ekledik.</p>
+<p>Bu öğelerin üçü de artık oyun içinde mevcut!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">41095</post-id>	</item>
+		<item>
+		<title>Sadık Hizmet</title>
+		<link>https://blog.counter-strike.net/tr/2022/12/40689/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 23:57:39 +0000</pubDate>
+				<category><![CDATA[Home @tr]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40689</guid>
+
+					<description><![CDATA[En üst rütbede misiniz? 1 Ocak&#8217;tan itibaren yepyeni 2023 Hizmet Madalyası alınabilecek! Resmî oyun modlarında oynayarak TP kazanın, CS:GO profilinizin rütbesini yükseltin. Dünya Generali (Rütbe 40) olduğunuz zaman profil rütbenizi sıfırlama veya 2023 Hizmet Madalyası alma ya da yükseltme şansına sahip olursunuz. Madalya, avatarınızın gösterildiği her yerde avatarınızla beraber gösterilen incelenebilir bir vitrin öğesidir. Bugünkü [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/service_medal_2023.png" alt="" width="100%" /><br />
+En üst rütbede misiniz? 1 Ocak&#8217;tan itibaren yepyeni 2023 Hizmet Madalyası alınabilecek!</p>
+<p>Resmî oyun modlarında oynayarak TP kazanın, CS:GO profilinizin rütbesini yükseltin. Dünya Generali (Rütbe 40) olduğunuz zaman profil rütbenizi sıfırlama veya 2023 Hizmet Madalyası alma ya da yükseltme şansına sahip olursunuz. Madalya, avatarınızın gösterildiği her yerde avatarınızla beraber gösterilen incelenebilir bir vitrin öğesidir.</p>
+<p>Bugünkü güncelleme beraberinde iki yeni yoldaş haritası da getiriyor: Boyard ve Chalice. Her bir harita Yoldaş modunun oynanışına birer yenilik getiriyor; Boyard&#8217;da hızlı çatışmalar yaşayacak, Chalice&#8217;te ise uzun mesafeden çatışacaksınız.</p>
+<p>Bu haritaları denemek için hemen bir Yoldaş maçı oynayın, hem de biraz TP kazanın!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40689</post-id>	</item>
+		<item>
+		<title>Anu da kimbis? (Anu Map Who Bis)</title>
+		<link>https://blog.counter-strike.net/tr/2022/11/40494/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Fri, 18 Nov 2022 22:01:45 +0000</pubDate>
+				<category><![CDATA[Home @tr]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40494</guid>
+
+					<description><![CDATA[Bugünkü güncelleme; Aktif Görev harita grubuna bir ayarlamanın yanı sıra bazı silah ayarlamaları getiriyor. Öncelikle, Aktif Görev harita grubunda değişiklikler yapıyoruz. Bu da, 2023 Paris Major&#8217;da hangi haritaların oynanacağını belirleyecek. Anubis, Aktif Görev grubuna eklenirken, Dust II çıkarılıyor. Fakat iki harita da Basit Eğlence, Ölüm Maçı ve Rekabetçi modlarında oynanabilir olmaya devam edecek. Ayrıca, silahlarda [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Bugünkü güncelleme; Aktif Görev harita grubuna bir ayarlamanın yanı sıra bazı silah ayarlamaları getiriyor.</p>
+<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/anubis_map.jpg" alt="" width="100%" /><br />
+Öncelikle, Aktif Görev harita grubunda değişiklikler yapıyoruz. Bu da, 2023 Paris Major&#8217;da hangi haritaların oynanacağını belirleyecek.</p>
+<p>Anubis, Aktif Görev grubuna eklenirken, Dust II çıkarılıyor. Fakat iki harita da Basit Eğlence, Ölüm Maçı ve Rekabetçi modlarında oynanabilir olmaya devam edecek.</p>
+<p>Ayrıca, silahlarda da bazı ayarlamalar yapıyoruz. AWP&#8217;nin şarjör kapasitesi beş mermiye düşürüldü (yani artık her birini daha iyi değerlendirmeniz gerekecek!) ve M4A1-S artık uzak mesafelerde daha az hasar veriyor. </p>
+<p>Değişiklikleri deneyip düşüncelerinizi bizimle paylaşın!</p>
+<p>Blog gönderisinin başlığı için de Ryan&#8217;a (@Schaffurr) teşekkürler!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40494</post-id>	</item>
+		<item>
+		<title>IEM Rio Major Şampiyonları</title>
+		<link>https://blog.counter-strike.net/tr/2022/11/40391/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Wed, 16 Nov 2022 01:24:08 +0000</pubDate>
+				<category><![CDATA[Home @tr]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40391</guid>
+
+					<description><![CDATA[IEM Rio Major şampiyonu olmak için karşı karşıya gelen dünyanın en iyi 24 takımına ev sahipliği yapan Rio de Janeiro, geçtiğimiz iki hafta boyunca Counter-Strike&#8217;ın atan kalbi oldu. Outsiders, turnuvanın final maçında Heroic&#8217;i Mirage ve Overpass&#8217;te yenerek ilk Major şampiyonluklarını elde etmiş oldu! Yeni şampiyonlarımızı kutlamak için bugün Şampiyon İmzaları Kapsülü&#8217;nü oyuna ekledik. Kapsülde FL1T, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/steam_cover_champions_en.jpg" alt="" width="100%" /><br />
+IEM Rio Major şampiyonu olmak için karşı karşıya gelen dünyanın en iyi 24 takımına ev sahipliği yapan Rio de Janeiro, geçtiğimiz iki hafta boyunca Counter-Strike&#8217;ın atan kalbi oldu. Outsiders, turnuvanın final maçında Heroic&#8217;i Mirage ve Overpass&#8217;te yenerek ilk Major şampiyonluklarını elde etmiş oldu!</p>
+<p>Yeni şampiyonlarımızı kutlamak için bugün Şampiyon İmzaları Kapsülü&#8217;nü oyuna ekledik. Kapsülde FL1T, fame, Jame, n0rb3r7 ve Qikert&#8217;ın kâğıt, parıltılı, holo ve altın kaplamalı imzaları yer alıyor.</p>
+<h4>Major Turnuvalarına Giden Yeni Yol</h4>
+<p>2023 Paris Major Şampiyonası&#8217;ndan itibaren takımların RMR turnuvalarına davet edilme biçimini değiştireceğiz.</p>
+<p>Önceden, takımlar RMR turnuvalarına direkt davet veya bir dizi açık eleme aracılığıyla katılabiliyordu. Paris için direkt davet almamış bazı takımlar açık elemeleri atlayabilecek. Valve ve üçüncü taraf etkinliklerde sürekli olarak iyi performans sergileyen takımlar bir kapalı elemeye direkt olarak davet edilecek. Burada takımlar, bir açık elemeden gelen takımlara karşı mücadele edecek.</p>
+<p>Önümüzdeki haftalarda, yeni bölgesel sıralama süreci hakkında daha fazla ayrıntı açıklayacağız.</p>
+<p>Outsiders&#8217;ı tebrik ediyor, Paris&#8217;te görüşmek üzere diyoruz!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40391</post-id>	</item>
+		<item>
+		<title>Rio Şampiyonlar Aşaması</title>
+		<link>https://blog.counter-strike.net/tr/2022/11/40302/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Wed, 09 Nov 2022 17:00:50 +0000</pubDate>
+				<category><![CDATA[Home @tr]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40302</guid>
+
+					<description><![CDATA[İki unutulmaz etaptan sonra sekiz takım hayatta kaldı ve IEM, Rio Major&#8217;ın Şampiyonlar Aşamasına yükseldi. Cloud9, FURIA, Fnatic, Heroic, Outsiders, MOUZ, Natus Vincere ve Team Spirit&#8217;i tebrik ederiz; biletleri tükenen Jeunesse Arena&#8217;da 18.000&#8217;den fazla CS:GO hayranının önünde Major Şampiyonu olmak için yarışacaklar. Şampiyonlar Aşaması maçları 10 Kasım Perşembe günü başlıyor, Seçim Mücadelesi seçimlerinizi yapın! Favori [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/rio_2022_champions_blog.png" alt="" width="100%"/></p>
+<p>İki unutulmaz etaptan sonra sekiz takım hayatta kaldı ve IEM, Rio Major&#8217;ın Şampiyonlar Aşamasına yükseldi. </p>
+<p>Cloud9, FURIA, Fnatic, Heroic, Outsiders, MOUZ, Natus Vincere ve Team Spirit&#8217;i tebrik ederiz; biletleri tükenen Jeunesse Arena&#8217;da 18.000&#8217;den fazla CS:GO hayranının önünde Major Şampiyonu olmak için yarışacaklar. </p>
+<p>Şampiyonlar Aşaması maçları 10 Kasım Perşembe günü başlıyor, Seçim Mücadelesi seçimlerinizi yapın! Favori takımlarınızı takım ve oyuncu imza çıkartmalarıyla desteklemek, Hatıra Jetonları kazanmak (veya satın almak) ve şimdiye kadarki en öngörülemeyen Major sonuçlarına hazırlanmak için hâlâ zamanınız var. </p>
+<p>Elde edilen gelirin %50&#8217;si, IEM Rio Major Şampiyonası&#8217;na katılan oyunculara, takımlara ve organizasyonlara gidecek.</p>
+<p>Herkese bol şans!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40302</post-id>	</item>
+		<item>
+		<title>Tam Koleksiyon</title>
+		<link>https://blog.counter-strike.net/tr/2022/10/40156/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Thu, 27 Oct 2022 00:14:41 +0000</pubDate>
+				<category><![CDATA[Home @tr]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40156</guid>
+
+					<description><![CDATA[Bugünkü güncelleme beraberinde depolara bazı kullanım kolaylığı eklemeleri, ayrıca Rio 2022 takım ve oyuncu çıkartmalarına bir dizi görsel değişiklik getiriyor. Bu değişikliklere bir göz atın ve bize düşüncülerinizi aktarın! Tüm takımları ve oyuncuları desteklerken çıkartma koleksiyonunuzu tamamlamanın kolay bir yolunu mu arıyorsunuz? Rio 2022 depoları şimdi satın alınabilir. Kâğıt çıkartmaları içeren depoyu satın alarak 145 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/rio2022/iem_caskets.png" alt="" width="100%"/><br />
+Bugünkü güncelleme beraberinde depolara bazı kullanım kolaylığı eklemeleri, ayrıca Rio 2022 takım ve oyuncu çıkartmalarına bir dizi görsel değişiklik getiriyor. Bu değişikliklere bir göz atın ve bize düşüncülerinizi aktarın!</p>
+<p>Tüm takımları ve oyuncuları desteklerken çıkartma koleksiyonunuzu tamamlamanın kolay bir yolunu mu arıyorsunuz? Rio 2022 depoları şimdi satın alınabilir. Kâğıt çıkartmaları içeren depoyu satın alarak 145 kâğıt turnuva çıkartmasının (IEM Rio 2022&#8217;nin, tüm takım logolarının ve oyuncu imzalarının çıkartmaları) tamamını elde edin. Daha parlak bir şeyler istiyorsanız tüm parıltılı çıkartmaları içeren bir depoyu da satın alabilirsiniz!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40156</post-id>	</item>
+		<item>
+		<title>Rio&#8217;ya Giden Uzun Yol</title>
+		<link>https://blog.counter-strike.net/tr/2022/10/39999/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Fri, 21 Oct 2022 22:53:54 +0000</pubDate>
+				<category><![CDATA[Home @tr]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39999</guid>
+
+					<description><![CDATA[Brezilya&#8217;daki ilk CS:GO Major Şampiyonası. Başından sonuna canlı izleyiciler eşliğinde gerçekleşecek. IEM Rio Major 31 Ekim&#8217;de başlıyor, hazır mısınız? IEM Rio Major hızla yaklaşıyor ve takım çıkartmaları, oyuncu imzaları ve Rio 2022 İzleyici Bileti satın alarak desteğinizi gösterebilirsiniz! Elde edilen gelirin %50&#8217;si, IEM Rio Major Şampiyonası&#8217;na katılan oyunculara, takımlara ve organizasyonlara gidecek. İzleyici Bileti, çıkartmalar [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Brezilya&#8217;daki ilk CS:GO Major Şampiyonası. Başından sonuna canlı izleyiciler eşliğinde gerçekleşecek. <a href="https://pro.eslgaming.com/tour/csgo/rio/">IEM Rio Major</a> 31 Ekim&#8217;de başlıyor, hazır mısınız?</p>
+<p><a href="https://store.steampowered.com/sale/csgorio2022"><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/rio2022/coins_and_pass.png" alt="" width="100%"/></a><br />
+IEM Rio Major hızla yaklaşıyor ve takım çıkartmaları, oyuncu imzaları ve Rio 2022 İzleyici Bileti satın alarak desteğinizi gösterebilirsiniz! Elde edilen gelirin %50&#8217;si, IEM Rio Major Şampiyonası&#8217;na katılan oyunculara, takımlara ve organizasyonlara gidecek.</p>
+<h4>İzleyici Bileti, çıkartmalar ve daha fazlası</h4>
+<p>Rio 2022 İzleyici Bileti satın alın ve yükseltilebilir bir Antwerp 2022 Etkinlik Jetonu, Seçim Mücadelesi&#8217;ne erişim hakkı, takım grafitileri, Steam.tv amblemleri ve &#8220;Antwerp 2022 Hatıra Paketleri&#8221;ne özel erişim hakkı elde edin.</p>
+<p>Jetonunuzu her yükselttiğinizde, istediğiniz maça ait bir hatıra paketi almada kullanabileceğiniz bir hatıra paketi jetonu kazanırsınız. Hatıra paketlerinde, seçtiğiniz maçtaki takımların ve haritanın altın çıkartmaları yer alır.</p>
+<p>Seçim Mücadelesi&#8217;ne katılarak en fazla üç hatıra paketi jetonu kazanabilirsiniz ancak &#8221;İzleyici Bileti +3&#8221; satın alarak hemen daha fazla jetonla başlayabilirsiniz. Tabii ki biletinizi etkinleştirdikten sonra dilediğiniz kadar hatıra paketi jetonu satın alabilirsiniz.</p>
+<p>Favori takımınızı veya oyuncunuzu mu arıyorsunuz? Kâğıt, parıltılı, holo ve altın çıkartmalar içeren takım çıkartması ve oyuncu imzası kapsüllerine göz atın. Büyük final aşaması tamamlandıktan kısa bir süre sonra &#8220;Şampiyon İmzaları Kapsülleri&#8221; (galip takım oyuncularının imzalarını içerir) satışa sunulacak.</p>
+<h4>Bugünkü Güncellemede Ürkütücü Bir Şeyler Var</h4>
+<p>Bugünkü güncellemede Ember&#8217;ın özel bir Cadılar Bayramı sürümü de dâhil olmak üzere birkaç topluluk haritası güncellemesi yer alıyor. Korkmuyorsanız, hemen bir Tehlikeli Bölge maçına girin ve haritayı deneyin!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">39999</post-id>	</item>
+		<item>
+		<title>Major ve Müzik</title>
+		<link>https://blog.counter-strike.net/tr/2022/09/39613/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 13 Sep 2022 22:51:22 +0000</pubDate>
+				<category><![CDATA[Home @tr]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39613</guid>
+
+					<description><![CDATA[Rio&#8217;da gerçekleşecek harika Major turnuvasına hazırlanırken aynı zamanda bir sonraki senenin etkinliklerine de bakma zamanının geldiğini düşündük. BLAST tarafından düzenlenecek ilk 2023 CS:GO Major turnuvası Fransa&#8217;nın Paris şehrinde gerçekleşecek. BLAST.TV Major için hazır olun! Çin&#8217;de CS:GO ile Geçen Beş Sene CS:GO&#8217;nun Çin&#8217;deki beşinci çıkış yıl dönümünü benzersiz bir müzik kiti olan 花脸 Hua Lian (Painted [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://blast.tv/major"><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/blast_announcement.png" alt="" width="100%"/></a><br />
+<a href="https://pro.eslgaming.com/tour/csgo/rio/">Rio&#8217;da gerçekleşecek harika Major turnuvasına</a> hazırlanırken aynı zamanda bir sonraki senenin etkinliklerine de bakma zamanının geldiğini düşündük. BLAST tarafından düzenlenecek ilk 2023 CS:GO Major turnuvası Fransa&#8217;nın Paris şehrinde gerçekleşecek. <a href="https://blast.tv/major">BLAST.TV Major</a> için hazır olun!</p>
+<h4>Çin&#8217;de CS:GO ile Geçen Beş Sene</h4>
+<p><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/hua_lian.png" data-rel="lightbox-image-0" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/hua_lian.png" alt="" width="100%"/></a><br />
+CS:GO&#8217;nun Çin&#8217;deki beşinci çıkış yıl dönümünü benzersiz bir müzik kiti olan 花脸 Hua Lian (Painted Face) ile kutlayın. Bu kit, halk Qinqiang operasını (erken Çin tarzı rock) ve modern rock&#8217;ı bir araya getiriyor. İster her yanınız sisle kaplanmış olsun, ister flaşla kör edilmiş olun; sakın kaybolmayın!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">39613</post-id>	</item>
+		<item>
+		<title>The Sound of Music Kits</title>
+		<link>https://blog.counter-strike.net/tr/2022/08/39485/</link>
+		
+		<dc:creator><![CDATA[Chris Shambaugh]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2022 00:20:13 +0000</pubDate>
+				<category><![CDATA[Home @tr]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/index.php/2022/08/39485/</guid>
+
+					<description><![CDATA[Today we are excited to ship the Initiators Music Kit Box, featuring music kits from 3kliksphilip, Humanity&#8217;s Last Breath, Juelz, Knock2, Meechy Darko, and Sullivan King. Whether you&#8217;re a fan of dance music, hip-hop, rock, or CS:GO content creators, there&#8217;s a music kit for everyone. The Initiators Music Kit Box is now available for purchase [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/initiators_final.png" data-rel="lightbox-image-0" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/initiators_final.png" alt="" width="100%"/></a><br />
+Today we are excited to ship the Initiators Music Kit Box, featuring music kits from 3kliksphilip, Humanity&#8217;s Last Breath, Juelz, Knock2, Meechy Darko, and Sullivan King. </p>
+<p>Whether you&#8217;re a fan of dance music, hip-hop, rock, or CS:GO content creators, there&#8217;s a music kit for everyone. The Initiators Music Kit Box is now available for purchase in-game!</p>
+<p>As part of today&#8217;s update, 10 Year Birthday Coins are no longer possible to earn. Thank you to all the players who celebrated CS:GO&#8217;s 10th birthday with us and earned their coin!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">39485</post-id>	</item>
+	</channel>
+</rss>

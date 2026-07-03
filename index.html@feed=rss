@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Counter-Strike: Global Offensive</title>
+	<atom:link href="https://blog.counter-strike.net/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.counter-strike.net</link>
+	<description></description>
+	<lastBuildDate>Tue, 25 Apr 2023 01:33:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://s0.wp.com/i/webclip.png</url>
+	<title>Counter-Strike: Global Offensive</title>
+	<link>https://blog.counter-strike.net</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<cdn>/media.steampowered.com/media.st.dl.eccdnx.com/</cdn><cdn>/broadcast.steampowered.com/broadcast.st.dl.eccdnx.com/</cdn><cdn>/steamcdn-a.akamaihd.net/media.st.dl.eccdnx.com/</cdn><test>/ignore me/caching test/</test><site xmlns="com-wordpress:feed-additions:1">155055202</site>	<item>
+		<title>The Anubis Collection</title>
+		<link>https://blog.counter-strike.net/2023/04/41365/</link>
+		
+		<dc:creator><![CDATA[Chris Shambaugh]]></dc:creator>
+		<pubDate>Tue, 25 Apr 2023 01:23:12 +0000</pubDate>
+				<category><![CDATA[Home]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41365</guid>
+
+					<description><![CDATA[Since November, players have been peeking mid and rushing through the waters of Anubis. Today we&#8217;re introducing the Anubis Collection, featuring 19 weapon finishes themed around the newest addition to Counter-Strike&#8217;s Active Duty map pool. The Anubis Collection is available for purchase now in-game.]]></description>
+										<content:encoded><![CDATA[<p>Since November, players have been peeking mid and rushing through the waters of Anubis.</p>
+<p>Today we&#8217;re introducing the Anubis Collection, featuring 19 weapon finishes themed around the newest addition to Counter-Strike&#8217;s Active Duty map pool.</p>
+<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/3381077/fd18c8adb36e6741b8729c4d6ffbb05cba467aa0.png" alt="" width="100%"/></p>
+<p>The Anubis Collection is available for purchase now in-game.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">41365</post-id>	</item>
+		<item>
+		<title>Case, Capsule, Kit, Oh My!</title>
+		<link>https://blog.counter-strike.net/2023/02/41047/</link>
+		
+		<dc:creator><![CDATA[Chris Shambaugh]]></dc:creator>
+		<pubDate>Fri, 10 Feb 2023 01:48:00 +0000</pubDate>
+				<category><![CDATA[Home]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41047</guid>
+
+					<description><![CDATA[Today we&#8217;re excited to ship the Revolution Case, featuring 17 weapon finishes from community artists and the gloves from the Clutch Case as rare special items. We&#8217;re also shipping the Espionage Sticker Capsule, with 21 unique stickers from Steam Workshop artists. Finally, we&#8217;re also shipping the Denzel Curry ULTIMATE music kit, featuring Denzel&#8217;s hits &#8220;Walkin&#8221;, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Today we&#8217;re excited to ship the Revolution Case, featuring 17 weapon finishes from community artists and the gloves from the Clutch Case as rare special items.</p>
+<p><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/denzel_revolution_espionage_new.png" alt="click for larger image" data-rel="lightbox-image-0" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/denzel_revolution_espionage_new.png" alt="" width="100%"/></a></p>
+<p>We&#8217;re also shipping the Espionage Sticker Capsule, with 21 unique stickers from Steam Workshop artists. </p>
+<p>Finally, we&#8217;re also shipping the Denzel Curry ULTIMATE music kit, featuring Denzel&#8217;s hits &#8220;Walkin&#8221;, &#8220;ULTIMATE&#8221;, and more from his 2022 album &#8220;Melt My Eyez See Your Future&#8221;.</p>
+<p>All three of these offerings are now available in-game!</p>
+<p><!-- this carousel goes full width in the in-client news popup --></p>
+<style type="text/css">
+.sArrowLeft {
+	cursor:pointer;
+	position:absolute;
+	bottom:160px;
+	left:7px;
+	width:30px;
+	height:30px;
+	background-image:url('https://steamcdn-a.akamaihd.net/apps/csgo/blog/images/arrows.png');
+	background-position:bottom left;
+	z-index:100;
+        opacity:.3;
+}
+.sArrowLeft:hover {
+	background-position:top left;
+        opacity:1;
+}
+.sArrowRight {
+	cursor:pointer;
+	position:absolute;
+	bottom:160px;
+	right:6px;
+	width:30px;
+	height:30px;
+	background-image:url('https://steamcdn-a.akamaihd.net/apps/csgo/blog/images/arrows.png');
+	background-position:bottom right;
+	z-index:100;
+        opacity:.3;
+}
+.sArrowRight:hover {
+	background-position:top right;
+        opacity:1;
+}
+.dreamsContainer {
+	position:relative;
+	display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width:100%;
+        //height:355px;
+	margin-bottom:7px;
+	overflow:hidden;
+}
+</style>
+<p><script language="javascript">
+$j(window).load(function () {
+	$j('#dreams_slider').cycle({
+	    fx:     'scrollHorz',
+	    speed:  200,
+	    next:   '#dreams_right',
+	    prev:  '#dreams_left',
+            pause:  1,
+            pager:  0,
+	    timeout: 3500
+	});
+});
+</script></p>
+<div style="width:100%; background-color: #bfbfbf00; line-height: 0px;">
+<div class="dreamsContainer">
+<div id="dreams_left" class="sArrowLeft"><img decoding="async" src="https://steamcdn-a.akamaihd.net/apps/csgo/images/trans.gif" width="30" height="30" border="0" /></div>
+<div id="dreams_right" class="sArrowRight"><img decoding="async" src="https://steamcdn-a.akamaihd.net/apps/csgo/images/trans.gif" width="30" height="30" border="0" /></div>
+<div id="dreams_slider" class="picslide" style="z-index: 1;"><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/01.png" alt="click for larger image" / data-rel="lightbox-image-1" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/01.png" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/02.png?v=1" data-rel="lightbox-image-2" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/02.png?v=1" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/03_duality.png?v=1" data-rel="lightbox-image-3" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/03_duality.png?v=1" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/04.png?v=2" data-rel="lightbox-image-4" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/04.png?v=2" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/05.png?v=1" data-rel="lightbox-image-5" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/05.png?v=1" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/06.png?v=1" data-rel="lightbox-image-6" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/06.png?v=1" alt="" width="100%" /><a href=https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/07.png?v=2" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/07.png?v=2" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/08.png?v=1" data-rel="lightbox-image-7" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/08.png?v=1" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/09.png?v=2" data-rel="lightbox-image-8" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/09.png?v=2" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/10.png?v=2" data-rel="lightbox-image-9" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/10.png?v=2" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/11.png?v=2" data-rel="lightbox-image-10" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/11.png?v=2" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/12.png?v=1" data-rel="lightbox-image-11" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/12.png?v=1" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/13.png?v=1" data-rel="lightbox-image-12" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/13.png?v=1" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/14.png?v=1" data-rel="lightbox-image-13" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/14.png?v=1" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/15.png?v=1" data-rel="lightbox-image-14" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/15.png?v=1" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/16.png?v=1" data-rel="lightbox-image-15" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/16.png?v=1" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/17.png?v=2" data-rel="lightbox-image-16" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/17.png?v=2" alt="" width="100%" /></a></div>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">41047</post-id>	</item>
+		<item>
+		<title>At Your Service</title>
+		<link>https://blog.counter-strike.net/2022/12/40596/</link>
+		
+		<dc:creator><![CDATA[Chris Shambaugh]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 23:57:39 +0000</pubDate>
+				<category><![CDATA[Home]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40596</guid>
+
+					<description><![CDATA[All ranked-up and ready to go? The all-new 2023 Service Medal will be available starting January 1st! Earn XP by playing in official game modes and rank up your CS:GO Profile. When you reach the Global General (Rank 40), you&#8217;ll have the option to reset your Profile Rank and earn (or upgrade) a 2023 Service [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/service_medal_2023.png" alt="" width="100%" /><br />
+All ranked-up and ready to go? The all-new 2023 Service Medal will be available starting January 1st!</p>
+<p>Earn XP by playing in official game modes and rank up your CS:GO Profile. When you reach the Global General (Rank 40), you&#8217;ll have the option to reset your Profile Rank and earn (or upgrade) a 2023 Service Medal. The medal is an inspectable display item you can show off wherever your avatar is shown.</p>
+<p>Today&#8217;s update also includes two new community wingman maps: Boyard and Chalice. Each offers a different spin on Wingman gameplay, with quick engagements on Boyard and long-distance duels on Chalice.</p>
+<p>Jump into a wingman match to check them out, and earn some more XP!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40596</post-id>	</item>
+		<item>
+		<title>Stets zu Diensten</title>
+		<link>https://blog.counter-strike.net/2022/12/40672/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 23:57:39 +0000</pubDate>
+				<category><![CDATA[Home]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40672</guid>
+
+					<description><![CDATA[Sie haben dieses Jahr allen den Rang abgelaufen und denken gar nicht daran, Ihren Dienst zu quittieren? Die neue Verdienstmedaille 2023 ist ab dem 1. Januar verfügbar. Sie können EP verdienen und Ihren CS:GO-Profilrang steigern, indem Sie die offiziellen Spielmodi spielen. Wenn Sie den Rang „Globaler General“ (Rang 40) erreicht haben, können Sie Ihren Profilrang [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/service_medal_2023.png" alt="" width="100%" /><br />
+Sie haben dieses Jahr allen den Rang abgelaufen und denken gar nicht daran, Ihren Dienst zu quittieren? Die neue Verdienstmedaille 2023 ist ab dem 1. Januar verfügbar.</p>
+<p>Sie können EP verdienen und Ihren CS:GO-Profilrang steigern, indem Sie die offiziellen Spielmodi spielen. Wenn Sie den Rang „Globaler General“ (Rang 40) erreicht haben, können Sie Ihren Profilrang zurücksetzen, um eine Verdienstmedaille für das Jahr 2023 zu erhalten (oder aufzuwerten). Die Medaille ist ein ausstellbarer Gegenstand, den Sie überall dort präsentieren können, wo Ihr Avatar angezeigt wird.</p>
+<p>Das heutige Update enthält außerdem zwei neue Community-Karten für den Wingman-Spielmodus: Boyard und Chalice. Beide Karten bieten Ihnen neue Möglichkeiten, den Wingman-Spielmodus zu erleben, etwa durch schnelle Konfrontationen auf Boyard oder Duelle über längere Distanz auf Chalice.</p>
+<p>Stürzen Sie sich in eine Wingman-Partie, um beide Neuzugänge auszuprobieren und dabei gleich noch ein paar EP zu verdienen!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40672</post-id>	</item>
+		<item>
+		<title>Mise à jour du 13/12/2022</title>
+		<link>https://blog.counter-strike.net/2022/12/40699/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 23:57:27 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40699</guid>
+
+					<description><![CDATA[[ RIO 2022 ] — Les capsules de stickers sont maintenant à −75 %. [DIVERS] — Ajout de la médaille de service de 2023 qui sera décernée pour service et succès exceptionnels à partir du 1ᵉʳ janvier 2023 GMT. — Correction du problème suivant : les cocktails Molotov et les grenades explosaient en l&#8217;air quand [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>[ RIO 2022 ]<br />
+— Les capsules de stickers sont maintenant à −75 %.</p>
+<p>[DIVERS]<br />
+— Ajout de la médaille de service de 2023 qui sera décernée pour service et succès exceptionnels à partir du 1ᵉʳ janvier 2023 GMT.<br />
+— Correction du problème suivant : les cocktails Molotov et les grenades explosaient en l&#8217;air quand ils volaient par-dessus des zones de skybox.<br />
+— Correction du problème suivant : les touches indiquées dans les indices sur l&#8217;écran de chargement ne s&#8217;affichaient parfois pas correctement.</p>
+<p>[CARTES]<br />
+— Boyard et Chalice sont maintenant disponibles en mode de jeu Wingman.<br />
+— Blagai, Cascade et Breach ont été supprimées du matchmaking officiel.</p>
+<p>Ember<br />
+— Les journées d&#8217;automne sont terminées sur les terres d&#8217;Ember.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40699</post-id>	</item>
+		<item>
+		<title>Σημειώσεις κυκλοφορίας για 13/12/2022</title>
+		<link>https://blog.counter-strike.net/2022/12/40701/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 23:57:27 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40701</guid>
+
+					<description><![CDATA[[ ΡΙΟ 2022 ] – Οι κάψουλες αυτοκόλλητων έχουν τώρα 75% έκπτωση. [ ΔΙΑΦΟΡΑ ] – Προστέθηκε το Μετάλλιο Υπηρεσίας 2023, που θα απονέμεται για εξαιρετική υπηρεσία και επιτεύγματα, ξεκινώντας από 1 Ιανουαρίου 2023. – Διορθώθηκαν οι μολότοφ και οι εμπρηστικές χειροβομβίδες, που ανατινάζονταν στον αέρα όταν πετούσαν πάνω από περιοχές ουρανού (skybox). – Διορθώθηκε [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>[ ΡΙΟ 2022 ]<br />
+– Οι κάψουλες αυτοκόλλητων έχουν τώρα 75% έκπτωση.</p>
+<p>[ ΔΙΑΦΟΡΑ ]<br />
+– Προστέθηκε το Μετάλλιο Υπηρεσίας 2023, που θα απονέμεται για εξαιρετική υπηρεσία και επιτεύγματα, ξεκινώντας από 1 Ιανουαρίου 2023.<br />
+– Διορθώθηκαν οι μολότοφ και οι εμπρηστικές χειροβομβίδες, που ανατινάζονταν στον αέρα όταν πετούσαν πάνω από περιοχές ουρανού (skybox).<br />
+– Διορθώθηκε μια περίπτωση μη σωστής απόκρισης του παιχνιδιού σε δεσμεύσεις πλήκτρων στην οθόνη φόρτωσης.</p>
+<p>[ ΧΑΡΤΕΣ ]<br />
+– Οι χάρτες Boyard και Chalice είναι τώρα διαθέσιμοι στην επίσημη εύρεση παιχνιδιού στον τύπο παιχνιδιού Δυάδες.<br />
+– Οι χάρτες Blagai, Cascade και Breach αφαιρέθηκαν από την επίσημη εύρεση παιχνιδιού.</p>
+<p>Ember<br />
+– Οι φθινοπωρινές διακοπές τελείωσαν στον χάρτη Ember.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40701</post-id>	</item>
+		<item>
+		<title>2022년 12월 13일 업데이트 내용</title>
+		<link>https://blog.counter-strike.net/2022/12/40702/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 23:57:27 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40702</guid>
+
+					<description><![CDATA[[ 리우데자네이루 2022 메이저 챔피언십 ] – 스티커 캡슐 가격이 75% 인하되었습니다. [ 기타 ] – 2023년 1월 1일(그리니치 표준시)부터 뛰어난 무공과 업적으로서 수여받을 수 있는 2023 무공 훈장이 추가되었습니다. – 화염병과 소이탄이 &#8216;skybox&#8217; 영역을 넘어갈 때 공중에서 폭발하는 문제를 수정했습니다. – 일부 로딩 화면에서 키 바인딩이 올바르게 표시되지 않던 문제를 수정했습니다. [ 맵 ] [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>[ 리우데자네이루 2022 메이저 챔피언십 ]<br />
+– 스티커 캡슐 가격이 75% 인하되었습니다.</p>
+<p>[ 기타 ]<br />
+– 2023년 1월 1일(그리니치 표준시)부터 뛰어난 무공과 업적으로서 수여받을 수 있는 2023 무공 훈장이 추가되었습니다.<br />
+– 화염병과 소이탄이 &#8216;skybox&#8217; 영역을 넘어갈 때 공중에서 폭발하는 문제를 수정했습니다.<br />
+– 일부 로딩 화면에서 키 바인딩이 올바르게 표시되지 않던 문제를 수정했습니다.</p>
+<p>[ 맵 ]<br />
+– 귀족(Boyard), 성배(Chalice) 맵이 윙맨 게임 모드의 공식 매치메이킹에 추가되었습니다.<br />
+– 블라가이(Blagai), 폭포(Cascade), 브리치(Breach) 맵이 공식 매치메이킹에서 제거되었습니다.</p>
+<p>엠버(Ember)<br />
+– 엠버(Ember) 맵에서 진행되었던 가을 축제가 종료되었습니다.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40702</post-id>	</item>
+		<item>
+		<title>Lista zmian z dnia 13.12.2022</title>
+		<link>https://blog.counter-strike.net/2022/12/40703/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 23:57:27 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40703</guid>
+
+					<description><![CDATA[[RIO 2022] – Pojemniki z naklejkami są teraz tańsze o 75%. [RÓŻNE] – Dodano Medal za Służbę 2023, który będzie przyznawany za wybitną służbę i osiągnięcia od 1 stycznia 2023 roku. – Naprawiono błąd powodujący eksplozję koktajli Mołotowa i granatów zapalających w powietrzu podczas przelatywania nad obszarami skyboxu. – Naprawiono przypadek, w którym niektóre przyciski [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>[RIO 2022]<br />
+– Pojemniki z naklejkami są teraz tańsze o 75%.</p>
+<p>[RÓŻNE]<br />
+– Dodano Medal za Służbę 2023, który będzie przyznawany za wybitną służbę i osiągnięcia od 1 stycznia 2023 roku.<br />
+– Naprawiono błąd powodujący eksplozję koktajli Mołotowa i granatów zapalających w powietrzu podczas przelatywania nad obszarami skyboxu.<br />
+– Naprawiono przypadek, w którym niektóre przyciski nie były poprawnie wyświetlane na ekranie ładowania.</p>
+<p>[MAPY]<br />
+– Dodano mapy Boyard i Chalice do oficjalnego wyszukiwania gier w trybie Skrzydłowy.<br />
+– Usunięto mapy Blagai, Cascade oraz Breach z oficjalnego wyszukiwania gier.</p>
+<p>Ember<br />
+– Halloweenowe straszydła opuściły krainę Ember.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40703</post-id>	</item>
+		<item>
+		<title>Detalhes da atualização de 13/12/2022</title>
+		<link>https://blog.counter-strike.net/2022/12/40704/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 23:57:27 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40704</guid>
+
+					<description><![CDATA[[ RIO 2022 ] – As cápsulas de autocolantes estão agora com 75% de desconto. [ GERAL ] – Foi adicionada a Medalha de Serviço de 2023, que será concedida pelo serviço extraordinário e feitos notáveis a partir de 1 de janeiro de 2023 (GMT). – Foi corrigida uma situação em que molotovs e granadas [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>[ RIO 2022 ]<br />
+– As cápsulas de autocolantes estão agora com 75% de desconto.</p>
+<p>[ GERAL ]<br />
+– Foi adicionada a Medalha de Serviço de 2023, que será concedida pelo serviço extraordinário e feitos notáveis a partir de 1 de janeiro de 2023 (GMT).<br />
+– Foi corrigida uma situação em que molotovs e granadas incendiárias se podiam detonar no ar ao passar por áreas da &#8220;skybox&#8221;.<br />
+– Foram corrigidos casos em que os nomes de teclas e botões não eram apresentados corretamente no ecrã da partida a carregar.</p>
+<p>[ MAPAS ]<br />
+– Os mapas Boyard e Chalice foram adicionados ao matchmaking oficial do modo Braço Direito.<br />
+– Os mapas Blagai, Cascade e Breach foram removidos do matchmaking oficial.</p>
+<p>Ember<br />
+– Os festejos de outono acabaram.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40704</post-id>	</item>
+		<item>
+		<title>Jurnalul actualizării din 13 decembrie 2022</title>
+		<link>https://blog.counter-strike.net/2022/12/40705/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 23:57:27 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40705</guid>
+
+					<description><![CDATA[[ RIO 2022 ] – Capsulele cu abțibilduri sunt reduse acum cu 75%. [ DIVERSE ] – A fost adăugată medalia de merit 2023 care va fi acordată pentru merite și realizări deosebite, începând cu 1 ianuarie 2023, ora 2:00 (UTC+2). – A fost remediat faptul că molotovurile și grenadele incendiare se detonau în aer [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>[ RIO 2022 ]<br />
+– Capsulele cu abțibilduri sunt reduse acum cu 75%.</p>
+<p>[ DIVERSE ]<br />
+– A fost adăugată medalia de merit 2023 care va fi acordată pentru merite și realizări deosebite, începând cu 1 ianuarie 2023, ora 2:00 (UTC+2).<br />
+– A fost remediat faptul că molotovurile și grenadele incendiare se detonau în aer atunci când zburau deasupra zonelor atribuite cerului.<br />
+– A fost remediat faptul că jocul nu afișa corect asocierile anumitor comenzi în ecranul de încărcare.</p>
+<p>[ HĂRȚI ]<br />
+– Hărțile Boyard și Chalice sunt disponibile acum pentru matchmakingul oficial în modul de joc Wingman.<br />
+– Hărțile Blagai, Cascade și Breach au fost eliminate din matchmakingul oficial.</p>
+<p>Ember<br />
+– Zilele toamnei au luat sfârșit în ținuturile Ember.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40705</post-id>	</item>
+	</channel>
+</rss>

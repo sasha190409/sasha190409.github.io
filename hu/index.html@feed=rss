@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Counter-Strike: Global Offensive</title>
+	<atom:link href="https://blog.counter-strike.net/hu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.counter-strike.net/hu/</link>
+	<description></description>
+	<lastBuildDate>Thu, 27 Apr 2023 17:53:26 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://s0.wp.com/i/webclip.png</url>
+	<title>Counter-Strike: Global Offensive</title>
+	<link>https://blog.counter-strike.net/hu/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<cdn>/media.steampowered.com/media.st.dl.eccdnx.com/</cdn><cdn>/broadcast.steampowered.com/broadcast.st.dl.eccdnx.com/</cdn><cdn>/steamcdn-a.akamaihd.net/media.st.dl.eccdnx.com/</cdn><test>/ignore me/caching test/</test><site xmlns="com-wordpress:feed-additions:1">155055202</site>	<item>
+		<title>Az Anubis Gyűjtemény</title>
+		<link>https://blog.counter-strike.net/hu/2023/04/41385/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 25 Apr 2023 01:23:12 +0000</pubDate>
+				<category><![CDATA[Home @hu @hu]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41385</guid>
+
+					<description><![CDATA[A játékosok november óta lesnek ki középen, és rohannak át a vízen az Anubison. Ma bemutatjuk az Anubis Gyűjteményt, benne 19 fegyverfestéssel a Counter-Strike Aktív Szolgálat pályacsoportjának legújabb tagján alapuló témával. Az Anubis Gyűjtemény már megvásárolható a játékban!]]></description>
+										<content:encoded><![CDATA[<p>A játékosok november óta lesnek ki középen, és rohannak át a vízen az Anubison.</p>
+<p>Ma bemutatjuk az Anubis Gyűjteményt, benne 19 fegyverfestéssel a Counter-Strike Aktív Szolgálat pályacsoportjának legújabb tagján alapuló témával.</p>
+<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/3381077/fd18c8adb36e6741b8729c4d6ffbb05cba467aa0.png" alt="" width="100%"/></p>
+<p>Az Anubis Gyűjtemény már megvásárolható a játékban!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">41385</post-id>	</item>
+		<item>
+		<title>Láda, kapszula, készlet, hűha!</title>
+		<link>https://blog.counter-strike.net/hu/2023/02/41077/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Fri, 10 Feb 2023 01:48:00 +0000</pubDate>
+				<category><![CDATA[Home @hu @hu]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41077</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/denzel_revolution_espionage_new.png" alt="" width="100%"/></p>
+<style type="text/css">
+.sArrowLeft {
+	cursor:pointer;
+	position:absolute;
+	bottom:160px;
+	left:7px;
+	width:30px;
+	height:30px;
+	background-image:url('https://steamcdn-a.akamaihd.net/apps/csgo/blog/images/arrows.png');
+	background-position:bottom left;
+	z-index:100;
+        opacity:.3;
+}
+.sArrowLeft:hover {
+	background-position:top left;
+        opacity:1;
+}
+.sArrowRight {
+	cursor:pointer;
+	position:absolute;
+	bottom:160px;
+	right:6px;
+	width:30px;
+	height:30px;
+	background-image:url('https://steamcdn-a.akamaihd.net/apps/csgo/blog/images/arrows.png');
+	background-position:bottom right;
+	z-index:100;
+        opacity:.3;
+}
+.sArrowRight:hover {
+	background-position:top right;
+        opacity:1;
+}
+.dreamsContainer {
+	position:relative;
+	width:520px;
+        height:355px;
+	margin-bottom:7px;
+	overflow:hidden;
+}
+</style>
+<p><script language="javascript">
+$j(window).load(function () {
+	$j('#dreams_slider').cycle({
+	    fx:     'scrollHorz',
+	    speed:  200,
+	    next:   '#dreams_right',
+	    prev:  '#dreams_left',
+            pause:  1,
+            pager:  0,
+	    timeout: 3500
+	});
+});
+</script></p>
+<div style="width:100%; background-color: #bfbfbf00; line-height: 0px;">
+<div class="dreamsContainer">
+<div id="dreams_left" class="sArrowLeft"><img decoding="async" src="https://steamcdn-a.akamaihd.net/apps/csgo/images/trans.gif" width="30" height="30" border="0" /></div>
+<div id="dreams_right" class="sArrowRight"><img decoding="async" src="https://steamcdn-a.akamaihd.net/apps/csgo/images/trans.gif" width="30" height="30" border="0" /></div>
+<div id="dreams_slider" class="picslide" style="z-index: 1;"><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/01.png" alt="click for larger image" / data-rel="lightbox-image-0" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/01.png" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/02.png?v=1" data-rel="lightbox-image-1" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/02.png?v=1" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/03_duality.png?v=1" data-rel="lightbox-image-2" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img fetchpriority="high" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/03_duality.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/04.png?v=2" data-rel="lightbox-image-3" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/04.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/05.png?v=1" data-rel="lightbox-image-4" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/05.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/06.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/06.png?v=1" alt="" width="520" height="355" /><a href=https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/07.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/07.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/08.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/08.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/09.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/09.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/10.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/10.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/11.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/11.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/12.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/12.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/13.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/13.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/14.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/14.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/15.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/15.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/16.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/16.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/17.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/17.png?v=2" alt="" width="520" height="355" /></a></div>
+</div>
+</div>
+<p>Ma izgatottan adjuk ki a Forradalom Ládát, ami 17 fegyverfestést tartalmaz közösségi alkotóktól, valamint a Túlerő Láda kesztyűket ritka különleges tárgyakként.</p>
+<p>Ezenkívül kiadjuk a Kémkedés Matricakapszulát, benne 21 egyedi matricával a Steam Műhely alkotóitól. </p>
+<p>Végezetül, kiadjuk a Denzel Curry ULTIMATE Zenekészletet, benne Denzel „Walkin”, „ULTIMATE” és más sikereit a 2022-es „Melt My Eyez See Your Future” albumról.</p>
+<p>Már mindhárom ajánlat elérhető a játékban!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">41077</post-id>	</item>
+		<item>
+		<title>Szolgálatodra!</title>
+		<link>https://blog.counter-strike.net/hu/2022/12/40631/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 23:57:39 +0000</pubDate>
+				<category><![CDATA[Home @hu @hu]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40631</guid>
+
+					<description><![CDATA[Szintet léptél, és készen állsz? A vadonatúj, 2023-as Szolgálati Érdemérem január 1-jétől lesz elérhető! Szerezz TP-t hivatalos játékmódokban játszva, és növeld CS:GO profilod szintjét. Amikor eléred a hadseregtábornoki rendfokozatot (40. rang), lehetőséged lesz profilrangod visszaállítására és 2023-as Szolgálati Érdemérmed megszerzésére (illetve fejlesztésére). Az Érdemérem egy megvizsgálható díszítő tárgy, amit mindenhol mutogathatsz, ahol avatárod megjelenik. A [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/service_medal_2023.png" alt="" width="100%" /><br />
+Szintet léptél, és készen állsz? A vadonatúj, 2023-as Szolgálati Érdemérem január 1-jétől lesz elérhető!</p>
+<p>Szerezz TP-t hivatalos játékmódokban játszva, és növeld CS:GO profilod szintjét. Amikor eléred a hadseregtábornoki rendfokozatot (40. rang), lehetőséged lesz profilrangod visszaállítására és 2023-as Szolgálati Érdemérmed megszerzésére (illetve fejlesztésére). Az Érdemérem egy megvizsgálható díszítő tárgy, amit mindenhol mutogathatsz, ahol avatárod megjelenik.</p>
+<p>A mai frissítés tartalmaz két új közösségi Szárnysegéd pályát is, a Boyardot és a Chalice-t. Mindegyik más csavart ad a Szárnysegéd játékmenethez: a Boyard gyors ütközeteket, a Chalice pedig nagy távolságú tűzpárbajokat kínál.</p>
+<p>Ugorj be egy Szárnysegéd meccsbe, hogy megnézd őket és szerezz egy kis TP-t!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40631</post-id>	</item>
+		<item>
+		<title>Anu Map Who Bis</title>
+		<link>https://blog.counter-strike.net/hu/2022/11/40502/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Fri, 18 Nov 2022 22:01:45 +0000</pubDate>
+				<category><![CDATA[Home @hu @hu]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40502</guid>
+
+					<description><![CDATA[A mai frissítés Aktív Szolgálat pályakészlet változásokat, valamint néhány fegyvermódosítást tartalmaz. Kezdésnek módosítunk az Aktív Szolgálat pályakészleten, ami meg fogja határozni a 2023-as Paris Major játszott pályáit. Hozzáadjuk az Anubist az Aktív Szolgálathoz, míg a Dust 2-t eltávolítjuk. Mindkét pálya továbbra is elérhető marad Könnyed, Deathmatch és Versengő módokban. A fegyvereken is végrehajtunk néhány módosítást. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>A mai frissítés Aktív Szolgálat pályakészlet változásokat, valamint néhány fegyvermódosítást tartalmaz.</p>
+<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/anubis_map.jpg" alt="" width="100%" /><br />
+Kezdésnek módosítunk az Aktív Szolgálat pályakészleten, ami meg fogja határozni a 2023-as Paris Major játszott pályáit.</p>
+<p>Hozzáadjuk az Anubist az Aktív Szolgálathoz, míg a Dust 2-t eltávolítjuk. Mindkét pálya továbbra is elérhető marad Könnyed, Deathmatch és Versengő módokban.</p>
+<p>A fegyvereken is végrehajtunk néhány módosítást. Az AWP tármérete 5 töltényre csökken (szóval tegyél róla, hogy mindegyik számítson), és az M4A1-S mostantól kevesebbet sebez nagy távolságon.</p>
+<p>Próbáld ki a változásokat, és tudasd velünk, mit gondolsz!</p>
+<p>És köszönjük a blogbejegyzés-címet, Ryan (@Schaffurr)!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40502</post-id>	</item>
+		<item>
+		<title>IEM Rio Major bajnokok</title>
+		<link>https://blog.counter-strike.net/hu/2022/11/40354/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Wed, 16 Nov 2022 01:24:08 +0000</pubDate>
+				<category><![CDATA[Home @hu @hu]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40354</guid>
+
+					<description><![CDATA[Az elmúlt két hétben Rio de Janeiro volt a Counter-Strike központja, ahol a világ legjobb csapatai közül 24 harcolt az IEM Rio Major bajnokává válásért. A végén csak egy csapat maradt talpon, ahogy az Outsiders a Heroic fölé kerekedett a Mirage-on és az Overpasson, és bebiztosították első Major bajnoki címüket! Hogy megünnepeljük az újdonsült bajnokokat, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/rio_champions/hungarian.jpg" alt="" width="100%" /><br />
+Az elmúlt két hétben Rio de Janeiro volt a Counter-Strike központja, ahol a világ legjobb csapatai közül 24 harcolt az IEM Rio Major bajnokává válásért. A végén csak egy csapat maradt talpon, ahogy az Outsiders a Heroic fölé kerekedett a Mirage-on és az Overpasson, és bebiztosították első Major bajnoki címüket!</p>
+<p>Hogy megünnepeljük az újdonsült bajnokokat, ma kiadjuk a Bajnokok Aláíráskapszulát, benne FL1T, fame, Jame, n0rb3r7 és Qikert aláírásaival papír, csillámos, hologramos és arany változatban.</p>
+<h4>Új út a Majorökig</h4>
+<p>A 2023-as Paris Majorrel kezdve változtatunk a csapatok Regionális Major Rangsorokra meghívásának módján.</p>
+<p>A csapatok korábban közvetlen meghívással vagy nyílt selejtezősorozatokban részvétellel jutottak be a Regionális Major Rangsorokba. Párizsra egyes csapatok, akik nem kapnak közvetlen meghívást, átugorhatják a nyílt selejtezőket. Azon csapatok, melyek következetesen jól teljesítenek a Valve és külső szervezők eseményein, közvetlen meghívást kapnak egy zárt selejtezőre. Itt a nyílt selejtezőből bejutó csapatok ellen versengenek majd.</p>
+<p>A következő hetekben többet fogunk felfedni az új Regionális Rangsorolás folyamatáról.</p>
+<p>Gratulálunk az Outsidersnek, és találkozunk Párizsban!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40354</post-id>	</item>
+		<item>
+		<title>Rio Bajnokok szakasz</title>
+		<link>https://blog.counter-strike.net/hu/2022/11/40282/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Wed, 09 Nov 2022 17:00:50 +0000</pubDate>
+				<category><![CDATA[Home @hu @hu]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40282</guid>
+
+					<description><![CDATA[Két felejthetetlen szakasz után nyolc csapat maradt és jutott előre az IEM Rio Major Bajnokok szakaszába. Gratulálunk a Cloud9, FURIA, Fnatic, Heroic, Outsiders, MOUZ, Natus Vincere és Team Spirit csapatainak, akik több mint 18 000 CS:GO-rajongó előtt fognak versengeni a telt házas Jeunesse Arenában a CS:GO bajnoki címért. A Bajnokok szakasz meccsei november 10-én, csütörtökön kezdődnek, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/rio_2022_champions_blog.png" alt="" width="100%"/></p>
+<p>Két felejthetetlen szakasz után nyolc csapat maradt és jutott előre az IEM Rio Major Bajnokok szakaszába. </p>
+<p>Gratulálunk a Cloud9, FURIA, Fnatic, Heroic, Outsiders, MOUZ, Natus Vincere és Team Spirit csapatainak, akik több mint 18 000 CS:GO-rajongó előtt fognak versengeni a telt házas Jeunesse Arenában a CS:GO bajnoki címért. </p>
+<p>A Bajnokok szakasz meccsei november 10-én, csütörtökön kezdődnek, zárold hát tippjeidet a Válassz! Kihívásban! Még mindig van idő a kedvenc csapataid támogatására csapat- és játékos-aláírás matricákkal, valamint emléktárgy-zsetonok szerzésére (vagy vásárlására). Készülj a valaha volt legmegjósolhatatlanabb Major befejezésére. </p>
+<p>A bevételek 50%-a az IEM Rio Majorön részt vevő játékosokhoz, csapatokhoz és szervezetekhez kerül.</p>
+<p>Sok szerencsét mindenkinek!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40282</post-id>	</item>
+		<item>
+		<title>A teljes gyűjtemény</title>
+		<link>https://blog.counter-strike.net/hu/2022/10/40129/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Thu, 27 Oct 2022 00:14:41 +0000</pubDate>
+				<category><![CDATA[Home @hu @hu]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40129</guid>
+
+					<description><![CDATA[A mai frissítés számos használhatósági javítást tartalmaz a raktárhelyiségekhez, és egy csomó látványigazítást a Rio 2022 csapat- és játékosmatricákhoz. Nézd meg őket, és tudasd velünk, mit gondolsz! Könnyű módot keresel matricagyűjteményed teljessé tételére, közben támogatva az összes csapatot és játékost? Már elérhetők a Rio 2022 raktárhelyiségek. Vásárolj raktárhelyiséget papírmatricákkal, és kapsz egy emlék-raktárhelyiséget mind a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/rio2022/iem_caskets.png" alt="" width="100%"/><br />
+A mai frissítés számos használhatósági javítást tartalmaz a raktárhelyiségekhez, és egy csomó látványigazítást a Rio 2022 csapat- és játékosmatricákhoz. Nézd meg őket, és tudasd velünk, mit gondolsz!</p>
+<p>Könnyű módot keresel matricagyűjteményed teljessé tételére, közben támogatva az összes csapatot és játékost? Már elérhetők a Rio 2022 raktárhelyiségek. Vásárolj raktárhelyiséget papírmatricákkal, és kapsz egy emlék-raktárhelyiséget mind a 145 bajnoksági papírmatricával; az IEM Rio 2022 matricával, minden csapat logójával és minden aláírással. Ha valami kicsit csillogóbbra vágysz, beszerezhetsz egy csillámos matricákkal teli raktárhelyiséget is.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40129</post-id>	</item>
+		<item>
+		<title>A Rióba vezető hosszú út</title>
+		<link>https://blog.counter-strike.net/hu/2022/10/39991/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Fri, 21 Oct 2022 22:53:54 +0000</pubDate>
+				<category><![CDATA[Home @hu @hu]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39991</guid>
+
+					<description><![CDATA[Az első CS:GO Major Brazíliában. Élő közönség az elejétől a végéig. Az IEM Rio Major október 31-én kezdődik. Készen állsz? Gyorsan közeledik az IEM Rio Major, és te kimutathatod támogatásod: a csapatmatricák, játékos-aláírások és a Rio 2022 Nézői belépő már mind megvásárolhatók! A bevételek 50%-a a Majorön részt vevő játékosokhoz, csapatokhoz és szervezetekhez kerül. Nézői [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Az első CS:GO Major Brazíliában. Élő közönség az elejétől a végéig. Az <a href="https://pro.eslgaming.com/tour/csgo/rio/">IEM Rio Major</a> október 31-én kezdődik. Készen állsz?</p>
+<p><a href="https://store.steampowered.com/sale/csgorio2022"><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/rio2022/coins_and_pass.png" alt="" width="100%"/></a><br />
+Gyorsan közeledik az IEM Rio Major, és te kimutathatod támogatásod: a csapatmatricák, játékos-aláírások és a Rio 2022 Nézői belépő már mind megvásárolhatók! A bevételek 50%-a a Majorön részt vevő játékosokhoz, csapatokhoz és szervezetekhez kerül.</p>
+<h4>Nézői belépő, matricák és egyebek</h4>
+<p>Szerezz be egy Rio 2022 Nézői belépőt, és kapsz egy fejleszthető Rio 2022 Eseményérmét, hozzáférést a Válassz! Kihíváshoz, csapatos falfirkákat, Steam.tv díszítőket és exkluzív hozzáférést a Rio 2022 Emlékcsomagokhoz.</p>
+<p>Valahányszor fejleszted az érmédet, egy emléktárgy-zsetont kapsz, amit a választásod szerinti meccs Emlékcsomagjára válthatsz be. Az Emlékcsomagok arany matricákat tartalmaznak a választásod szerinti csapatokhoz és pályához.</p>
+<p>A Válassz! Kihívást játszva legfeljebb három emléktárgy-zsetont szerezhetsz, de kezdhetsz többel; a „Nézői belépő + 3” megvásárlásával azonnal kapsz három emléktárgy-zsetont. És persze miután aktiváltad a belépődet, annyi emléktárgy-zsetont vásárolhatsz, amennyit szeretnél.</p>
+<p>A kedvenc csapatodat vagy játékosodat keresed? Nézd meg a papír, csillámos, hologramos és arany matricákat tartalmazó csapat- és játékosaláírás-kapszulákat. És nem sokkal a döntő lezárulta után megvásárolhatók lesznek a Bajnokok Aláíráskapszulák (a győztes csapat tagjainak aláírásaival).</p>
+<h4>Van valami kísérteties a mai frissítésben</h4>
+<p>A mai frissítés számos közösségi pályához tartalmaz változtatásokat, köztük az Ember egy különleges, halloweeni változatát. Ugorj be egy Veszélyzóna meccsbe, és próbáld ki, ha mered!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">39991</post-id>	</item>
+		<item>
+		<title>Majorök és zene</title>
+		<link>https://blog.counter-strike.net/hu/2022/09/39603/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 13 Sep 2022 22:51:22 +0000</pubDate>
+				<category><![CDATA[Home @hu @hu]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39603</guid>
+
+					<description><![CDATA[Miközben felkészülünk egy hihetetlen Majorre Rióban, előre is tekintünk a következő év eseményeire. 2023 első, a BLAST által vendégül látott CS:GO Majorjére Franciaországban, Párizsban fog sor kerülni. Öveket becsatolni, és kilövés a BLAST.TV Major felé! Öt év CS:GO Kínában Ünnepeld meg a CS:GO kínai megjelenésének ötödik évfordulóját a 花脸 Hua Lian (Painted Face) egyedülálló zenekészlettel. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://blast.tv/major"><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/blast_announcement.png" alt="" width="100%"/></a><br />
+Miközben felkészülünk egy <a href="https://pro.eslgaming.com/tour/csgo/rio/">hihetetlen Majorre Rióban</a>, előre is tekintünk a következő év eseményeire. 2023 első, a BLAST által vendégül látott CS:GO Majorjére Franciaországban, Párizsban fog sor kerülni. Öveket becsatolni, és kilövés a <a href="https://blast.tv/major">BLAST.TV Major</a> felé!</p>
+<h4>Öt év CS:GO Kínában</h4>
+<p><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/hua_lian.png" data-rel="lightbox-image-0" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/hua_lian.png" alt="" width="100%"/></a><br />
+Ünnepeld meg a CS:GO kínai megjelenésének ötödik évfordulóját a 花脸 Hua Lian (Painted Face) egyedülálló zenekészlettel. Ez a zenekészlet a csincsiang népi kínai operát (a legkorábbi kínai stílusú rock &#8216;n&#8217; rollt) és a modern rock &#8216;n&#8217; rollt ötvözi. Akár füst ölel körül, akár villanógránát vakított el, ne tévessz utat!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">39603</post-id>	</item>
+		<item>
+		<title>A Zenekészletek hangja</title>
+		<link>https://blog.counter-strike.net/hu/2022/08/39441/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2022 00:20:13 +0000</pubDate>
+				<category><![CDATA[Home @hu @hu]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39441</guid>
+
+					<description><![CDATA[Örömmel adjuk ki ma a Kezdeményezők Zenekészlet Dobozt, benne 3kliksphilip, Humanity&#8217;s Last Breath, Juelz, Knock2, Meechy Darko és Sullivan King zenekészleteivel. Akár a dance, hip-hop vagy rockzene, akár a CS:GO tartalomkészítők rajongója vagy, van itt neked való zenekészlet. A Kezdeményezők Zenekészlet Doboz már megvásárolható a játékban! A mai frissítés után már nem szerezhető 10. Születésnapi [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/initiators_final.png" data-rel="lightbox-image-0" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/initiators_final.png" alt="" width="100%"/></a><br />
+Örömmel adjuk ki ma a Kezdeményezők Zenekészlet Dobozt, benne 3kliksphilip, Humanity&#8217;s Last Breath, Juelz, Knock2, Meechy Darko és Sullivan King zenekészleteivel. </p>
+<p>Akár a dance, hip-hop vagy rockzene, akár a CS:GO tartalomkészítők rajongója vagy, van itt neked való zenekészlet. A Kezdeményezők Zenekészlet Doboz már megvásárolható a játékban!</p>
+<p>A mai frissítés után már nem szerezhető 10. Születésnapi Érem. Köszönet mindazon játékosoknak, akik velünk együtt ünnepelték a CS:GO 10. születésnapját, és megszerezték érmüket!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">39441</post-id>	</item>
+	</channel>
+</rss>

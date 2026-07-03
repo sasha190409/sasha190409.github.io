@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Counter-Strike: Global Offensive</title>
+	<atom:link href="https://blog.counter-strike.net/zh-hans/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.counter-strike.net/zh-hans/</link>
+	<description></description>
+	<lastBuildDate>Thu, 27 Apr 2023 17:56:27 +0000</lastBuildDate>
+	<language>zh-Hans</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://s0.wp.com/i/webclip.png</url>
+	<title>Counter-Strike: Global Offensive</title>
+	<link>https://blog.counter-strike.net/zh-hans/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<cdn>/media.steampowered.com/media.st.dl.eccdnx.com/</cdn><cdn>/broadcast.steampowered.com/broadcast.st.dl.eccdnx.com/</cdn><cdn>/steamcdn-a.akamaihd.net/media.st.dl.eccdnx.com/</cdn><test>/ignore me/caching test/</test><site xmlns="com-wordpress:feed-additions:1">155055202</site>	<item>
+		<title>阿努比斯收藏品</title>
+		<link>https://blog.counter-strike.net/zh-hans/2023/04/41402/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 25 Apr 2023 01:23:12 +0000</pubDate>
+				<category><![CDATA[Home @zh-hans]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41402</guid>
+
+					<description><![CDATA[自11月以来，玩家们乐于在阿努比斯地图的中路对枪，在水路中穿梭。 今日，我们带来了阿努比斯收藏品，包含19件主 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>自11月以来，玩家们乐于在阿努比斯地图的中路对枪，在水路中穿梭。</p>
+<p>今日，我们带来了阿努比斯收藏品，包含19件主题武器皮肤，助力其加入<br />
+ Counter-Strike 服役生涯地图池。</p>
+<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/3381077/fd18c8adb36e6741b8729c4d6ffbb05cba467aa0.png" alt="" width="100%"/></p>
+<p>阿努比斯收藏品现已可在游戏内购买。</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">41402</post-id>	</item>
+		<item>
+		<title>新武器箱+新印花+新音乐盒，我的天！</title>
+		<link>https://blog.counter-strike.net/zh-hans/2023/02/41099/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Fri, 10 Feb 2023 01:48:00 +0000</pubDate>
+				<category><![CDATA[Home @zh-hans]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41099</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/denzel_revolution_espionage_new.png" alt="" width="100%"/></p>
+<style type="text/css">
+.sArrowLeft {
+	cursor:pointer;
+	position:absolute;
+	bottom:160px;
+	left:7px;
+	width:30px;
+	height:30px;
+	background-image:url('https://steamcdn-a.akamaihd.net/apps/csgo/blog/images/arrows.png');
+	background-position:bottom left;
+	z-index:100;
+        opacity:.3;
+}
+.sArrowLeft:hover {
+	background-position:top left;
+        opacity:1;
+}
+.sArrowRight {
+	cursor:pointer;
+	position:absolute;
+	bottom:160px;
+	right:6px;
+	width:30px;
+	height:30px;
+	background-image:url('https://steamcdn-a.akamaihd.net/apps/csgo/blog/images/arrows.png');
+	background-position:bottom right;
+	z-index:100;
+        opacity:.3;
+}
+.sArrowRight:hover {
+	background-position:top right;
+        opacity:1;
+}
+.dreamsContainer {
+	position:relative;
+	width:520px;
+        height:355px;
+	margin-bottom:7px;
+	overflow:hidden;
+}
+</style>
+<p><script language="javascript">
+$j(window).load(function () {
+	$j('#dreams_slider').cycle({
+	    fx:     'scrollHorz',
+	    speed:  200,
+	    next:   '#dreams_right',
+	    prev:  '#dreams_left',
+            pause:  1,
+            pager:  0,
+	    timeout: 3500
+	});
+});
+</script></p>
+<div style="width:100%; background-color: #bfbfbf00; line-height: 0px;">
+<div class="dreamsContainer">
+<div id="dreams_left" class="sArrowLeft"><img decoding="async" src="https://steamcdn-a.akamaihd.net/apps/csgo/images/trans.gif" width="30" height="30" border="0" /></div>
+<div id="dreams_right" class="sArrowRight"><img decoding="async" src="https://steamcdn-a.akamaihd.net/apps/csgo/images/trans.gif" width="30" height="30" border="0" /></div>
+<div id="dreams_slider" class="picslide" style="z-index: 1;"><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/01.png" alt="click for larger image" / data-rel="lightbox-image-0" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/01.png" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/02.png?v=1" data-rel="lightbox-image-1" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/02.png?v=1" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/03_duality.png?v=1" data-rel="lightbox-image-2" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img fetchpriority="high" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/03_duality.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/04.png?v=2" data-rel="lightbox-image-3" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/04.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/05.png?v=1" data-rel="lightbox-image-4" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/05.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/06.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/06.png?v=1" alt="" width="520" height="355" /><a href=https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/07.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/07.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/08.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/08.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/09.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/09.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/10.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/10.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/11.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/11.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/12.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/12.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/13.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/13.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/14.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/14.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/15.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/15.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/16.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/16.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/17.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/17.png?v=2" alt="" width="520" height="355" /></a></div>
+</div>
+</div>
+<p>今天，CS:GO发布了“变革武器箱”，包括来自社区艺术家创作的17款枪械皮肤，以及同“命悬一线武器箱”的手套作为罕见特殊物品。</p>
+<p>同时，游戏内还推出“间谍印花胶囊”，内含来自创意工坊艺术家创作的21款独特印花。 </p>
+<p>此外，还有来自丹泽尔·库里的“终极”音乐盒，其中包括他的热门说唱单曲《Walkin》、《ULTIMATE》以及他2022年的专辑《Melt My Eyez See Your Future》中的歌曲。</p>
+<p>以上新品均已在游戏内上架！</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">41099</post-id>	</item>
+		<item>
+		<title>乐意为您效劳</title>
+		<link>https://blog.counter-strike.net/zh-hans/2022/12/40627/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 23:57:39 +0000</pubDate>
+				<category><![CDATA[Home @zh-hans]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40627</guid>
+
+					<description><![CDATA[您的军衔等级提升到多少级了？ 准备好的话，焕然一新的2023年服役勋章将从2023年1月1日（格林尼治标准时间 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/service_medal_2023.png" alt="" width="100%" /></p>
+<p>您的军衔等级提升到多少级了？ 准备好的话，焕然一新的2023年服役勋章将从2023年1月1日（格林尼治标准时间）起，开放兑换。</p>
+<p>通过游玩官方游戏模式获取经验值，并以此升级您的CS:GO军衔。 当您升至全球上将军衔（40级）后，您可选择重置个人军衔等级，并获得（或升级）2023年服役勋章。 服役勋章是一件可检视的物品，您的头像无论显示在哪里，都能看到这枚勋章。</p>
+<p>在今天的更新中，还包含了两张可在搭档模式下进行游玩的全新社区地图：博涯堡垒和圣杯村庄。 两张地图分别提供了在搭档模式下的不同侧重玩法，博涯堡垒注重快速交锋，而圣杯村庄则更注重远程决斗。</p>
+<p>赶紧加入搭档模式比赛并亲自体验吧，还可获取更多的经验值！</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40627</post-id>	</item>
+		<item>
+		<title>阿努比斯加入比赛地图组</title>
+		<link>https://blog.counter-strike.net/zh-hans/2022/11/40481/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Fri, 18 Nov 2022 22:01:45 +0000</pubDate>
+				<category><![CDATA[Home @zh-hans]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40481</guid>
+
+					<description><![CDATA[今日的更新包括对服役地图组的调整以及对武器数据的修改。 首先，我们正在对服役（比赛）地图组进行调整，这将影响2 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>今日的更新包括对服役地图组的调整以及对武器数据的修改。</p>
+<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/anubis_map.jpg" alt="" width="100%" /><br />
+首先，我们正在对服役（比赛）地图组进行调整，这将影响2023年巴黎锦标赛时，选手可用的地图池。</p>
+<p>阿努比斯现已加入服役地图组。同时，炙热沙城Ⅱ已被移除出服役地图组。 不过，这两张图仍可在休闲、死亡竞赛和竞技模式中使用。</p>
+<p>其次，我们也对武器作了一些调整。 AWP的弹匣容量已减少至5发子弹（请好好利用每颗子弹！），而M4A1-S目前在远距离造成的伤害则有所衰减。 </p>
+<p>进游戏试试这些变化吧，并让我们知道您的想法！</p>
+<p>此外，感谢Ryan(@Schaffurr) 所起的博文标题！</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40481</post-id>	</item>
+		<item>
+		<title>里约Major冠军诞生</title>
+		<link>https://blog.counter-strike.net/zh-hans/2022/11/40348/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Wed, 16 Nov 2022 01:24:08 +0000</pubDate>
+				<category><![CDATA[Home @zh-hans]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40348</guid>
+
+					<description><![CDATA[在过去的两周内，里约成为了CS:GO玩家的焦点。24支世界豪门通过激烈角逐，争夺2022年 IEM 里约热内卢 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/rio_champions/schinese.jpg" alt="" width="100%" /><br />
+在过去的两周内，里约成为了CS:GO玩家的焦点。24支世界豪门通过激烈角逐，争夺2022年 IEM 里约热内卢锦标赛的冠军。 最终在决赛中，Outsiders先后在荒漠迷城和死亡游乐园中，直落两图横扫Heroic，捧起了属于他们的首座Major冠军奖杯。</p>
+<p>为了庆祝新科冠军的加冕，我们在今天的游戏中上架了“冠军签名印花胶囊”，打开后有机会获得普通、闪耀、全息或金色的冠军亲笔签名印花。让我们祝贺FL1T、fame、Jame、n0rb3r7和Qikert！</p>
+<h4>Major全新启程</h4>
+<p>从2023年巴黎Major开始，我们将改变邀请参加RMR队伍的方式。</p>
+<p>以往，队伍通过直邀或一系列的“地区开放性预选赛”进入RMR。 对于巴黎Major，会有一些未通过直邀的队伍将会直接跳过“地区开放性预选赛”阶段，那些在Valve以及第三方赛事中表现持续稳定的队伍，将被直接邀请进入“地区封闭性预选赛”。 就此，他们将与历经比拼通过“地区开放性预选赛”的队伍一起竞争角逐。</p>
+<p>在之后的几周内，就全新的预选赛流程，我们将介绍更多的相关细节。</p>
+<p>恭喜Outsiders，我们明年巴黎Major再见！</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40348</post-id>	</item>
+		<item>
+		<title>里约Major冠军赛</title>
+		<link>https://blog.counter-strike.net/zh-hans/2022/11/40298/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Wed, 09 Nov 2022 17:00:50 +0000</pubDate>
+				<category><![CDATA[Home @zh-hans]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40298</guid>
+
+					<description><![CDATA[在经过了难以忘怀的挑战赛和传奇赛后，8支队伍成功晋级2022年IEM里约热内卢Major传奇赛阶段。 让我们恭 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/rio_2022_champions_blog.png" alt="" width="100%"/></p>
+<p>在经过了难以忘怀的挑战赛和传奇赛后，8支队伍成功晋级2022年IEM里约热内卢Major传奇赛阶段。 </p>
+<p>让我们恭喜晋级的队伍：Cloud9、FURIA、Fnatic、Heroic、Outsiders、MOUZ、Natus Vincere以及Team Spirit。他们将在一票难求的青年竞技场（Jeunesse Arena）角逐，现场逾18000名CS:GO粉丝将见证Major冠军的诞生！ </p>
+<p>冠军赛将于北京时间11月11日凌晨1:00打响，请尽快完成您的竞猜挑战！ 现在，您仍有时间通过购买选手签名印花，获得（或购买）纪念品代币来支持您最爱的战队，并翘首期盼史上最变幻莫测的Major赛事之一吧！ </p>
+<p>50%的收益将给予参加IEM里约热内卢Major的选手、战队和组织。</p>
+<p>祝所有选手好运！</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40298</post-id>	</item>
+		<item>
+		<title>收集爱好者福音</title>
+		<link>https://blog.counter-strike.net/zh-hans/2022/10/40147/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Thu, 27 Oct 2022 00:14:41 +0000</pubDate>
+				<category><![CDATA[Home @zh-hans]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40147</guid>
+
+					<description><![CDATA[在今天的更新中，包含了不少对库存存储组件的内容优化，并对2022里约Major的选手和战队印花视觉效果进行了调 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/rio2022/iem_caskets.png" alt="" width="100%"/><br />
+在今天的更新中，包含了不少对库存存储组件的内容优化，并对2022里约Major的选手和战队印花视觉效果进行了调整。 赶快进游戏查看吧，并告诉我们你们的看法！</p>
+<p>是不是有捷径可以收集到此次2022里约Major的所有印花，并支持所有的参赛战队和选手呢？ 是有的。“2022里约库存存储组件”现已发售。 购买“2022里约库存存储组件印花版”后，您将获得所有145个普通印花，包括2022年 IEM 里约热内卢锦标赛印花，所有战队印花以及参赛选手签名。 如果您对闪闪发光的东西感兴趣，您还可以选择购买“2022里约库存存储组件闪耀印花版”，内含145个闪耀印花，包含所有2022里约Major的选手签名和战队闪耀印花。</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40147</post-id>	</item>
+		<item>
+		<title>通往里约的漫漫长路</title>
+		<link>https://blog.counter-strike.net/zh-hans/2022/10/39964/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Fri, 21 Oct 2022 22:53:54 +0000</pubDate>
+				<category><![CDATA[Home @zh-hans]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39964</guid>
+
+					<description><![CDATA[CS:GO Major将首次来到巴西， 从头到尾都将有观众亲临现场观赛。 IEM里约热内卢Major将于10月 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>CS:GO Major将首次来到巴西， 从头到尾都将有观众亲临现场观赛。 <a href="https://pro.eslgaming.com/tour/csgo/rio/">IEM里约热内卢Major</a>将于10月31日正式开始，您准备好了吗？</p>
+<p><a href="https://store.steampowered.com/sale/csgorio2022"><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/rio2022/coins_and_pass.png" alt="" width="100%"/></a><br />
+IEM里约热内卢Major近在眼前，即将如期而至。战队印花、选手签名胶囊以及2022里约热内卢观众通行证均已发售！ 50%的收益将给予参加IEM里约热内卢Major的选手、战队和组织。您可以通过以下方式支持您心仪的战队和选手：</p>
+<h4>观众通行证、印花及更多</h4>
+<p>购买并激活观众通行证后，您将获得一枚可升级的2022里约热内卢赛事挑战币，参与竞猜挑战、无限次战队涂鸦、Steam.tv 聊天表情以及2022里约热内卢纪念包的专属权限。</p>
+<p>每当您升级赛事挑战币，您可获得一枚纪念品代币并根据选择兑换一个赛事纪念包。 纪念包将包含战队和赛事地图的金色印花。</p>
+<p>您可参与竞猜挑战获得至多3枚纪念品代币。如果您想获得更多代币，我们也早已为您准备。 购买“观众通行证+3枚纪念品代币”可让您在启封通行证后，一开始就获得3枚纪念币。 或者，随您心意购买任意数量的纪念币。</p>
+<p>还在找寻您最爱的战队或选手吗？ 此次战队印花和选手签名胶囊包含：普通、闪耀、全息和金色印花。 本届Major结束后不久，冠军选手亲笔签名胶囊将会开售。这些胶囊将包含冠军战队的选手亲笔签名，敬请期待！</p>
+<h4>“万圣节”特色更新</h4>
+<p>今日更新中涉及了不少社区地图的相关内容，包括万圣节特供版的余烬岛。 如果您胆儿够大的话，赶紧去打一场头号特训的比赛试试吧！</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">39964</post-id>	</item>
+		<item>
+		<title>2023巴黎Major以及全新音乐盒</title>
+		<link>https://blog.counter-strike.net/zh-hans/2022/09/39596/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 13 Sep 2022 22:51:22 +0000</pubDate>
+				<category><![CDATA[Home @zh-hans]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39596</guid>
+
+					<description><![CDATA[就在我们翘首期盼里约Major的同时，我们已经开始展望明年的赛事了。 2023年，CS:GO的首个Major将 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://blast.tv/major"><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/blast_announcement.png" alt="" width="100%"/></a><br />
+就在我们翘首期盼<a href="https://pro.eslgaming.com/tour/csgo/rio/">里约Major</a>的同时，我们已经开始展望明年的赛事了。 2023年，CS:GO的首个Major将由BLAST主办，举办地为法国巴黎。 为了更好的观赛，您可进入 <a href="https://blast.tv/major">BLAST.TV Major</a>查看赛事详情！</p>
+<h4>CS:GO国服五周年生日快乐！</h4>
+<p><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/hua_lian.png" data-rel="lightbox-image-0" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/hua_lian.png" alt="" width="100%"/></a><br />
+为了庆祝CS:GO国服五周年纪念日，游戏内上线了一款别具一格的音乐盒，名为“花脸”。 这款音乐盒以中国最古老戏曲之一的“秦腔”融合了现代摇滚。 无论您是被烟雾弹环绕还是被闪光弹致盲，都不要迷失方向！</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">39596</post-id>	</item>
+		<item>
+		<title>音乐之声</title>
+		<link>https://blog.counter-strike.net/zh-hans/2022/08/39372/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2022 00:20:13 +0000</pubDate>
+				<category><![CDATA[Home @zh-hans]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39372</guid>
+
+					<description><![CDATA[今天，我们很开心在游戏内实装了“引爆器”音乐盒集，包含来自3kliksphilip、Humanity’s La [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/initiators_final.png" data-rel="lightbox-image-0" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/initiators_final.png" alt="" width="100%"/></a><br />
+今天，我们很开心在游戏内实装了“引爆器”音乐盒集，包含来自3kliksphilip、Humanity’s Last Breath、Juelz、Knock2、Meechy Darko和Sullivan King，共6款全新音乐盒。 </p>
+<p>不管您喜欢的是舞曲音乐、嘻哈音乐还是摇滚乐，亦或是欣赏那些CS:GO内容创作者，总有一款音乐盒适合您。 “引爆器”音乐盒集现已可在游戏内购买。</p>
+<p>今日更新后，“CS:GO 10周年生日硬币”已无法获得。 感谢与我们一起庆祝CS:GO十岁生日的玩家们，也祝贺你们获得了生日硬币！</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">39372</post-id>	</item>
+	</channel>
+</rss>

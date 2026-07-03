@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Counter-Strike: Global Offensive</title>
+	<atom:link href="https://blog.counter-strike.net/de/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.counter-strike.net/de/</link>
+	<description></description>
+	<lastBuildDate>Thu, 27 Apr 2023 17:52:55 +0000</lastBuildDate>
+	<language>de</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://s0.wp.com/i/webclip.png</url>
+	<title>Counter-Strike: Global Offensive</title>
+	<link>https://blog.counter-strike.net/de/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<cdn>/media.steampowered.com/media.st.dl.eccdnx.com/</cdn><cdn>/broadcast.steampowered.com/broadcast.st.dl.eccdnx.com/</cdn><cdn>/steamcdn-a.akamaihd.net/media.st.dl.eccdnx.com/</cdn><test>/ignore me/caching test/</test><site xmlns="com-wordpress:feed-additions:1">155055202</site>	<item>
+		<title>Die Anubis-Kollektion</title>
+		<link>https://blog.counter-strike.net/de/2023/04/41381/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 25 Apr 2023 01:23:12 +0000</pubDate>
+				<category><![CDATA[Home @de]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41381</guid>
+
+					<description><![CDATA[Seit November liefern sich die Spieler einen Wettlauf um die Kontrolle über die Brücke und rauschen durch den Kanal von Anubis. Heute veröffentlichen wir die Kollektion „Anubis“ mit 19 Waffenlackierungen, die von der neuesten Karte der aktiven Dienstgruppe inspiriert sind. Die Kollektion „Anubis“ ist ab sofort im Spiel erhältlich.]]></description>
+										<content:encoded><![CDATA[<p>Seit November liefern sich die Spieler einen Wettlauf um die Kontrolle über die Brücke und rauschen durch den Kanal von Anubis.</p>
+<p>Heute veröffentlichen wir die Kollektion „Anubis“ mit 19 Waffenlackierungen, die von der neuesten Karte der aktiven Dienstgruppe inspiriert sind.</p>
+<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/3381077/fd18c8adb36e6741b8729c4d6ffbb05cba467aa0.png" alt="" width="100%"/></p>
+<p>Die Kollektion „Anubis“ ist ab sofort im Spiel erhältlich.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">41381</post-id>	</item>
+		<item>
+		<title>Kiste, Kapsel und Kit!</title>
+		<link>https://blog.counter-strike.net/de/2023/02/41114/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Fri, 10 Feb 2023 01:48:00 +0000</pubDate>
+				<category><![CDATA[Home @de]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41114</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/denzel_revolution_espionage_new.png" alt="" width="100%"/></p>
+<style type="text/css">
+.sArrowLeft {
+	cursor:pointer;
+	position:absolute;
+	bottom:160px;
+	left:7px;
+	width:30px;
+	height:30px;
+	background-image:url('https://steamcdn-a.akamaihd.net/apps/csgo/blog/images/arrows.png');
+	background-position:bottom left;
+	z-index:100;
+        opacity:.3;
+}
+.sArrowLeft:hover {
+	background-position:top left;
+        opacity:1;
+}
+.sArrowRight {
+	cursor:pointer;
+	position:absolute;
+	bottom:160px;
+	right:6px;
+	width:30px;
+	height:30px;
+	background-image:url('https://steamcdn-a.akamaihd.net/apps/csgo/blog/images/arrows.png');
+	background-position:bottom right;
+	z-index:100;
+        opacity:.3;
+}
+.sArrowRight:hover {
+	background-position:top right;
+        opacity:1;
+}
+.dreamsContainer {
+	position:relative;
+	width:520px;
+        height:355px;
+	margin-bottom:7px;
+	overflow:hidden;
+}
+</style>
+<p><script language="javascript">
+$j(window).load(function () {
+	$j('#dreams_slider').cycle({
+	    fx:     'scrollHorz',
+	    speed:  200,
+	    next:   '#dreams_right',
+	    prev:  '#dreams_left',
+            pause:  1,
+            pager:  0,
+	    timeout: 3500
+	});
+});
+</script></p>
+<div style="width:100%; background-color: #bfbfbf00; line-height: 0px;">
+<div class="dreamsContainer">
+<div id="dreams_left" class="sArrowLeft"><img decoding="async" src="https://steamcdn-a.akamaihd.net/apps/csgo/images/trans.gif" width="30" height="30" border="0" /></div>
+<div id="dreams_right" class="sArrowRight"><img decoding="async" src="https://steamcdn-a.akamaihd.net/apps/csgo/images/trans.gif" width="30" height="30" border="0" /></div>
+<div id="dreams_slider" class="picslide" style="z-index: 1;"><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/01.png" alt="click for larger image" / data-rel="lightbox-image-0" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/01.png" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/02.png?v=1" data-rel="lightbox-image-1" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/02.png?v=1" alt="" width="100%" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/03_duality.png?v=1" data-rel="lightbox-image-2" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img fetchpriority="high" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/03_duality.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/04.png?v=2" data-rel="lightbox-image-3" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/04.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/05.png?v=1" data-rel="lightbox-image-4" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/05.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/06.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/06.png?v=1" alt="" width="520" height="355" /><a href=https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/07.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/07.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/08.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/08.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/09.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/09.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/10.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/10.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/11.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/11.png?v=2" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/12.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/12.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/13.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/13.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/14.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/14.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/15.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/15.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/16.png?v=1"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/16.png?v=1" alt="" width="520" height="355" /></a><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/17.png?v=2"><img loading="lazy" decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/17.png?v=2" alt="" width="520" height="355" /></a></div>
+</div>
+</div>
+<p>Wir freuen uns, heute die Waffenkiste „Revolution“ mit 17 Waffenlackierungen von Community-Künstlern sowie den Handschuhen aus der Waffenkiste „Clutch“ als seltene Spezialgegenstände zu veröffentlichen.</p>
+<p>Außerdem enthält das Update die Aufkleberkapsel „Spionage“ mit 21 einzigartigen Aufklebern, die ebenfalls von Künstlern aus dem Steam Workshop stammen. </p>
+<p>Zu guter Letzt feiert noch Denzel Curry mit dem Musikkit „ULTIMATE“ sein CS:GO-Debüt, welches „Walkin“, „ULTIMATE“ sowie viele weitere Hits aus seinem 2022 erschienenen Album „Melt My Eyez See Your Future“ enthält.</p>
+<p>Alle drei Gegenstände sind jetzt im Spiel verfügbar.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">41114</post-id>	</item>
+		<item>
+		<title>Stets zu Diensten</title>
+		<link>https://blog.counter-strike.net/de/2022/12/40694/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 23:57:39 +0000</pubDate>
+				<category><![CDATA[Home @de]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40694</guid>
+
+					<description><![CDATA[Sie haben dieses Jahr allen den Rang abgelaufen und denken gar nicht daran, Ihren Dienst zu quittieren? Die neue Verdienstmedaille 2023 ist ab dem 1. Januar verfügbar. Sie können EP verdienen und Ihren CS:GO-Profilrang steigern, indem Sie die offiziellen Spielmodi spielen. Wenn Sie den Rang „Globaler General“ (Rang 40) erreicht haben, können Sie Ihren Profilrang [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/service_medal_2023.png" alt="" width="100%" /><br />
+Sie haben dieses Jahr allen den Rang abgelaufen und denken gar nicht daran, Ihren Dienst zu quittieren? Die neue Verdienstmedaille 2023 ist ab dem 1. Januar verfügbar.</p>
+<p>Sie können EP verdienen und Ihren CS:GO-Profilrang steigern, indem Sie die offiziellen Spielmodi spielen. Wenn Sie den Rang „Globaler General“ (Rang 40) erreicht haben, können Sie Ihren Profilrang zurücksetzen, um eine Verdienstmedaille für das Jahr 2023 zu erhalten (oder aufzuwerten). Die Medaille ist ein ausstellbarer Gegenstand, den Sie überall dort präsentieren können, wo Ihr Avatar angezeigt wird.</p>
+<p>Das heutige Update enthält außerdem zwei neue Community-Karten für den Wingman-Spielmodus: Boyard und Chalice. Beide Karten bieten Ihnen neue Möglichkeiten, den Wingman-Spielmodus zu erleben, etwa durch schnelle Konfrontationen auf Boyard oder Duelle über längere Distanz auf Chalice.</p>
+<p>Stürzen Sie sich in eine Wingman-Partie, um beide Neuzugänge auszuprobieren und dabei gleich noch ein paar EP zu verdienen!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40694</post-id>	</item>
+		<item>
+		<title>Anu Map Who Bis</title>
+		<link>https://blog.counter-strike.net/de/2022/11/40556/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Fri, 18 Nov 2022 22:01:45 +0000</pubDate>
+				<category><![CDATA[Home @de]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40556</guid>
+
+					<description><![CDATA[Das heutige Update enthält Anpassungen am aktiven Kartenpool sowie an einigen Waffen. Zunächst nehmen wir einige Änderungen am aktiven Kartenpool vor, die darüber entscheiden, welche Karten während der Meisterschaft in Paris 2023 gespielt werden. Anubis wird zum aktiven Dienst hinzugefügt und Dust II davon entfernt. Beide Karten bleiben jedoch weiterhin für Gelegenheitsspiel, Deathmatch und den Wettkampfmodus verfügbar. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Das heutige Update enthält Anpassungen am aktiven Kartenpool sowie an einigen Waffen.</p>
+<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/anubis_map.jpg" alt="" width="100%" /><br />
+Zunächst nehmen wir einige Änderungen am aktiven Kartenpool vor, die darüber entscheiden, welche Karten während der Meisterschaft in Paris 2023 gespielt werden.</p>
+<p>Anubis wird zum aktiven Dienst hinzugefügt und Dust II davon entfernt. Beide Karten bleiben jedoch weiterhin für Gelegenheitsspiel, Deathmatch und den Wettkampfmodus verfügbar.</p>
+<p>Wir nehmen auch einige Anpassungen an den Waffen vor. Die Magazingröße der AWP wurde auf fünf Kugeln reduziert (stellen Sie also sicher, dass jede zählt!) und die M4A1-S fügt nun auf weite Entfernungen weniger Schaden zu. </p>
+<p>Probieren Sie die Änderungen aus und teilen Sie uns Ihr Feedback mit!</p>
+<p>Und danke für den Blogtitel, Ryan (@Schaffurr)! Ein Wortspiel, das auf der Phrase „New Phone, Who Dis?“ (Neues Handy, wer bist du?) basiert und übersetzt leider nicht funktioniert.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40556</post-id>	</item>
+		<item>
+		<title>Meister der IEM Rio 2022</title>
+		<link>https://blog.counter-strike.net/de/2022/11/40418/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Wed, 16 Nov 2022 01:24:08 +0000</pubDate>
+				<category><![CDATA[Home @de]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40418</guid>
+
+					<description><![CDATA[Während der vergangenen zwei Wochen war Rio de Janeiro das Zentrum von CS:GO, wo 24 der weltweit besten Teams in der Meisterschaft Intel Extreme Masters Rio 2022 um den Sieg kämpften. Am Ende gab es einen klaren Sieger, als Outsider sich gegen Heroic on Mirage und Overpass durchsetzten und Ihren ersten Meistertitel holten. Zur Feier [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/steam_cover_champions_en.jpg" alt="" width="100%" /><br />
+Während der vergangenen zwei Wochen war Rio de Janeiro das Zentrum von CS:GO, wo 24 der weltweit besten Teams in der Meisterschaft Intel Extreme Masters Rio 2022 um den Sieg kämpften. Am Ende gab es einen klaren Sieger, als Outsider sich gegen Heroic on Mirage und Overpass durchsetzten und Ihren ersten Meistertitel holten.</p>
+<p>Zur Feier der neuen Meister veröffentlichen wir heute die Autogrammkapsel des Meisters mit Autogrammaufklebern von FL1T, fame, Jame, n0rb3r7 und Qikert in Standard-, Glitzer-, Holo- und Goldausführung.</p>
+<h4>Ein neuer Weg zur Meisterschaft</h4>
+<p>Mit der CS:GO-Meisterschaft Paris 2023 ändern wir den Einladungsprozess für Teams zu den regionalen Qualifikationsrunden.</p>
+<p>Bisher gelangten Teams entweder durch eine direkte Einladung oder durch eine Reihe von offenen Qualifikationsspielen in die RMRs. Für die Meisterschaft in Paris brauchen einige Teams, die keine Einladung zur Veranstaltung erhalten haben, nicht an den offenen Qualifikationsspielen teilzunehmen. Teams, die bei Events von Valve und Drittanbietern durchgehend gut abschneiden, werden stattdessen zu geschlossenen Qualifikationsspielen eingeladen. Dort treten Sie dann gegen Teams aus den offenen Qualifikationsspielen an.</p>
+<p>Weitere Details zum Prozess für die regionalen Ranglisten folgen in den kommenden Wochen.</p>
+<p>Herzlichen Glückwunsch an Outsiders, wir sehen uns in Paris!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40418</post-id>	</item>
+		<item>
+		<title>Championphase in Rio</title>
+		<link>https://blog.counter-strike.net/de/2022/11/40278/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Wed, 09 Nov 2022 17:00:50 +0000</pubDate>
+				<category><![CDATA[Home @de]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40278</guid>
+
+					<description><![CDATA[Acht Teams haben zwei unvergessliche und hart umkämpfte Phasen überstanden und sich für die Championphase der Meisterschaft IEM Rio qualifiziert. Herzlichen Glückwunsch an Cloud9, FURIA, Fnatic, Heroic, Outsiders, MOUZ, Natus Vincere und Team Spirit, die in der ausverkauften Jeunesse Arena vor mehr als 18 000 CS:GO-Fans um den Titel ringen werden. Die Partien der Championphase [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/rio_2022_champions_blog.png" alt="" width="100%"/></p>
+<p>Acht Teams haben zwei unvergessliche und hart umkämpfte Phasen überstanden und sich für die Championphase der Meisterschaft IEM Rio qualifiziert. </p>
+<p>Herzlichen Glückwunsch an Cloud9, FURIA, Fnatic, Heroic, Outsiders, MOUZ, Natus Vincere und Team Spirit, die in der ausverkauften Jeunesse Arena vor mehr als 18 000 CS:GO-Fans um den Titel ringen werden. </p>
+<p>Die Partien der Championphase beginnen am Donnerstag, dem 10. November. Treffen Sie jetzt Ihre Wahl für die Pick’Em Challenge! Noch ist Zeit, Ihre Lieblingsteams mit Team- und Spielerautogrammaufklebern zu unterstützen, Souvenirmarken zu verdienen (oder zu kaufen) und sich auf den Abschluss der unberechenbarsten Meisterschaft aller Zeiten vorzubereiten. </p>
+<p>50 % der Erlöse unterstützen die an der CS:GO-Meisterschaft IEM Rio beteiligten Spieler, Teams und Organisationen.</p>
+<p>Wir wünschen allen viel Glück!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40278</post-id>	</item>
+		<item>
+		<title>Die komplette Sammlung</title>
+		<link>https://blog.counter-strike.net/de/2022/10/40125/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Thu, 27 Oct 2022 00:14:41 +0000</pubDate>
+				<category><![CDATA[Home @de]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40125</guid>
+
+					<description><![CDATA[Das heutige Update enthält mehrere Verbesserungen an Speichereinheiten und eine Menge visuelle Anpassungen an den Team- und Spieleraufklebern zur IEM Rio 2022. Werfen Sie einen Blick darauf und teilen Sie uns Ihr Feedback mit. Sie suchen nach einer einfachen Möglichkeit, Ihre Aufklebersammlung zu vervollständigen und gleichzeitig alle Teams und Spieler zu unterstützen? Die IEM Rio [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/rio2022/iem_caskets.png" alt="" width="100%"/><br />
+Das heutige Update enthält mehrere Verbesserungen an Speichereinheiten und eine Menge visuelle Anpassungen an den Team- und Spieleraufklebern zur IEM Rio 2022. Werfen Sie einen Blick darauf und teilen Sie uns Ihr Feedback mit.</p>
+<p>Sie suchen nach einer einfachen Möglichkeit, Ihre Aufklebersammlung zu vervollständigen und gleichzeitig alle Teams und Spieler zu unterstützen? Die IEM Rio 2022 Speichereinheiten sind jetzt verfügbar. Kaufen Sie jetzt Ihre Speichereinheit mit Papieraufklebern und erhalten Sie eine Speichereinheit zur Feier des Events mit allen 145 Turnieraufklebern: dem Aufkleber zur IEM Rio 2022 sowie allen Teamlogos und Autogrammen. Und wenn Sie etwas mehr Glanz in Ihr Leben bringen möchten, können Sie sich auch eine Speichereinheit mit allen Glitzeraufklebern holen!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40125</post-id>	</item>
+		<item>
+		<title>Der lange Weg nach Rio</title>
+		<link>https://blog.counter-strike.net/de/2022/10/39989/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Fri, 21 Oct 2022 22:53:54 +0000</pubDate>
+				<category><![CDATA[Home @de]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39989</guid>
+
+					<description><![CDATA[Die erste CS:GO-Meisterschaft in Brasilien. Ein Live-Publikum vom Anfang bis zum Ende. Die CS:GO-Meisterschaft IEM Rio beginnt am 31. Oktober. Sind Sie bereit? Die CS:GO-Meisterschaft IEM Rio rückt näher und Sie können Ihre Unterstützung zeigen: Teamaufkleber, Spielerautogramme und der Zuschauerpass für die IEM Rio 2022 sind ab sofort zum Kauf erhältlich! 50 % der Erlöse unterstützen die [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Die erste CS:GO-Meisterschaft in Brasilien. Ein Live-Publikum vom Anfang bis zum Ende. Die CS:GO-Meisterschaft <a href="https://pro.eslgaming.com/tour/csgo/rio/">IEM Rio</a> beginnt am 31. Oktober. Sind Sie bereit?</p>
+<p><a href="https://store.steampowered.com/sale/csgorio2022"><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/rio2022/coins_and_pass.png" alt="" width="100%"/></a><br />
+Die CS:GO-Meisterschaft IEM Rio rückt näher und Sie können Ihre Unterstützung zeigen: Teamaufkleber, Spielerautogramme und der Zuschauerpass für die IEM Rio 2022 sind ab sofort zum Kauf erhältlich! 50 % der Erlöse unterstützen die an der CS:GO-Meisterschaft IEM Rio 2022 beteiligten Spieler, Teams und Organisationen.</p>
+<h4>Zuschauerpass, Aufkleber und mehr</h4>
+<p>Mit Ihrem Zuschauerpass erhalten Sie eine aufwertbare Eventmünze zur CS:GO-Meisterschaft IEM Rio 2022, Zugriff auf die Pick’Em Challenge, Teamgraffiti, Steam.tv-Flair und exklusiven Zugriff auf Souvenirpakete zur CS:GO-Meisterschaft IEM Rio 2022.</p>
+<p>Sie erhalten mit jeder Aufwertung Ihrer Münze eine Souvenirmarke, die Sie für ein Souvenirpaket Ihrer Wahl eintauschen können. Souvenirs enthalten goldene Aufkleber der Teams und der Karte zur von Ihnen ausgewählten Partie.</p>
+<p>Verdienen Sie mit Ihrer Teilnahme an der Pick’Em Challenge bis zu drei Souvenirmarken. Mit dem Kauf von „Zuschauerpass +3 Souvenirmarken“ erhalten Sie jedoch auch sofort drei Souvenirmarken. Natürlich können Sie nach Aktivierung Ihres Passes beliebig viele Souvenirmarken kaufen.</p>
+<p>Sie suchen nach Ihrem Lieblingsteam oder Lieblingsspieler? Dann sehen Sie sich die Teamaufkleber- und Spielerautogrammkapseln mit Standard-, Glitzer, Holo- und goldenen Aufklebern an. Und kurz nach Abschluss des großen Finales stehen Meister-Autogrammkapseln (mit Autogrammen der Spieler des Siegerteams) zum Verkauf.</p>
+<h4>Das heutige Update ist gruselig</h4>
+<p>Das heutige Update enthält mehrere Karten-Updates sowie eine besondere Halloween-Version von Ember. Stürzen Sie sich in eine Partie Gefahrenzone und probieren Sie sie aus, wenn Sie sich trauen!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">39989</post-id>	</item>
+		<item>
+		<title>Majors und Musik</title>
+		<link>https://blog.counter-strike.net/de/2022/09/39601/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Tue, 13 Sep 2022 22:51:22 +0000</pubDate>
+				<category><![CDATA[Home @de]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39601</guid>
+
+					<description><![CDATA[Während wir uns auf ein unglaubliches Major in Rio vorbereiten, richten wir unseren Blick bereits auf die bevorstehenden Events im nächsten Jahr. Das erste CS:GO-Major des Jahres 2023 findet in Paris unter der Leitung von BLAST.TV statt. Schnallen Sie sich an und starten Sie schon mal auf der Website zum BLAST.TV-Major durch! Fünf Jahre CS:GO [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://blast.tv/major"><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/blast_announcement.png" alt="" width="100%"/></a><br />
+Während wir uns auf ein <a href="https://pro.eslgaming.com/tour/csgo/rio/">unglaubliches Major in Rio</a> vorbereiten, richten wir unseren Blick bereits auf die bevorstehenden Events im nächsten Jahr. Das erste CS:GO-Major des Jahres 2023 findet in Paris unter der Leitung von BLAST.TV statt. Schnallen Sie sich an und starten Sie schon mal auf der <a href="https://blast.tv/major">Website zum BLAST.TV-Major</a> durch!</p>
+<h4>Fünf Jahre CS:GO in China</h4>
+<p><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/hua_lian.png" data-rel="lightbox-image-0" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/hua_lian.png" alt="" width="100%"/></a><br />
+Feiern Sie den 5. Jahrestag der Veröffentlichung von CS:GO in China mit dem einzigartigen Musikkit „花脸 Hua Lian (Painted Face)“. Dieses Kit kombiniert die volkstümliche Qinqiang-Oper (die früheste Form des Rock &#8217;n&#8216; Roll chinesischer Prägung) mit modernem Rock &#8217;n&#8216; Roll. Egal, ob Sie in Rauch gehüllt oder von einer Blendgranate außer Gefecht gesetzt sind, mit diesen Klängen befinden Sie sich auf sicherer Seite!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">39601</post-id>	</item>
+		<item>
+		<title>Der Sound der Musikkits</title>
+		<link>https://blog.counter-strike.net/de/2022/08/39370/</link>
+		
+		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2022 00:20:13 +0000</pubDate>
+				<category><![CDATA[Home @de]]></category>
+		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39370</guid>
+
+					<description><![CDATA[Wir freuen uns heute, die Musikkiste „Initiators“ mit Musikkits von 3kliksphilip, Humanity&#8217;s Last Breath, Juelz, Knock2, Meechy Darko und Sullivan King zu veröffentlichen. Egal, ob Sie ein Fan von Tanzmusik, Hip-Hop, Rock oder CS:GO-Inhaltserstellern sind, es gibt für jeden ein passendes Musikkit. Die Musikkiste „Initiators“ ist ab sofort im Spiel erhältlich! Mit dem heutigen Update [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/initiators_final.png" data-rel="lightbox-image-0" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/initiators_final.png" alt="" width="100%"/></a><br />
+Wir freuen uns heute, die Musikkiste „Initiators“ mit Musikkits von 3kliksphilip, Humanity&#8217;s Last Breath, Juelz, Knock2, Meechy Darko und Sullivan King zu veröffentlichen. </p>
+<p>Egal, ob Sie ein Fan von Tanzmusik, Hip-Hop, Rock oder CS:GO-Inhaltserstellern sind, es gibt für jeden ein passendes Musikkit. Die Musikkiste „Initiators“ ist ab sofort im Spiel erhältlich!</p>
+<p>Mit dem heutigen Update ist es Spielern nicht mehr möglich, die „Münze zum 10. Geburtstag“ zu verdienen. Vielen Dank an alle Spieler, die den 10. Geburtstag von CS:GO mit uns gefeiert und sich ihre Münzen verdient haben!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">39370</post-id>	</item>
+	</channel>
+</rss>

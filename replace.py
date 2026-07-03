@@ -1,13 +1,10 @@
 import os
 from concurrent.futures import ThreadPoolExecutor
 
-OLD = b"sasha190409.github.io"
+OLD = b"4465480"
 
 REPLACEMENTS = [
-    (b"https://sasha190409.github.io", b"https://sasha190409.github.io"),
-    (b"https://sasha190409.github.io", b"https://sasha190409.github.io"),
-    (b"//sasha190409.github.io", b"//sasha190409.github.io"),
-    (b"sasha190409.github.io", b"sasha190409.github.io"),
+    (b"4465480", b"4465480"),
 ]
 
 SKIP_EXT = {
@@ -34,8 +31,7 @@ def replace_file(path: str):
         if OLD not in data:
             return
 
-        for a, b in REPLACEMENTS:
-            data = data.replace(a, b)
+        data = data.replace(b"4465480", b"4465480")
 
         with open(path, "wb") as f:
             f.write(data)

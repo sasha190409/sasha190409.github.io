@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Counter-Strike: Global Offensive</title>
-	<atom:link href="https://blog.counter-strike.net/zh-hans/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog.counter-strike.net/zh-hans/</link>
+	<atom:link href="https://sasha190409.github.io/zh-hans/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sasha190409.github.io/zh-hans/</link>
 	<description></description>
 	<lastBuildDate>Thu, 27 Apr 2023 17:56:27 +0000</lastBuildDate>
 	<language>zh-Hans</language>
@@ -23,18 +23,18 @@
 <image>
 	<url>https://s0.wp.com/i/webclip.png</url>
 	<title>Counter-Strike: Global Offensive</title>
-	<link>https://blog.counter-strike.net/zh-hans/</link>
+	<link>https://sasha190409.github.io/zh-hans/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <cdn>/media.steampowered.com/media.st.dl.eccdnx.com/</cdn><cdn>/broadcast.steampowered.com/broadcast.st.dl.eccdnx.com/</cdn><cdn>/steamcdn-a.akamaihd.net/media.st.dl.eccdnx.com/</cdn><test>/ignore me/caching test/</test><site xmlns="com-wordpress:feed-additions:1">155055202</site>	<item>
 		<title>阿努比斯收藏品</title>
-		<link>https://blog.counter-strike.net/zh-hans/2023/04/41402/</link>
+		<link>https://sasha190409.github.io/zh-hans/2023/04/41402/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Tue, 25 Apr 2023 01:23:12 +0000</pubDate>
 				<category><![CDATA[Home @zh-hans]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41402</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=41402</guid>
 
 					<description><![CDATA[自11月以来，玩家们乐于在阿努比斯地图的中路对枪，在水路中穿梭。 今日，我们带来了阿努比斯收藏品，包含19件主 [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>自11月以来，玩家们乐于在阿努比斯地图的中路对枪，在水路中穿梭。</p>
@@ -49,12 +49,12 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">41402</post-id>	</item>
 		<item>
 		<title>新武器箱+新印花+新音乐盒，我的天！</title>
-		<link>https://blog.counter-strike.net/zh-hans/2023/02/41099/</link>
+		<link>https://sasha190409.github.io/zh-hans/2023/02/41099/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Fri, 10 Feb 2023 01:48:00 +0000</pubDate>
 				<category><![CDATA[Home @zh-hans]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41099</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=41099</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/denzel_revolution_espionage_new.png" alt="" width="100%"/></p>
@@ -130,12 +130,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">41099</post-id>	</item>
 		<item>
 		<title>乐意为您效劳</title>
-		<link>https://blog.counter-strike.net/zh-hans/2022/12/40627/</link>
+		<link>https://sasha190409.github.io/zh-hans/2022/12/40627/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Tue, 13 Dec 2022 23:57:39 +0000</pubDate>
 				<category><![CDATA[Home @zh-hans]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40627</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40627</guid>
 
 					<description><![CDATA[您的军衔等级提升到多少级了？ 准备好的话，焕然一新的2023年服役勋章将从2023年1月1日（格林尼治标准时间 [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/service_medal_2023.png" alt="" width="100%" /></p>
@@ -150,12 +150,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">40627</post-id>	</item>
 		<item>
 		<title>阿努比斯加入比赛地图组</title>
-		<link>https://blog.counter-strike.net/zh-hans/2022/11/40481/</link>
+		<link>https://sasha190409.github.io/zh-hans/2022/11/40481/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Fri, 18 Nov 2022 22:01:45 +0000</pubDate>
 				<category><![CDATA[Home @zh-hans]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40481</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40481</guid>
 
 					<description><![CDATA[今日的更新包括对服役地图组的调整以及对武器数据的修改。 首先，我们正在对服役（比赛）地图组进行调整，这将影响2 [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>今日的更新包括对服役地图组的调整以及对武器数据的修改。</p>
@@ -172,12 +172,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">40481</post-id>	</item>
 		<item>
 		<title>里约Major冠军诞生</title>
-		<link>https://blog.counter-strike.net/zh-hans/2022/11/40348/</link>
+		<link>https://sasha190409.github.io/zh-hans/2022/11/40348/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Wed, 16 Nov 2022 01:24:08 +0000</pubDate>
 				<category><![CDATA[Home @zh-hans]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40348</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40348</guid>
 
 					<description><![CDATA[在过去的两周内，里约成为了CS:GO玩家的焦点。24支世界豪门通过激烈角逐，争夺2022年 IEM 里约热内卢 [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/rio_champions/schinese.jpg" alt="" width="100%" /><br />
@@ -195,12 +195,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">40348</post-id>	</item>
 		<item>
 		<title>里约Major冠军赛</title>
-		<link>https://blog.counter-strike.net/zh-hans/2022/11/40298/</link>
+		<link>https://sasha190409.github.io/zh-hans/2022/11/40298/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Wed, 09 Nov 2022 17:00:50 +0000</pubDate>
 				<category><![CDATA[Home @zh-hans]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40298</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40298</guid>
 
 					<description><![CDATA[在经过了难以忘怀的挑战赛和传奇赛后，8支队伍成功晋级2022年IEM里约热内卢Major传奇赛阶段。 让我们恭 [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/rio_2022_champions_blog.png" alt="" width="100%"/></p>
@@ -216,12 +216,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">40298</post-id>	</item>
 		<item>
 		<title>收集爱好者福音</title>
-		<link>https://blog.counter-strike.net/zh-hans/2022/10/40147/</link>
+		<link>https://sasha190409.github.io/zh-hans/2022/10/40147/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Thu, 27 Oct 2022 00:14:41 +0000</pubDate>
 				<category><![CDATA[Home @zh-hans]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40147</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40147</guid>
 
 					<description><![CDATA[在今天的更新中，包含了不少对库存存储组件的内容优化，并对2022里约Major的选手和战队印花视觉效果进行了调 [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/rio2022/iem_caskets.png" alt="" width="100%"/><br />
@@ -234,12 +234,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">40147</post-id>	</item>
 		<item>
 		<title>通往里约的漫漫长路</title>
-		<link>https://blog.counter-strike.net/zh-hans/2022/10/39964/</link>
+		<link>https://sasha190409.github.io/zh-hans/2022/10/39964/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Fri, 21 Oct 2022 22:53:54 +0000</pubDate>
 				<category><![CDATA[Home @zh-hans]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39964</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=39964</guid>
 
 					<description><![CDATA[CS:GO Major将首次来到巴西， 从头到尾都将有观众亲临现场观赛。 IEM里约热内卢Major将于10月 [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>CS:GO Major将首次来到巴西， 从头到尾都将有观众亲临现场观赛。 <a href="https://pro.eslgaming.com/tour/csgo/rio/">IEM里约热内卢Major</a>将于10月31日正式开始，您准备好了吗？</p>
@@ -259,12 +259,12 @@ IEM里约热内卢Major近在眼前，即将如期而至。战队印花、选手
 		<post-id xmlns="com-wordpress:feed-additions:1">39964</post-id>	</item>
 		<item>
 		<title>2023巴黎Major以及全新音乐盒</title>
-		<link>https://blog.counter-strike.net/zh-hans/2022/09/39596/</link>
+		<link>https://sasha190409.github.io/zh-hans/2022/09/39596/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Tue, 13 Sep 2022 22:51:22 +0000</pubDate>
 				<category><![CDATA[Home @zh-hans]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39596</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=39596</guid>
 
 					<description><![CDATA[就在我们翘首期盼里约Major的同时，我们已经开始展望明年的赛事了。 2023年，CS:GO的首个Major将 [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><a href="https://blast.tv/major"><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/blast_announcement.png" alt="" width="100%"/></a><br />
@@ -279,12 +279,12 @@ IEM里约热内卢Major近在眼前，即将如期而至。战队印花、选手
 		<post-id xmlns="com-wordpress:feed-additions:1">39596</post-id>	</item>
 		<item>
 		<title>音乐之声</title>
-		<link>https://blog.counter-strike.net/zh-hans/2022/08/39372/</link>
+		<link>https://sasha190409.github.io/zh-hans/2022/08/39372/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Wed, 24 Aug 2022 00:20:13 +0000</pubDate>
 				<category><![CDATA[Home @zh-hans]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39372</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=39372</guid>
 
 					<description><![CDATA[今天，我们很开心在游戏内实装了“引爆器”音乐盒集，包含来自3kliksphilip、Humanity’s La [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/initiators_final.png" data-rel="lightbox-image-0" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/initiators_final.png" alt="" width="100%"/></a><br />

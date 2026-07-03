@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Counter-Strike: Global Offensive</title>
-	<atom:link href="https://blog.counter-strike.net/sv/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog.counter-strike.net/sv/</link>
+	<atom:link href="https://sasha190409.github.io/sv/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sasha190409.github.io/sv/</link>
 	<description></description>
 	<lastBuildDate>Thu, 27 Apr 2023 17:57:11 +0000</lastBuildDate>
 	<language>sv-SE</language>
@@ -23,18 +23,18 @@
 <image>
 	<url>https://s0.wp.com/i/webclip.png</url>
 	<title>Counter-Strike: Global Offensive</title>
-	<link>https://blog.counter-strike.net/sv/</link>
+	<link>https://sasha190409.github.io/sv/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <cdn>/media.steampowered.com/media.st.dl.eccdnx.com/</cdn><cdn>/broadcast.steampowered.com/broadcast.st.dl.eccdnx.com/</cdn><cdn>/steamcdn-a.akamaihd.net/media.st.dl.eccdnx.com/</cdn><test>/ignore me/caching test/</test><site xmlns="com-wordpress:feed-additions:1">155055202</site>	<item>
 		<title>Anubis-kollektionen</title>
-		<link>https://blog.counter-strike.net/sv/2023/04/41406/</link>
+		<link>https://sasha190409.github.io/sv/2023/04/41406/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Tue, 25 Apr 2023 01:23:12 +0000</pubDate>
 				<category><![CDATA[Okategoriserad]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41406</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=41406</guid>
 
 					<description><![CDATA[Sedan november har spelarna kikat på mitten och skyndat fram genom Anubis vatten. Idag introducerar vi Anubis-kollektionen som innehåller 19 vapenfinishar med tema från det senaste tillskottet bland Counter Strikes Active Duty-banor. Anubis-kollektionen finns nu tillgänglig för köp i spelet.]]></description>
 										<content:encoded><![CDATA[<p>Sedan november har spelarna kikat på mitten och skyndat fram genom Anubis vatten.</p>
@@ -48,12 +48,12 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">41406</post-id>	</item>
 		<item>
 		<title>Låda, kapsel, paket – oj, oj!</title>
-		<link>https://blog.counter-strike.net/sv/2023/02/41097/</link>
+		<link>https://sasha190409.github.io/sv/2023/02/41097/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Fri, 10 Feb 2023 01:48:00 +0000</pubDate>
 				<category><![CDATA[Okategoriserad]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41097</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=41097</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/denzel_revolution_espionage_new.png" alt="" width="100%"/></p>
@@ -129,12 +129,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">41097</post-id>	</item>
 		<item>
 		<title>Till er tjänst</title>
-		<link>https://blog.counter-strike.net/sv/2022/12/40687/</link>
+		<link>https://sasha190409.github.io/sv/2022/12/40687/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Tue, 13 Dec 2022 23:57:39 +0000</pubDate>
 				<category><![CDATA[Okategoriserad]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40687</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40687</guid>
 
 					<description><![CDATA[Är du redo? Den helt nya tjänstemedaljen blir tillgänglig den 1 januari! Tjäna XP genom att spela officiella spellägen och levla upp din CS:GO-profil. När du når rankningen Global General (rang 40), har du möjlighet att återställa din profilnivå och tjäna (eller uppgradera till) årets tjänstemedalj. Tjänstemedaljen är ett inspekterbart föremål som kommer att synas [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/service_medal_2023.png" alt="" width="100%" /><br />
@@ -149,12 +149,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">40687</post-id>	</item>
 		<item>
 		<title>Anu Map Who Bis</title>
-		<link>https://blog.counter-strike.net/sv/2022/11/40496/</link>
+		<link>https://sasha190409.github.io/sv/2022/11/40496/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Fri, 18 Nov 2022 22:01:45 +0000</pubDate>
 				<category><![CDATA[Okategoriserad]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40496</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40496</guid>
 
 					<description><![CDATA[Dagens uppdatering inkluderar en ändring av Active Duty-banorna samt några vapenjusteringar. Till att börja med så gör vi ändringar av Active Duty-banorna, vilket avgör vilka banor som kommer att spelas under Paris Major 2023. Anubis läggs till i Active Duty och Dust II tas bort. Men båda banorna är fortfarande tillgängliga i Casual, Deathmatch och [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Dagens uppdatering inkluderar en ändring av Active Duty-banorna samt några vapenjusteringar.</p>
@@ -171,12 +171,12 @@ Till att börja med så gör vi ändringar av Active Duty-banorna, vilket avgör
 		<post-id xmlns="com-wordpress:feed-additions:1">40496</post-id>	</item>
 		<item>
 		<title>Vinnarna av IEM Rio Major</title>
-		<link>https://blog.counter-strike.net/sv/2022/11/40395/</link>
+		<link>https://sasha190409.github.io/sv/2022/11/40395/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Wed, 16 Nov 2022 01:24:08 +0000</pubDate>
 				<category><![CDATA[Okategoriserad]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40395</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40395</guid>
 
 					<description><![CDATA[Under de senaste två veckorna har Rio de Janeiro varit centrum för CS:GO, där 24 av världens bästa lag kämpade om segern i IEM Rio Major. I slutändan gick Outsiders segrande ur kampen då de slog Heroic på Mirage och Overpass för att göra anspråk på sin första majortitel. För att fira våra nya mästare [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/steam_cover_champions_en.jpg" alt="" width="100%" /><br />
@@ -194,12 +194,12 @@ Under de senaste två veckorna har Rio de Janeiro varit centrum för CS:GO, där
 		<post-id xmlns="com-wordpress:feed-additions:1">40395</post-id>	</item>
 		<item>
 		<title>Mästaretappen i Rio</title>
-		<link>https://blog.counter-strike.net/sv/2022/11/40325/</link>
+		<link>https://sasha190409.github.io/sv/2022/11/40325/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Wed, 09 Nov 2022 17:00:50 +0000</pubDate>
 				<category><![CDATA[Okategoriserad]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40325</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40325</guid>
 
 					<description><![CDATA[Efter två oförglömliga etapper har åtta lag överlevt och avancerat till mästaretappen i IEM Rio Major. Grattis till Cloud9, FURIA, Fnatic, Heroic, Outsiders, MOUZ, Natus Vincere och Team Spirit, som kommer att tävla inför 18 000+ CS:GO-fans på en utsåld Jeunesse Arena om att bli majorns mästare. Mästaretappens matcher börjar torsdagen den 10 november, så [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/rio_2022_champions_blog.png" alt="" width="100%"/></p>
@@ -215,12 +215,12 @@ Under de senaste två veckorna har Rio de Janeiro varit centrum för CS:GO, där
 		<post-id xmlns="com-wordpress:feed-additions:1">40325</post-id>	</item>
 		<item>
 		<title>Den kompletta samlingen</title>
-		<link>https://blog.counter-strike.net/sv/2022/10/40149/</link>
+		<link>https://sasha190409.github.io/sv/2022/10/40149/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Thu, 27 Oct 2022 00:14:41 +0000</pubDate>
 				<category><![CDATA[Okategoriserad]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40149</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40149</guid>
 
 					<description><![CDATA[Dagens uppdatering innehåller flera kvalitetsförbättringar för lagringsenheter, plus ett gäng visuella justeringar av lag- och spelarklistermärken från Rio 2022. Kolla in dem och låt oss veta vad du tycker! Letar du efter ett enkelt sätt att komplettera din klistermärkessamling samtidigt som du stöttar alla lag och spelare? Rio 2022-lagringsenheter finns tillgängliga nu. Köp en lagringsenhet [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/rio2022/iem_caskets.png" alt="" width="100%"/><br />
@@ -233,12 +233,12 @@ Dagens uppdatering innehåller flera kvalitetsförbättringar för lagringsenhet
 		<post-id xmlns="com-wordpress:feed-additions:1">40149</post-id>	</item>
 		<item>
 		<title>Den långa vägen till Rio</title>
-		<link>https://blog.counter-strike.net/sv/2022/10/39997/</link>
+		<link>https://sasha190409.github.io/sv/2022/10/39997/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Fri, 21 Oct 2022 22:53:54 +0000</pubDate>
 				<category><![CDATA[Okategoriserad]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39997</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=39997</guid>
 
 					<description><![CDATA[Den första CS:GO-majorn i Brasilien. Med publik på plats från början till slut. IEM Rio-majorn börjar den 31 oktober. Är du redo? IEM Rio-majorn närmar sig med stormsteg. Du kan visa ditt stöd genom att köpa lagklistermärken, spelarautografer och åskådarpasset för Rio 2022, vilka alla finns tillgängliga nu! 50 % av intäkterna går till spelarna, [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Den första CS:GO-majorn i Brasilien. Med publik på plats från början till slut. <a href="https://pro.eslgaming.com/tour/csgo/rio/">IEM Rio-majorn</a> börjar den 31 oktober. Är du redo?</p>
@@ -258,12 +258,12 @@ IEM Rio-majorn närmar sig med stormsteg. Du kan visa ditt stöd genom att köpa
 		<post-id xmlns="com-wordpress:feed-additions:1">39997</post-id>	</item>
 		<item>
 		<title>Major och musik</title>
-		<link>https://blog.counter-strike.net/sv/2022/09/39611/</link>
+		<link>https://sasha190409.github.io/sv/2022/09/39611/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Tue, 13 Sep 2022 22:51:22 +0000</pubDate>
 				<category><![CDATA[Okategoriserad]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39611</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=39611</guid>
 
 					<description><![CDATA[Medan vi laddar inför en spännande major i Rio, blickar vi även framåt mot nästa års event. Den första CS:GO-majorn 2023 organiseras av BLAST och äger rum i Paris, Frankrike. Spänn fast dig och kör i gång på webbplatsen för BLAST.TV-majorn! Fem år av CS:GO i Kina Fira 5-årsjubileet av CS:GO:s lansering i Kina med [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><a href="https://blast.tv/major"><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/blast_announcement.png" alt="" width="100%"/></a><br />
@@ -278,12 +278,12 @@ Fira 5-årsjubileet av CS:GO:s lansering i Kina med det unika musikpaketet 花�
 		<post-id xmlns="com-wordpress:feed-additions:1">39611</post-id>	</item>
 		<item>
 		<title>Musikpaket med rätta takter</title>
-		<link>https://blog.counter-strike.net/sv/2022/08/39431/</link>
+		<link>https://sasha190409.github.io/sv/2022/08/39431/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Wed, 24 Aug 2022 00:20:13 +0000</pubDate>
 				<category><![CDATA[Okategoriserad]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39431</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=39431</guid>
 
 					<description><![CDATA[Idag ger vi ut musikpaketlådan Initiators, med musikpaket från 3kliksphilip, Humanity&#8217;s Last Breath, Juelz, Knock2, Meechy Darko och Sullivan King. Oavsett om du gillar dansmusik, hip-hop, rock eller CS:GO-innehållsskapare, finns det ett musikpaket för alla. Musikpaketlådan Initiators kan nu köpas i spelet! Som en del av dagens uppdatering kan 10-årsmyntet inte längre tjänas in. Tack [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/initiators_final.png" data-rel="lightbox-image-0" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/initiators_final.png" alt="" width="100%"/></a><br />

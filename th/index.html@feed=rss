@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Counter-Strike: Global Offensive</title>
-	<atom:link href="https://blog.counter-strike.net/th/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog.counter-strike.net/th/</link>
+	<atom:link href="https://sasha190409.github.io/th/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sasha190409.github.io/th/</link>
 	<description></description>
 	<lastBuildDate>Thu, 27 Apr 2023 17:57:29 +0000</lastBuildDate>
 	<language>th</language>
@@ -23,18 +23,18 @@
 <image>
 	<url>https://s0.wp.com/i/webclip.png</url>
 	<title>Counter-Strike: Global Offensive</title>
-	<link>https://blog.counter-strike.net/th/</link>
+	<link>https://sasha190409.github.io/th/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <cdn>/media.steampowered.com/media.st.dl.eccdnx.com/</cdn><cdn>/broadcast.steampowered.com/broadcast.st.dl.eccdnx.com/</cdn><cdn>/steamcdn-a.akamaihd.net/media.st.dl.eccdnx.com/</cdn><test>/ignore me/caching test/</test><site xmlns="com-wordpress:feed-additions:1">155055202</site>	<item>
 		<title>ชุดสะสม Anubis</title>
-		<link>https://blog.counter-strike.net/th/2023/04/41408/</link>
+		<link>https://sasha190409.github.io/th/2023/04/41408/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Tue, 25 Apr 2023 01:23:12 +0000</pubDate>
 				<category><![CDATA[Uncategorized @th]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41408</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=41408</guid>
 
 					<description><![CDATA[เริ่มตั้งแต่เดือนพฤศจิกายนเป็นต้นมา ผู้เล่นจะได้แอบมองอ [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>เริ่มตั้งแต่เดือนพฤศจิกายนเป็นต้นมา ผู้เล่นจะได้แอบมองอยู่จุดกลางและวิ่งผ่านสายน้ำแห่งอะนูบิส</p>
@@ -48,12 +48,12 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">41408</post-id>	</item>
 		<item>
 		<title>กล่อง แคปซูล ชุดอุปกรณ์ โอ้โฮ!</title>
-		<link>https://blog.counter-strike.net/th/2023/02/41118/</link>
+		<link>https://sasha190409.github.io/th/2023/02/41118/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Fri, 10 Feb 2023 01:48:00 +0000</pubDate>
 				<category><![CDATA[Uncategorized @th]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41118</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=41118</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/denzel_revolution_espionage_new.png" alt="" width="100%"/></p>
@@ -129,12 +129,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">41118</post-id>	</item>
 		<item>
 		<title>พร้อมให้คุณรับได้</title>
-		<link>https://blog.counter-strike.net/th/2022/12/40688/</link>
+		<link>https://sasha190409.github.io/th/2022/12/40688/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Tue, 13 Dec 2022 23:57:39 +0000</pubDate>
 				<category><![CDATA[Uncategorized @th]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40688</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40688</guid>
 
 					<description><![CDATA[เลื่อนขั้นกันทุกยศ และพร้อมลุยกันหรือยัง? เหรียญรางวัลบ [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/service_medal_2023.png" alt="" width="100%" /><br />
@@ -149,12 +149,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">40688</post-id>	</item>
 		<item>
 		<title>แผนที่อะนูฮูบิส</title>
-		<link>https://blog.counter-strike.net/th/2022/11/40568/</link>
+		<link>https://sasha190409.github.io/th/2022/11/40568/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Fri, 18 Nov 2022 22:01:45 +0000</pubDate>
 				<category><![CDATA[Uncategorized @th]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40568</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40568</guid>
 
 					<description><![CDATA[การอัปเดตในวันนี้มีการปรับกลุ่มแผนที่การปฏิบัติหน้าที่  [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>การอัปเดตในวันนี้มีการปรับกลุ่มแผนที่การปฏิบัติหน้าที่ รวมถึงการปรับอาวุธบางอย่าง</p>
@@ -171,12 +171,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">40568</post-id>	</item>
 		<item>
 		<title>แชมป์เมเจอร์ IEM Rio</title>
-		<link>https://blog.counter-strike.net/th/2022/11/40393/</link>
+		<link>https://sasha190409.github.io/th/2022/11/40393/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Wed, 16 Nov 2022 01:24:08 +0000</pubDate>
 				<category><![CDATA[Uncategorized @th]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40393</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40393</guid>
 
 					<description><![CDATA[ในช่วงสองสัปดาห์ที่ผ่านมา เมืองรีโอเดจาเนโรได้เป็นศูนย์ [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/steam_cover_champions_en.jpg" alt="" width="100%" /><br />
@@ -194,12 +194,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">40393</post-id>	</item>
 		<item>
 		<title>รอบผู้ชนะเลิศ Rio</title>
-		<link>https://blog.counter-strike.net/th/2022/11/40323/</link>
+		<link>https://sasha190409.github.io/th/2022/11/40323/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Wed, 09 Nov 2022 17:00:50 +0000</pubDate>
 				<category><![CDATA[Uncategorized @th]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40323</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40323</guid>
 
 					<description><![CDATA[หลังการแข่งขัน 2 รอบที่ลืมไม่ลงแล้ว มี 8 ทีมที่รอดมาได้ [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/rio_2022_champions_blog.png" alt="" width="100%"/></p>
@@ -215,12 +215,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">40323</post-id>	</item>
 		<item>
 		<title>ชุดสะสมแบบครบชุด</title>
-		<link>https://blog.counter-strike.net/th/2022/10/40151/</link>
+		<link>https://sasha190409.github.io/th/2022/10/40151/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Thu, 27 Oct 2022 00:14:41 +0000</pubDate>
 				<category><![CDATA[Uncategorized @th]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40151</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40151</guid>
 
 					<description><![CDATA[อัปเดตในวันนี้ประกอบด้วยการปรับปรุงครั้งใหญ่หลายอย่างให [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/rio2022/iem_caskets.png" alt="" width="100%"/><br />
@@ -233,12 +233,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">40151</post-id>	</item>
 		<item>
 		<title>การเดินทางอันยาวนานสู่ Rio</title>
-		<link>https://blog.counter-strike.net/th/2022/10/39998/</link>
+		<link>https://sasha190409.github.io/th/2022/10/39998/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Fri, 21 Oct 2022 22:53:54 +0000</pubDate>
 				<category><![CDATA[Uncategorized @th]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39998</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=39998</guid>
 
 					<description><![CDATA[เมเจอร์ CS:GO ครั้งแรกในบราซิล พร้อมรับชมการถ่ายทอดสดตั [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>เมเจอร์ CS:GO ครั้งแรกในบราซิล พร้อมรับชมการถ่ายทอดสดตั้งแต่ต้นจนจบ &#8220;งาน<a href="https://pro.eslgaming.com/tour/csgo/rio/">เมเจอร์ IEM Rio</a>&#8221; ได้ตั้งแต่วันที่ 31 ตุลาคมนี้ คุณพร้อมแล้วหรือยัง?</p>
@@ -258,12 +258,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">39998</post-id>	</item>
 		<item>
 		<title>เมเจอร์และเพลง</title>
-		<link>https://blog.counter-strike.net/th/2022/09/39612/</link>
+		<link>https://sasha190409.github.io/th/2022/09/39612/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Tue, 13 Sep 2022 22:51:22 +0000</pubDate>
 				<category><![CDATA[Uncategorized @th]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39612</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=39612</guid>
 
 					<description><![CDATA[ขณะที่เรากำลังเตรียมพร้อมสำหรับเมเจอร์อันน่าตื่นเต้นที่ [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><a href="https://blast.tv/major"><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/blast_announcement.png" alt="" width="100%"/></a><br />
@@ -278,13 +278,13 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">39612</post-id>	</item>
 		<item>
 		<title>Release Notes for 8/23/2022</title>
-		<link>https://blog.counter-strike.net/th/2022/08/39544/</link>
+		<link>https://sasha190409.github.io/th/2022/08/39544/</link>
 		
 		<dc:creator><![CDATA[csgo_brian]]></dc:creator>
 		<pubDate>Wed, 24 Aug 2022 00:20:16 +0000</pubDate>
 				<category><![CDATA[Uncategorized @th]]></category>
 		<category><![CDATA[Updates]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/index.php/2022/08/39544/</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/index.php/2022/08/39544/</guid>
 
 					<description><![CDATA[[ MUSIC KITS ] – Added the Initiators Music Kit Box and [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>[ MUSIC KITS ]<br />

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Counter-Strike: Global Offensive</title>
-	<atom:link href="https://blog.counter-strike.net/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog.counter-strike.net</link>
+	<atom:link href="https://sasha190409.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sasha190409.github.io</link>
 	<description></description>
 	<lastBuildDate>Tue, 25 Apr 2023 01:33:02 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -23,18 +23,18 @@
 <image>
 	<url>https://s0.wp.com/i/webclip.png</url>
 	<title>Counter-Strike: Global Offensive</title>
-	<link>https://blog.counter-strike.net</link>
+	<link>https://sasha190409.github.io</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <cdn>/media.steampowered.com/media.st.dl.eccdnx.com/</cdn><cdn>/broadcast.steampowered.com/broadcast.st.dl.eccdnx.com/</cdn><cdn>/steamcdn-a.akamaihd.net/media.st.dl.eccdnx.com/</cdn><test>/ignore me/caching test/</test><site xmlns="com-wordpress:feed-additions:1">155055202</site>	<item>
 		<title>The Anubis Collection</title>
-		<link>https://blog.counter-strike.net/2023/04/41365/</link>
+		<link>https://sasha190409.github.io/2023/04/41365/</link>
 		
 		<dc:creator><![CDATA[Chris Shambaugh]]></dc:creator>
 		<pubDate>Tue, 25 Apr 2023 01:23:12 +0000</pubDate>
 				<category><![CDATA[Home]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41365</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=41365</guid>
 
 					<description><![CDATA[Since November, players have been peeking mid and rushing through the waters of Anubis. Today we&#8217;re introducing the Anubis Collection, featuring 19 weapon finishes themed around the newest addition to Counter-Strike&#8217;s Active Duty map pool. The Anubis Collection is available for purchase now in-game.]]></description>
 										<content:encoded><![CDATA[<p>Since November, players have been peeking mid and rushing through the waters of Anubis.</p>
@@ -48,12 +48,12 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">41365</post-id>	</item>
 		<item>
 		<title>Case, Capsule, Kit, Oh My!</title>
-		<link>https://blog.counter-strike.net/2023/02/41047/</link>
+		<link>https://sasha190409.github.io/2023/02/41047/</link>
 		
 		<dc:creator><![CDATA[Chris Shambaugh]]></dc:creator>
 		<pubDate>Fri, 10 Feb 2023 01:48:00 +0000</pubDate>
 				<category><![CDATA[Home]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41047</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=41047</guid>
 
 					<description><![CDATA[Today we&#8217;re excited to ship the Revolution Case, featuring 17 weapon finishes from community artists and the gloves from the Clutch Case as rare special items. We&#8217;re also shipping the Espionage Sticker Capsule, with 21 unique stickers from Steam Workshop artists. Finally, we&#8217;re also shipping the Denzel Curry ULTIMATE music kit, featuring Denzel&#8217;s hits &#8220;Walkin&#8221;, [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Today we&#8217;re excited to ship the Revolution Case, featuring 17 weapon finishes from community artists and the gloves from the Clutch Case as rare special items.</p>
@@ -133,12 +133,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">41047</post-id>	</item>
 		<item>
 		<title>At Your Service</title>
-		<link>https://blog.counter-strike.net/2022/12/40596/</link>
+		<link>https://sasha190409.github.io/2022/12/40596/</link>
 		
 		<dc:creator><![CDATA[Chris Shambaugh]]></dc:creator>
 		<pubDate>Tue, 13 Dec 2022 23:57:39 +0000</pubDate>
 				<category><![CDATA[Home]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40596</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40596</guid>
 
 					<description><![CDATA[All ranked-up and ready to go? The all-new 2023 Service Medal will be available starting January 1st! Earn XP by playing in official game modes and rank up your CS:GO Profile. When you reach the Global General (Rank 40), you&#8217;ll have the option to reset your Profile Rank and earn (or upgrade) a 2023 Service [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/service_medal_2023.png" alt="" width="100%" /><br />
@@ -153,12 +153,12 @@ All ranked-up and ready to go? The all-new 2023 Service Medal will be available 
 		<post-id xmlns="com-wordpress:feed-additions:1">40596</post-id>	</item>
 		<item>
 		<title>Stets zu Diensten</title>
-		<link>https://blog.counter-strike.net/2022/12/40672/</link>
+		<link>https://sasha190409.github.io/2022/12/40672/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Tue, 13 Dec 2022 23:57:39 +0000</pubDate>
 				<category><![CDATA[Home]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40672</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40672</guid>
 
 					<description><![CDATA[Sie haben dieses Jahr allen den Rang abgelaufen und denken gar nicht daran, Ihren Dienst zu quittieren? Die neue Verdienstmedaille 2023 ist ab dem 1. Januar verfügbar. Sie können EP verdienen und Ihren CS:GO-Profilrang steigern, indem Sie die offiziellen Spielmodi spielen. Wenn Sie den Rang „Globaler General“ (Rang 40) erreicht haben, können Sie Ihren Profilrang [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/service_medal_2023.png" alt="" width="100%" /><br />
@@ -173,12 +173,12 @@ Sie haben dieses Jahr allen den Rang abgelaufen und denken gar nicht daran, Ihre
 		<post-id xmlns="com-wordpress:feed-additions:1">40672</post-id>	</item>
 		<item>
 		<title>Mise à jour du 13/12/2022</title>
-		<link>https://blog.counter-strike.net/2022/12/40699/</link>
+		<link>https://sasha190409.github.io/2022/12/40699/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Tue, 13 Dec 2022 23:57:27 +0000</pubDate>
 				<category><![CDATA[Updates]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40699</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40699</guid>
 
 					<description><![CDATA[[ RIO 2022 ] — Les capsules de stickers sont maintenant à −75 %. [DIVERS] — Ajout de la médaille de service de 2023 qui sera décernée pour service et succès exceptionnels à partir du 1ᵉʳ janvier 2023 GMT. — Correction du problème suivant : les cocktails Molotov et les grenades explosaient en l&#8217;air quand [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>[ RIO 2022 ]<br />
@@ -199,12 +199,12 @@ Sie haben dieses Jahr allen den Rang abgelaufen und denken gar nicht daran, Ihre
 		<post-id xmlns="com-wordpress:feed-additions:1">40699</post-id>	</item>
 		<item>
 		<title>Σημειώσεις κυκλοφορίας για 13/12/2022</title>
-		<link>https://blog.counter-strike.net/2022/12/40701/</link>
+		<link>https://sasha190409.github.io/2022/12/40701/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Tue, 13 Dec 2022 23:57:27 +0000</pubDate>
 				<category><![CDATA[Updates]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40701</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40701</guid>
 
 					<description><![CDATA[[ ΡΙΟ 2022 ] – Οι κάψουλες αυτοκόλλητων έχουν τώρα 75% έκπτωση. [ ΔΙΑΦΟΡΑ ] – Προστέθηκε το Μετάλλιο Υπηρεσίας 2023, που θα απονέμεται για εξαιρετική υπηρεσία και επιτεύγματα, ξεκινώντας από 1 Ιανουαρίου 2023. – Διορθώθηκαν οι μολότοφ και οι εμπρηστικές χειροβομβίδες, που ανατινάζονταν στον αέρα όταν πετούσαν πάνω από περιοχές ουρανού (skybox). – Διορθώθηκε [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>[ ΡΙΟ 2022 ]<br />
@@ -225,12 +225,12 @@ Sie haben dieses Jahr allen den Rang abgelaufen und denken gar nicht daran, Ihre
 		<post-id xmlns="com-wordpress:feed-additions:1">40701</post-id>	</item>
 		<item>
 		<title>2022년 12월 13일 업데이트 내용</title>
-		<link>https://blog.counter-strike.net/2022/12/40702/</link>
+		<link>https://sasha190409.github.io/2022/12/40702/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Tue, 13 Dec 2022 23:57:27 +0000</pubDate>
 				<category><![CDATA[Updates]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40702</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40702</guid>
 
 					<description><![CDATA[[ 리우데자네이루 2022 메이저 챔피언십 ] – 스티커 캡슐 가격이 75% 인하되었습니다. [ 기타 ] – 2023년 1월 1일(그리니치 표준시)부터 뛰어난 무공과 업적으로서 수여받을 수 있는 2023 무공 훈장이 추가되었습니다. – 화염병과 소이탄이 &#8216;skybox&#8217; 영역을 넘어갈 때 공중에서 폭발하는 문제를 수정했습니다. – 일부 로딩 화면에서 키 바인딩이 올바르게 표시되지 않던 문제를 수정했습니다. [ 맵 ] [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>[ 리우데자네이루 2022 메이저 챔피언십 ]<br />
@@ -251,12 +251,12 @@ Sie haben dieses Jahr allen den Rang abgelaufen und denken gar nicht daran, Ihre
 		<post-id xmlns="com-wordpress:feed-additions:1">40702</post-id>	</item>
 		<item>
 		<title>Lista zmian z dnia 13.12.2022</title>
-		<link>https://blog.counter-strike.net/2022/12/40703/</link>
+		<link>https://sasha190409.github.io/2022/12/40703/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Tue, 13 Dec 2022 23:57:27 +0000</pubDate>
 				<category><![CDATA[Updates]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40703</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40703</guid>
 
 					<description><![CDATA[[RIO 2022] – Pojemniki z naklejkami są teraz tańsze o 75%. [RÓŻNE] – Dodano Medal za Służbę 2023, który będzie przyznawany za wybitną służbę i osiągnięcia od 1 stycznia 2023 roku. – Naprawiono błąd powodujący eksplozję koktajli Mołotowa i granatów zapalających w powietrzu podczas przelatywania nad obszarami skyboxu. – Naprawiono przypadek, w którym niektóre przyciski [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>[RIO 2022]<br />
@@ -277,12 +277,12 @@ Sie haben dieses Jahr allen den Rang abgelaufen und denken gar nicht daran, Ihre
 		<post-id xmlns="com-wordpress:feed-additions:1">40703</post-id>	</item>
 		<item>
 		<title>Detalhes da atualização de 13/12/2022</title>
-		<link>https://blog.counter-strike.net/2022/12/40704/</link>
+		<link>https://sasha190409.github.io/2022/12/40704/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Tue, 13 Dec 2022 23:57:27 +0000</pubDate>
 				<category><![CDATA[Updates]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40704</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40704</guid>
 
 					<description><![CDATA[[ RIO 2022 ] – As cápsulas de autocolantes estão agora com 75% de desconto. [ GERAL ] – Foi adicionada a Medalha de Serviço de 2023, que será concedida pelo serviço extraordinário e feitos notáveis a partir de 1 de janeiro de 2023 (GMT). – Foi corrigida uma situação em que molotovs e granadas [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>[ RIO 2022 ]<br />
@@ -303,12 +303,12 @@ Sie haben dieses Jahr allen den Rang abgelaufen und denken gar nicht daran, Ihre
 		<post-id xmlns="com-wordpress:feed-additions:1">40704</post-id>	</item>
 		<item>
 		<title>Jurnalul actualizării din 13 decembrie 2022</title>
-		<link>https://blog.counter-strike.net/2022/12/40705/</link>
+		<link>https://sasha190409.github.io/2022/12/40705/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Tue, 13 Dec 2022 23:57:27 +0000</pubDate>
 				<category><![CDATA[Updates]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40705</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40705</guid>
 
 					<description><![CDATA[[ RIO 2022 ] – Capsulele cu abțibilduri sunt reduse acum cu 75%. [ DIVERSE ] – A fost adăugată medalia de merit 2023 care va fi acordată pentru merite și realizări deosebite, începând cu 1 ianuarie 2023, ora 2:00 (UTC+2). – A fost remediat faptul că molotovurile și grenadele incendiare se detonau în aer [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>[ RIO 2022 ]<br />

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Counter-Strike: Global Offensive</title>
-	<atom:link href="https://blog.counter-strike.net/vi/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog.counter-strike.net/vi/</link>
+	<atom:link href="https://sasha190409.github.io/vi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sasha190409.github.io/vi/</link>
 	<description></description>
 	<lastBuildDate>Thu, 27 Apr 2023 17:59:44 +0000</lastBuildDate>
 	<language>vi</language>
@@ -23,18 +23,18 @@
 <image>
 	<url>https://s0.wp.com/i/webclip.png</url>
 	<title>Counter-Strike: Global Offensive</title>
-	<link>https://blog.counter-strike.net/vi/</link>
+	<link>https://sasha190409.github.io/vi/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <cdn>/media.steampowered.com/media.st.dl.eccdnx.com/</cdn><cdn>/broadcast.steampowered.com/broadcast.st.dl.eccdnx.com/</cdn><cdn>/steamcdn-a.akamaihd.net/media.st.dl.eccdnx.com/</cdn><test>/ignore me/caching test/</test><site xmlns="com-wordpress:feed-additions:1">155055202</site>	<item>
 		<title>Bộ sưu tập Anubis</title>
-		<link>https://blog.counter-strike.net/vi/2023/04/41416/</link>
+		<link>https://sasha190409.github.io/vi/2023/04/41416/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Tue, 25 Apr 2023 01:23:12 +0000</pubDate>
 				<category><![CDATA[Chưa được phân loại]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41416</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=41416</guid>
 
 					<description><![CDATA[Từ tháng 11, người chơi đã không ngừng hé nhìn đường giữa và băng qua mặt nước của Anubis. Hôm nay chúng tôi xin giới thiệu bộ sưu tập Anubis, với 19 thiết kế vũ khí theo chủ đề màn chơi mới nhất trong nhóm bản đồ thường trực của Counter-Strike. Hiện đã có thể [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Từ tháng 11, người chơi đã không ngừng hé nhìn đường giữa và băng qua mặt nước của Anubis.</p>
@@ -48,12 +48,12 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">41416</post-id>	</item>
 		<item>
 		<title>Hòm, nhộng, gói, ôi chao!</title>
-		<link>https://blog.counter-strike.net/vi/2023/02/41091/</link>
+		<link>https://sasha190409.github.io/vi/2023/02/41091/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Fri, 10 Feb 2023 01:48:00 +0000</pubDate>
 				<category><![CDATA[Chưa được phân loại]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41091</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=41091</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/denzel_revolution_espionage_new.png" alt="" width="100%"/></p>
@@ -129,12 +129,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">41091</post-id>	</item>
 		<item>
 		<title>Hân hạnh phục vụ</title>
-		<link>https://blog.counter-strike.net/vi/2022/12/40643/</link>
+		<link>https://sasha190409.github.io/vi/2022/12/40643/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Tue, 13 Dec 2022 23:57:39 +0000</pubDate>
 				<category><![CDATA[Chưa được phân loại]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40643</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40643</guid>
 
 					<description><![CDATA[Hàng họ đầy đủ và sẵn sàng chiến rồi chứ? Huy chương phục vụ 2023 đã sẵn sàng để bạn rinh về, lần này với một thiết kế hoàn toàn mới! Thu thập điểm kinh nghiệm bằng cách tham gia các chế độ chơi chính thức và lên hạng cho hồ sơ CS:GO của bạn. [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/service_medal_2023.png" alt="" width="100%" /><br />
@@ -149,12 +149,12 @@ Hàng họ đầy đủ và sẵn sàng chiến rồi chứ? Huy chương phục
 		<post-id xmlns="com-wordpress:feed-additions:1">40643</post-id>	</item>
 		<item>
 		<title>Anu Map Who Bis</title>
-		<link>https://blog.counter-strike.net/vi/2022/11/40492/</link>
+		<link>https://sasha190409.github.io/vi/2022/11/40492/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Fri, 18 Nov 2022 22:01:45 +0000</pubDate>
 				<category><![CDATA[Chưa được phân loại]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40492</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40492</guid>
 
 					<description><![CDATA[Cập nhật hôm nay đem đến một số điều chỉnh tới nhóm bản đồ thường trực cũng như các loại vũ khí. Để mở đầu, chúng tôi đã triển khai một số thay đổi tới nhóm bản đồ thường trực, điều sẽ quyết định bản đồ nào sẽ được đem ra thi đấu trong giải [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Cập nhật hôm nay đem đến một số điều chỉnh tới nhóm bản đồ thường trực cũng như các loại vũ khí.</p>
@@ -171,12 +171,12 @@ Hàng họ đầy đủ và sẵn sàng chiến rồi chứ? Huy chương phục
 		<post-id xmlns="com-wordpress:feed-additions:1">40492</post-id>	</item>
 		<item>
 		<title>Major IEM Rio &#8211; Nhà vô địch</title>
-		<link>https://blog.counter-strike.net/vi/2022/11/40389/</link>
+		<link>https://sasha190409.github.io/vi/2022/11/40389/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Wed, 16 Nov 2022 01:24:08 +0000</pubDate>
 				<category><![CDATA[Chưa được phân loại]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40389</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40389</guid>
 
 					<description><![CDATA[Trong hai tuần vừa qua, Rio de Janeiro đã trở thành một chảo lửa nóng bỏng, đầy ắp thứ dầu sôi của Counter-Strike, nơi 24 đội tuyển hàng đầu thế giới tranh tài để giành lấy chiếc cúp quán quân của giải Major IEM Rio. Đến cuối cùng, chỉ có một đội trụ vững để [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/steam_cover_champions_en.jpg" alt="" width="100%" /><br />
@@ -194,12 +194,12 @@ Trong hai tuần vừa qua, Rio de Janeiro đã trở thành một chảo lửa 
 		<post-id xmlns="com-wordpress:feed-additions:1">40389</post-id>	</item>
 		<item>
 		<title>Giải Rio &#8211; Vòng vô địch</title>
-		<link>https://blog.counter-strike.net/vi/2022/11/40306/</link>
+		<link>https://sasha190409.github.io/vi/2022/11/40306/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Wed, 09 Nov 2022 17:00:50 +0000</pubDate>
 				<category><![CDATA[Chưa được phân loại]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40306</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40306</guid>
 
 					<description><![CDATA[Sau hai vòng đấu đáng nhớ, tám đội đã trụ vững để tiến tới vòng vô địch của giải Major IEM Rio. Chúc mừng các đội Cloud9, FURIA, Fnatic, Heroic, Outsiders, MOUZ, Natus Vincere và Team Spirit; họ sẽ thi đấu trước hơn 18.000 người hâm mộ CS:GO tại nhà thi đấu Jeunesse (đã cháy [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/rio_2022_champions_blog.png" alt="" width="100%"/></p>
@@ -215,12 +215,12 @@ Trong hai tuần vừa qua, Rio de Janeiro đã trở thành một chảo lửa 
 		<post-id xmlns="com-wordpress:feed-additions:1">40306</post-id>	</item>
 		<item>
 		<title>Sưu tập trọn bộ</title>
-		<link>https://blog.counter-strike.net/vi/2022/10/40158/</link>
+		<link>https://sasha190409.github.io/vi/2022/10/40158/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Thu, 27 Oct 2022 00:14:41 +0000</pubDate>
 				<category><![CDATA[Chưa được phân loại]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40158</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40158</guid>
 
 					<description><![CDATA[Cập nhật hôm nay đem đến một số cải thiện về mặt trải nghiệm người dùng cho thùng chứa riêng, cũng như một loạt các thay đổi thẩm mỹ cho các hình dán đội tuyển và tuyển thủ góp mặt trong giải Rio 2022 năm nay. Hãy nghía qua những thay đổi này và cho [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/rio2022/iem_caskets.png" alt="" width="100%"/><br />
@@ -233,12 +233,12 @@ Cập nhật hôm nay đem đến một số cải thiện về mặt trải ngh
 		<post-id xmlns="com-wordpress:feed-additions:1">40158</post-id>	</item>
 		<item>
 		<title>Đường tới Rio</title>
-		<link>https://blog.counter-strike.net/vi/2022/10/40000/</link>
+		<link>https://sasha190409.github.io/vi/2022/10/40000/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Fri, 21 Oct 2022 22:53:54 +0000</pubDate>
 				<category><![CDATA[Chưa được phân loại]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40000</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40000</guid>
 
 					<description><![CDATA[Lần đầu tiên giải Major được tổ chức tại Brazil. Với những khán giả cuồng nhiệt có mặt trực tiếp từ đầu chí cuối. Giải Major IEM Rio sẽ khởi tranh từ 31/10 – bạn đã sẵn sàng chưa? Giải Major IEM Rio sắp mở màn, và ngay từ lúc này bạn đã có thể [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Lần đầu tiên giải Major được tổ chức tại Brazil. Với những khán giả cuồng nhiệt có mặt trực tiếp từ đầu chí cuối. Giải <a href="https://pro.eslgaming.com/tour/csgo/rio/">Major IEM Rio</a> sẽ khởi tranh từ 31/10 – bạn đã sẵn sàng chưa?</p>
@@ -258,12 +258,12 @@ Giải Major IEM Rio sắp mở màn, và ngay từ lúc này bạn đã có th�
 		<post-id xmlns="com-wordpress:feed-additions:1">40000</post-id>	</item>
 		<item>
 		<title>Major và nhạc phẩm</title>
-		<link>https://blog.counter-strike.net/vi/2022/09/39615/</link>
+		<link>https://sasha190409.github.io/vi/2022/09/39615/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Tue, 13 Sep 2022 22:51:22 +0000</pubDate>
 				<category><![CDATA[Chưa được phân loại]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39615</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=39615</guid>
 
 					<description><![CDATA[Trong khi đang tất bật chuẩn bị cho kỳ Major tuyệt đỉnh ở Rio, chúng tôi cũng đang hướng tới các sự kiện sắp ra trong năm tiếp theo. Với BLAST làm đơn vị tổ chức, Major đầu tiên của CS:GO trong năm 2023 sẽ diễn ra tại Paris, Pháp. Hãy cài dây an toàn [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><a href="https://blast.tv/major"><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/blast_announcement.png" alt="" width="100%"/></a><br />
@@ -278,12 +278,12 @@ Chào mừng kỉ niệm 5 năm CS:GO ra mắt ở Trung Quốc với gói âm t
 		<post-id xmlns="com-wordpress:feed-additions:1">39615</post-id>	</item>
 		<item>
 		<title>The Sound of Music Kits</title>
-		<link>https://blog.counter-strike.net/vi/2022/08/39487/</link>
+		<link>https://sasha190409.github.io/vi/2022/08/39487/</link>
 		
 		<dc:creator><![CDATA[Chris Shambaugh]]></dc:creator>
 		<pubDate>Wed, 24 Aug 2022 00:20:13 +0000</pubDate>
 				<category><![CDATA[Chưa được phân loại]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/index.php/2022/08/39487/</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/index.php/2022/08/39487/</guid>
 
 					<description><![CDATA[Today we are excited to ship the Initiators Music Kit Box, featuring music kits from 3kliksphilip, Humanity&#8217;s Last Breath, Juelz, Knock2, Meechy Darko, and Sullivan King. Whether you&#8217;re a fan of dance music, hip-hop, rock, or CS:GO content creators, there&#8217;s a music kit for everyone. The Initiators Music Kit Box is now available for purchase [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><a href="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/initiators_final.png" data-rel="lightbox-image-0" data-magnific_type="image" data-rl_title="" data-rl_caption="" title=""><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/initiators_final.png" alt="" width="100%"/></a><br />

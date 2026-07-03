@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Counter-Strike: Global Offensive</title>
-	<atom:link href="https://blog.counter-strike.net/uk/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog.counter-strike.net/uk/</link>
+	<atom:link href="https://sasha190409.github.io/uk/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sasha190409.github.io/uk/</link>
 	<description></description>
 	<lastBuildDate>Thu, 27 Apr 2023 17:58:19 +0000</lastBuildDate>
 	<language>uk-UA</language>
@@ -23,18 +23,18 @@
 <image>
 	<url>https://s0.wp.com/i/webclip.png</url>
 	<title>Counter-Strike: Global Offensive</title>
-	<link>https://blog.counter-strike.net/uk/</link>
+	<link>https://sasha190409.github.io/uk/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <cdn>/media.steampowered.com/media.st.dl.eccdnx.com/</cdn><cdn>/broadcast.steampowered.com/broadcast.st.dl.eccdnx.com/</cdn><cdn>/steamcdn-a.akamaihd.net/media.st.dl.eccdnx.com/</cdn><test>/ignore me/caching test/</test><site xmlns="com-wordpress:feed-additions:1">155055202</site>	<item>
 		<title>Колекція «Anubis»</title>
-		<link>https://blog.counter-strike.net/uk/2023/04/41413/</link>
+		<link>https://sasha190409.github.io/uk/2023/04/41413/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Tue, 25 Apr 2023 01:23:12 +0000</pubDate>
 				<category><![CDATA[Home @uk]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41413</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=41413</guid>
 
 					<description><![CDATA[З листопада гравці крадькома заглядали в центр і наступали через води на мапі Anubis. Сьогодні ми представляємо колекцію «Anubis», що містить 19 тематичних оздоблень зброї, присвячених новій мапі в групі «Регулярна служба». Колекцію «Anubis» вже можна придбати в грі.]]></description>
 										<content:encoded><![CDATA[<p>З листопада гравці крадькома заглядали в центр і наступали через води на мапі Anubis.</p>
@@ -48,12 +48,12 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">41413</post-id>	</item>
 		<item>
 		<title>Футляр, капсула, альбом! Оце так!</title>
-		<link>https://blog.counter-strike.net/uk/2023/02/41093/</link>
+		<link>https://sasha190409.github.io/uk/2023/02/41093/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Fri, 10 Feb 2023 01:48:00 +0000</pubDate>
 				<category><![CDATA[Home @uk]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=41093</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=41093</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/revolution_case_update/denzel_revolution_espionage_new.png" alt="" width="100%"/></p>
@@ -129,12 +129,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">41093</post-id>	</item>
 		<item>
 		<title>До ваших послуг</title>
-		<link>https://blog.counter-strike.net/uk/2022/12/40641/</link>
+		<link>https://sasha190409.github.io/uk/2022/12/40641/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Tue, 13 Dec 2022 23:57:39 +0000</pubDate>
 				<category><![CDATA[Home @uk]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40641</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40641</guid>
 
 					<description><![CDATA[Здобули найбільше звання й готові? Нова медаль за службу 2023 стане доступною з першого січня 2023 року! Грайте в офіційних режимах, заробляйте досвід і підвищуйте своє звання профілю CS:GO. Коли ви досягнете звання «Генерал Армії» (це 40 ранг), то отримаєте можливість скинути його й заробити (чи поліпшити) свою медаль за службу. Медаль можна буде показувати [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/service_medal_2023.png" alt="" width="100%" /><br />
@@ -149,12 +149,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">40641</post-id>	</item>
 		<item>
 		<title>Ану на біс (Anu Map Who Bis)</title>
-		<link>https://blog.counter-strike.net/uk/2022/11/40566/</link>
+		<link>https://sasha190409.github.io/uk/2022/11/40566/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Fri, 18 Nov 2022 22:01:45 +0000</pubDate>
 				<category><![CDATA[Home @uk]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40566</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40566</guid>
 
 					<description><![CDATA[Сьогоднішнє оновлення містить зміни до переліку мап регулярної служби, а також деякі зміни до зброї. Для початку: ми вносимо зміни до переліку мап регулярної служби, з якого будуть вибрані мапи, на яких гратимуть команди великого турніру в Парижі у 2023 році. Anubis додано до переліку мап регулярної служби, а Dust II з нього видалено. Але [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Сьогоднішнє оновлення містить зміни до переліку мап регулярної служби, а також деякі зміни до зброї.</p>
@@ -171,12 +171,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">40566</post-id>	</item>
 		<item>
 		<title>Чемпіони великого турніру «IEM Ріо 2022»</title>
-		<link>https://blog.counter-strike.net/uk/2022/11/40356/</link>
+		<link>https://sasha190409.github.io/uk/2022/11/40356/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Wed, 16 Nov 2022 01:24:08 +0000</pubDate>
 				<category><![CDATA[Home @uk]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40356</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40356</guid>
 
 					<description><![CDATA[Протягом останніх двох тижнів Ріо-де-Жанейро був центром Counter-Strike, де 24 найкращі команди світу боролися за те, щоби стати чемпіонами великого турніру «IEM Ріо 2022». Зрештою, залишилася лише одна команда, оскільки Outsiders перемогли Heroic на Mirage та Overpass і забезпечили собі перший великий чемпіонат! Щоби вшанувати наших нових чемпіонів, сьогодні ми випускаємо капсулу з автографами чемпіонів, [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/rio_champions/ukrainian.jpg" alt="" width="100%" /><br />
@@ -194,12 +194,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">40356</post-id>	</item>
 		<item>
 		<title>Етап чемпіонів великого турніру в Ріо</title>
-		<link>https://blog.counter-strike.net/uk/2022/11/40304/</link>
+		<link>https://sasha190409.github.io/uk/2022/11/40304/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Wed, 09 Nov 2022 17:00:50 +0000</pubDate>
 				<category><![CDATA[Home @uk]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40304</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40304</guid>
 
 					<description><![CDATA[Після двох незабутніх етапів лишилося вісім команд, які переходять до етапу чемпіонів великого турніру «IEM Ріо 2022». Вітаємо Cloud9, FURIA, Fnatic, Heroic, Outsiders, MOUZ, Natus Vincere та Team Spirit. Ці команди зійдуться у двобоях за звання чемпіона перед більш ніж 18 тисячами шанувальників CS:GO на арені Jeunesse в Ріо. Етап чемпіонів розпочинається у четвер, 10 [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/rio_2022_champions_blog.png" alt="" width="100%"/></p>
@@ -215,12 +215,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">40304</post-id>	</item>
 		<item>
 		<title>Повна колекція</title>
-		<link>https://blog.counter-strike.net/uk/2022/10/40153/</link>
+		<link>https://sasha190409.github.io/uk/2022/10/40153/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Thu, 27 Oct 2022 00:14:41 +0000</pubDate>
 				<category><![CDATA[Home @uk]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=40153</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=40153</guid>
 
 					<description><![CDATA[Сьогоднішнє оновлення містить кілька поліпшень до сховищ для зберігання, а також купу візуальних виправлень наліпок команд і гравців «Ріо 2022». Перегляньте їх та повідомте нам, що думаєте! Шукаєте простий спосіб завершити свою колекцію наліпок, підтримуючи всі команди та гравців? Сховища для зберігання «Ріо 2022» вже доступні для придбання. Придбайте сховище для зберігання з паперовими наліпками [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/rio2022/iem_caskets.png" alt="" width="100%"/><br />
@@ -233,12 +233,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">40153</post-id>	</item>
 		<item>
 		<title>Довгий шлях до Ріо</title>
-		<link>https://blog.counter-strike.net/uk/2022/10/39960/</link>
+		<link>https://sasha190409.github.io/uk/2022/10/39960/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Fri, 21 Oct 2022 22:53:54 +0000</pubDate>
 				<category><![CDATA[Home @uk]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39960</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=39960</guid>
 
 					<description><![CDATA[Перший великий турнір з CS:GO у Бразилії. Жива аудиторія від початку до кінця. Чемпіонат «IEM Ріо 2022» починається 31 жовтня. Ви готові? Великий турнір «IEM Ріо 2022» наближається, тож тепер ви можете підтримати улюблену команду — наліпки команд-учасниць, автографи гравців та глядацька перепустка «Ріо 2022» уже доступні для придбання! 50% від усіх прибутків отримуватимуть гравці, [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Перший великий турнір з CS:GO у Бразилії. Жива аудиторія від початку до кінця. Чемпіонат «IEM Ріо 2022» починається 31 жовтня. Ви готові?</p>
@@ -258,12 +258,12 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">39960</post-id>	</item>
 		<item>
 		<title>Великі турніри та музика</title>
-		<link>https://blog.counter-strike.net/uk/2022/09/39614/</link>
+		<link>https://sasha190409.github.io/uk/2022/09/39614/</link>
 		
 		<dc:creator><![CDATA[CS:GO Team]]></dc:creator>
 		<pubDate>Tue, 13 Sep 2022 22:51:22 +0000</pubDate>
 				<category><![CDATA[Home @uk]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/?p=39614</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/?p=39614</guid>
 
 					<description><![CDATA[Готуючись до неймовірного великого турніру в Ріо, ми також з нетерпінням чекаємо подій наступного року. Перший великий турнір 2023 року з CS:GO, організований BLAST, відбудеться в Парижі, Франція. Приготуйтеся і вперед на BLAST.TV Major! П&#8217;ять років CS:GO в Китаї Святкуйте п’яту річницю випуску CS:GO у Китаї з унікальним музичним альбомом 花脸 Hua Lian (Painted Face), [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><a href="https://blast.tv/major"><img decoding="async" src="https://cdn.akamai.steamstatic.com/apps/csgo/images/blog/blast_announcement.png" alt="" width="100%"/></a><br />
@@ -278,13 +278,13 @@ $j(window).load(function () {
 		<post-id xmlns="com-wordpress:feed-additions:1">39614</post-id>	</item>
 		<item>
 		<title>Release Notes for 8/23/2022</title>
-		<link>https://blog.counter-strike.net/uk/2022/08/39545/</link>
+		<link>https://sasha190409.github.io/uk/2022/08/39545/</link>
 		
 		<dc:creator><![CDATA[csgo_brian]]></dc:creator>
 		<pubDate>Wed, 24 Aug 2022 00:20:16 +0000</pubDate>
 				<category><![CDATA[Home @uk]]></category>
 		<category><![CDATA[Updates]]></category>
-		<guid isPermaLink="false">https://blog.counter-strike.net/index.php/2022/08/39545/</guid>
+		<guid isPermaLink="false">https://sasha190409.github.io/index.php/2022/08/39545/</guid>
 
 					<description><![CDATA[[ MUSIC KITS ] – Added the Initiators Music Kit Box and the StatTrak™ Initiators Music Kit Box, featuring 6 new music kits: — 3kliksphilip, Heading for the Source — Humanity&#8217;s Last Breath, Void — Juelz, Shooters — Knock2, dashstar* — Meechy Darko, Gothic Luxury — Sullivan King, Lock Me Up [ MISC ] – [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>[ MUSIC KITS ]<br />

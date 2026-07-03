@@ -1,5 +1,5 @@
-Sitemap: https://blog.counter-strike.net/sitemap.xml
-Sitemap: https://blog.counter-strike.net/news-sitemap.xml
+Sitemap: https://sasha190409.github.io/sitemap.xml
+Sitemap: https://sasha190409.github.io/news-sitemap.xml
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php

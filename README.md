@@ -1,3 +1,6 @@
-# so this is my test site
-its actully on russian but chess doesnt (/)
-idk just do anything  yall want
+# 1:1 copy of https://blog.counter-strike.net
+
+idk why i made this but anyways
+
+
+mb incomplete cuz my pc crashed

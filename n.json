@@ -1,1 +1,65 @@
-{}
+{
+  "events": [
+    {
+      "gid": "100000000000000001",
+      "clan_steamid": "103582791432902485",
+      "event_name": "ПОДПИСЫВАЙСЯ НА МОЙ ТГК!!!",
+      "event_type": 13,
+      "appid": 730,
+      "server_address": null,
+      "server_password": null,
+      "rtime32_start_time": 1783610460,
+      "rtime32_end_time": 1783610460,
+      "comment_count": 0,
+      "creator_steamid": "0",
+      "last_update_steamid": "0",
+      "event_notes": "auto added",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/3840px-Telegram_logo.svg.png",
+      "jsondata": "{\"localized_title_image\": [\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/3840px-Telegram_logo.svg.png\", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null], \"localized_capsule_image\": [\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/3840px-Telegram_logo.svg.png\", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null], \"bSaleEnabled\": false, \"sale_show_creator\": false, \"sale_sections\": [], \"sale_browsemore_text\": \"\", \"sale_browsemore_url\": \"\", \"sale_browsemore_color\": \"\", \"sale_browsemore_bgcolor\": \"\", \"referenced_appids\": [], \"bBroadcastEnabled\": false, \"broadcastChatSetting\": \"hide\", \"default_broadcast_title\": \"#Broadcast_default_title_dev\", \"broadcast_whitelist\": [], \"bScheduleEnabled\": false, \"scheduleEntries\": [], \"automatically_push_updated_source\": true}",
+      "announcement_body": {
+        "gid": "100000000000000011",
+        "clanid": "0",
+        "posterid": "0",
+        "headline": "ПОДПИСЫВАЙСЯ НА МОЙ ТГК!!!",
+        "posttime": 1783610460,
+        "updatetime": 1783610460,
+        "body": "ПОДПИСЫВАЙСЯ!!!",
+        "commentcount": 0,
+        "tags": [
+          "auto"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "100000000000000021",
+        "event_gid": "100000000000000001",
+        "voteupcount": 9999,
+        "votedowncount": 0,
+        "ban_check_result": 0,
+        "banned": 0
+      },
+      "published": 1,
+      "hidden": 0,
+      "rtime32_visibility_start": 0,
+      "rtime32_visibility_end": 0,
+      "broadcaster_accountid": 0,
+      "follower_count": 0,
+      "ignore_count": 0,
+      "forum_topic_id": "100000000000000021",
+      "rtime32_last_modified": 1783610460,
+      "news_post_gid": "0",
+      "rtime_mod_reviewed": 1783610460,
+      "featured_app_tagid": 0,
+      "referenced_appids": [],
+      "build_id": 0,
+      "build_branch": "",
+      "unlisted": 0,
+      "rtime_created": 0,
+      "votes_up": 9999,
+      "votes_down": 0,
+      "comment_type": "ForumTopic",
+      "gidfeature": "0",
+      "gidfeature2": "0",
+      "clan_steamid_original": "103582791432902485"
+    }
+  ]
+}

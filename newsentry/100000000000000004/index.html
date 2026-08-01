@@ -1,42 +1,67 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Loading...</title>
-
-    <script>
-        // Меняй ссылку только здесь
-        const REDIRECT_URL = "https://www.youtube.com/watch?v=-ClIOUbHqC0";
-
-        function redirect() {
-            window.location.href = REDIRECT_URL;
-        }
-
-        // Автоматический редирект сразу после загрузки страницы
-        window.onload = function () {
-            setTimeout(redirect, 0);
-        };
-    </script>
-
+    <title>CS2 to CSGO Inventory Converter</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin-top: 100px;
-        }
-
-        button {
-            padding: 12px 24px;
-            font-size: 16px;
-            cursor: pointer;
-        }
+        body { font-family: Arial, sans-serif; padding: 20px; max-width: 800px; margin: auto; }
+        textarea { width: 100%; height: 300px; font-family: monospace; }
+        button { padding: 10px 20px; font-size: 16px; }
+        .error { color: red; }
     </style>
 </head>
 <body>
-    <p>Если автоматический переход не сработал, нажмите кнопку:</p>
+    <h1>CS2 Inventory to CSGO Format Converter</h1>
+    <p>Enter your 17-digit Steam64 ID (e.g., 76561198389912800).</p>
+    <input type="text" id="steamid" placeholder="Steam64 ID" size="30">
+    <button id="fetchBtn">Fetch & Convert</button>
+    <div id="status"></div>
+    <h3>Output (Copy this into your <code>items_game.txt</code> or editor):</h3>
+    <textarea id="output" readonly></textarea>
+    <button id="copyBtn">Copy to Clipboard</button>
 
-    <button onclick="redirect()">
-        Redirect
-    </button>
+    <script>
+        const fetchBtn = document.getElementById('fetchBtn');
+        const copyBtn = document.getElementById('copyBtn');
+        const steamidInput = document.getElementById('steamid');
+        const outputTextarea = document.getElementById('output');
+        const statusDiv = document.getElementById('status');
+
+        fetchBtn.addEventListener('click', async () => {
+            const steamid = steamidInput.value.trim();
+            if (!steamid || steamid.length !== 17 || isNaN(steamid)) {
+                statusDiv.innerHTML = '<span class="error">Please enter a valid 17-digit Steam64 ID.</span>';
+                return;
+            }
+
+            statusDiv.innerHTML = 'Fetching and converting...';
+            outputTextarea.value = '';
+
+            try {
+                // Replace this URL with your actual Cloudflare Worker URL
+                const workerUrl = `https://yellow-tooth-3f1b.ivanhihlov4.workers.dev/?steamid=${steamid}`;
+                const response = await fetch(workerUrl);
+
+                if (!response.ok) {
+                    const errorText = await response.text();
+                    throw new Error(`Server error: ${response.status} - ${errorText}`);
+                }
+
+                const text = await response.text();
+                outputTextarea.value = text;
+                statusDiv.innerHTML = `<span style="color: green;">✅ Success! Found ${text.split('"inventory"').length - 1} items.</span>`;
+            } catch (error) {
+                statusDiv.innerHTML = `<span class="error">❌ Error: ${error.message}</span>`;
+            }
+        });
+
+        copyBtn.addEventListener('click', () => {
+            outputTextarea.select();
+            navigator.clipboard.writeText(outputTextarea.value).then(() => {
+                alert('Copied to clipboard!');
+            }).catch(() => {
+                alert('Failed to copy. Please select and copy manually.');
+            });
+        });
+    </script>
 </body>
 </html>
